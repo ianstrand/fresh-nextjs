@@ -40,4 +40,17 @@ seo:
 layout: post
 ---
 
-https://unsplash.com/photos/uO4Au3LrCtk
+https://strandian.com/SDCCD/webd173/opencart/ - OpenCart website
+
+https://codesandbox.io/s/cckut - Code Sandbox Navbar
+
+https://ianstrand.github.io/webd171-2/ - Navbar
+
+https://ianstrand.github.io/webd171-3/ - Navbar with Props
+
+https://ianstrand.github.io/webd171-4/ - Navbar with State
+
+https://ianstrand.github.io/webd171-5/ - Weather App
+
+https://webd171-7.netlify.app/ - Website with Routing
+
