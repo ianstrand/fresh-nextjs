@@ -40,7 +40,7 @@ seo:
 layout: post
 ---
 
-<a href="https://strandian.com/SDCCD/webd173/opencart/" target="_blank">https://strandian.com/SDCCD/webd173/opencart/</a>
+<a href="https://strandian.com/SDCCD/webd173/opencart/" target="_blank">https://strandian.com/SDCCD/webd173/opencart/</a> <br />OpenCart website
 
 https://strandian.com/SDCCD/webd173/opencart/ - OpenCart website
 
