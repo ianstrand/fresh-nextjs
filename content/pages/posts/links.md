@@ -122,6 +122,8 @@ layout: post
 
 <a href="https://strandian.com/SDCCD/webd164/final-project/" target="_blank">https://strandian.com/SDCCD/webd164/final-project/</a> <br />Image Gallery
 
+<a href="https://drive.google.com/file/d/1LvHIb3xa4KUzMrcejXhnncu2jA7fqWFD/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1LvHIb3xa4KUzMrcejXhnncu2jA7fqWFD/view?usp=sharing</a> <br />YouTube Clone - currently not working; I am trying to fix and deploy an updated version <br /> (Current repository at <a href="https://github.com/ianstrand/webd171-7" target="_blank">https://github.com/ianstrand/webd171-7</a>)
+
 <a href="https://strandian.com/SDCCD/webd152/" target="_blank">https://strandian.com/SDCCD/webd152/</a> <br />CatMatch
 
 <a href="https://strandoutmedia.com/" target="_blank">https://strandoutmedia.com/</a> <br />Portfolio created as User-Centered Content
