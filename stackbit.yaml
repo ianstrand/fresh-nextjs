@@ -283,12 +283,12 @@ models:
         name: seo
         models:
           - stackbit_page_meta
-  blog:
+  portfolio:
     type: page
-    urlPath: /blog
-    label: Blog
-    layout: blog
-    file: blog/index.md
+    urlPath: /portfolio
+    label: Portfolio
+    layout: portfolio
+    file: portfolio/index.md
     hideContent: true
     singleInstance: true
     fields:
@@ -350,12 +350,12 @@ models:
         required: true
       - type: image
         name: thumb_img_path
-        label: Image (blog feed)
-        description: The image shown in the blog feed.
+        label: Image (portfolio)
+        description: The image shown in the portfolio feed.
       - type: string
         name: thumb_img_alt
-        label: Image alt text (blog feed)
-        description: The alt text of the blog feed image.
+        label: Image alt text (portfolio)
+        description: The alt text of the portfolio feed image.
       - type: image
         name: content_img_path
         label: Image (single post)
@@ -367,7 +367,7 @@ models:
       - type: string
         name: excerpt
         label: Excerpt
-        description: The excerpt of the post displayed in the blog feed.
+        description: The excerpt of the post displayed in the portfolio feed.
       - type: model
         name: seo
         models:
