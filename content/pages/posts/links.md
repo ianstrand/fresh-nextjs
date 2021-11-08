@@ -90,7 +90,7 @@ layout: post
 
 <a href="https://strandian.com/SDCCD/webd166/04/solutions/pursue_2.php" target="_blank">https://strandian.com/SDCCD/webd166/04/solutions/pursue_2.php</a> <br />Delivery Calculator
 
-<a href="https://strandian.com/SDCCD/webd166/04/solutions/pursue_2.php" target="_blank">https://strandian.com/SDCCD/webd166/04/solutions/pursue_2.php</a> <br />Submit Post
+<a href="https://strandian.com/SDCCD/webd166/05/solutions/posting.php" target="_blank">https://strandian.com/SDCCD/webd166/05/solutions/posting.php</a> <br />Submit Post
 
 <a href="https://strandian.com/SDCCD/webd166/06/solutions/register.php" target="_blank">https://strandian.com/SDCCD/webd166/06/solutions/register.php</a> <br />Online Registration
 
@@ -153,3 +153,7 @@ layout: post
 <a href="https://strandian.com/SDCCD/webd167/coursework/lessons/ch13/calculator.php" target="_blank">https://strandian.com/SDCCD/webd167/coursework/lessons/ch13/calculator.php</a> <br />Cost Calculator
 
 <a href="https://strandian.com/SDCCD/webd167/coursework/lessons/ch13/email.php" target="_blank">https://strandian.com/SDCCD/webd167/coursework/lessons/ch13/email.php</a> <br />Contact Form
+
+<a href="https://strandoutmedia.com/portfolio/graphic" target="_blank">https://strandoutmedia.com/portfolio/graphic</a> <br />Graphic Design Examples
+
+<a href="https://strandoutmedia.com/portfolio/illustration" target="_blank">https://strandoutmedia.com/portfolio/illustration</a> <br />Digital Illustration
