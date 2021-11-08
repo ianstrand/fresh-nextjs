@@ -40,7 +40,7 @@ seo:
 layout: post
 ---
 
-https://strandian.com/SDCCD/webd173/opencart/ 
+https://strandian.com/SDCCD/webd173/opencart/ {"\n"}
 OpenCart website
 
 https://codesandbox.io/s/cckut 
