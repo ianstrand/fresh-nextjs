@@ -1,17 +1,17 @@
 ---
-title: Portfolio
+title: Blog
 seo:
-  title: Portfolio
-  description: This is the portfolio page
+  title: Blog
+  description: This is the blog page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Portfolio
+      value: Blog
       keyName: property
     - name: 'og:description'
-      value: This is the portfolio page
+      value: This is the blog page
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
@@ -20,9 +20,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Portfolio
+      value: Blog
     - name: 'twitter:description'
-      value: This is the portfolio page
+      value: This is the blog page
     - name: 'twitter:image'
       value: images/1.jpg
       relativeUrl: true

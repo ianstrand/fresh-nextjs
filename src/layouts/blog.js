@@ -5,7 +5,7 @@ import moment from 'moment-strftime';
 import { Layout } from '../components/index';
 import { Link, getPageUrl, withPrefix } from '../utils';
 
-export default class Portfolio extends React.Component {
+export default class Blog extends React.Component {
     renderPost(post, index) {
         const title = _.get(post, 'title');
         const thumbImage = _.get(post, 'thumb_img_path');

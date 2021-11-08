@@ -25,8 +25,8 @@ sections:
     title: Recent Posts
     posts_number: 4
     actions:
-      - label: View Portfolio
-        url: portfolio/index.html
+      - label: View Blog
+        url: blog/index.html
         style: button
 seo:
   title: Stackbit Fresh Theme
