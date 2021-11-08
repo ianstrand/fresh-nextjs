@@ -42,118 +42,114 @@ layout: post
 
 <a href="https://strandian.com/SDCCD/webd173/opencart/" target="_blank">https://strandian.com/SDCCD/webd173/opencart/</a> <br />OpenCart website
 
-https://strandian.com/SDCCD/webd173/opencart/ - OpenCart website
+<a href="https://codesandbox.io/s/cckut" target="_blank">https://codesandbox.io/s/cckut</a> <br />Code Sandbox Navbar
 
-https://codesandbox.io/s/cckut - Code Sandbox Navbar
+<a href="https://ianstrand.github.io/webd171-2/" target="_blank">https://ianstrand.github.io/webd171-2/</a> <br />Navbar
 
-https://ianstrand.github.io/webd171-2/ - Navbar
+<a href="https://ianstrand.github.io/webd171-3/" target="_blank">https://ianstrand.github.io/webd171-3/</a> <br />Navbar with Props
 
-https://ianstrand.github.io/webd171-3/ - Navbar with Props
+<a href="https://ianstrand.github.io/webd171-4/" target="_blank">https://ianstrand.github.io/webd171-4/</a> <br />Navbar with State
 
-https://ianstrand.github.io/webd171-4/ - Navbar with State
+<a href="https://ianstrand.github.io/webd171-5/" target="_blank">https://ianstrand.github.io/webd171-5/</a> <br />Weather App
 
-https://ianstrand.github.io/webd171-5/ - Weather App
+<a href="https://webd171-7.netlify.app/" target="_blank">https://webd171-7.netlify.app/</a> <br />Website with Routing
 
-https://webd171-7.netlify.app/ - Website with Routing
+<a href="https://strandian.com/SDCCD/webd169/final/" target="_blank">https://strandian.com/SDCCD/webd169/final/</a> <br />WordPress site
 
-https://strandian.com/SDCCD/webd169/final/ - WordPress site
+<a href="https://strandian.com/SDCCD/webd168/ch01_assignment/01_setting_the_foundations.html" target="_blank">https://strandian.com/SDCCD/webd168/ch01_assignment/01_setting_the_foundations.html</a> <br />Web page
 
-https://strandian.com/SDCCD/webd168/ch01_assignment/01_setting_the_foundations.html - Web page
+<a href="https://strandian.com/SDCCD/webd168/ch02_assignment/start/07_nth-child_selector_start.html" target="_blank">https://strandian.com/SDCCD/webd168/ch02_assignment/start/07_nth-child_selector_start.html</a> <br />CSS selectors
 
-https://strandian.com/SDCCD/webd168/ch02_assignment/start/07_nth-child_selector_start.html - CSS selectors
+<a href="https://strandian.com/SDCCD/webd168/ch03_assignment/03_box_model_complete.html" target="_blank">https://strandian.com/SDCCD/webd168/ch03_assignment/03_box_model_complete.html</a> <br />CSS Box Model
 
-https://strandian.com/SDCCD/webd168/ch03_assignment/03_box_model_complete.html - CSS Box Model
+<a href="https://strandian.com/SDCCD/webd168/ch04_assignment/04_web_typography.html" target="_blank">https://strandian.com/SDCCD/webd168/ch04_assignment/04_web_typography.html</a> <br />Web Typography
 
-https://strandian.com/SDCCD/webd168/ch04_assignment/04_web_typography.html - Web Typography
+<a href="https://strandian.com/SDCCD/webd168/ch05_assignment/start/05_beautiful_boxes.html" target="_blank">https://strandian.com/SDCCD/webd168/ch05_assignment/start/05_beautiful_boxes.html</a> <br />Box Shadows
 
-https://strandian.com/SDCCD/webd168/ch05_assignment/start/05_beautiful_boxes.html - Box Shadows
+<a href="https://strandian.com/SDCCD/webd168/ch07_assignment/index.html" target="_blank">https://strandian.com/SDCCD/webd168/ch07_assignment/index.html</a> <br />Page Layout with Grids
 
-https://strandian.com/SDCCD/webd168/ch07_assignment/index.html - Page Layout with Grids
+<a href="https://strandian.com/SDCCD/webd168/ch08_assignment/ch08_acme.html" target="_blank">https://strandian.com/SDCCD/webd168/ch08_assignment/ch08_acme.html</a> <br />Responsive Web Design / CSS
 
-https://strandian.com/SDCCD/webd168/ch08_assignment/ch08_acme.html - Responsive Web Design / CSS
+<a href="https://strandian.com/SDCCD/webd168/ch08_assignment/whaleShark/whaleShark.html" target="_blank">https://strandian.com/SDCCD/webd168/ch08_assignment/whaleShark/whaleShark.html</a> <br />Whale Shark
 
-https://strandian.com/SDCCD/webd168/ch08_assignment/whaleShark/whaleShark.html - Whale Shark
+<a href="https://strandian.com/SDCCD/webd168/ch09_assignment/index.html" target="_blank">https://strandian.com/SDCCD/webd168/ch09_assignment/index.html</a> <br />Styling Data Tables
 
-https://strandian.com/SDCCD/webd168/ch09_assignment/index.html - Styling Data Tables
+<a href="https://strandian.com/SDCCD/webd168/ch09_assignment/contact/contact.html" target="_blank">https://strandian.com/SDCCD/webd168/ch09_assignment/contact/contact.html</a> <br />Styling Web Forms
 
-https://strandian.com/SDCCD/webd168/ch09_assignment/contact/contact.html - Styling Web Forms
+<a href="https://strandian.com/SDCCD/webd168/ch10_assignment/start/15-02-transitionTypes.html" target="_blank">https://strandian.com/SDCCD/webd168/ch10_assignment/start/15-02-transitionTypes.html</a> <br />Transitions
 
-https://strandian.com/SDCCD/webd168/ch10_assignment/start/15-02-transitionTypes.html - Transitions
+<a href="https://strandian.com/SDCCD/webd168/ch11_assignment/ch11_assignment.html" target="_blank">https://strandian.com/SDCCD/webd168/ch11_assignment/ch11_assignment.html</a> <br />SVG
 
-https://strandian.com/SDCCD/webd168/ch11_assignment/ch11_assignment.html - SVG
+<a href="https://strandian.com/SDCCD/webd168/ch12_assignment/index.html" target="_blank">https://strandian.com/SDCCD/webd168/ch12_assignment/index.html</a> <br />Loch Ness website
 
-https://strandian.com/SDCCD/webd168/ch12_assignment/index.html - Loch Ness website
+<a href="https://strandian.com/SDCCD/webd167/finalproject/" target="_blank">https://strandian.com/SDCCD/webd167/finalproject/</a> <br />Film Review / Databases
 
-https://strandian.com/SDCCD/webd167/finalproject/ - Film Review / Databases
+<a href="https://strandian.com/SDCCD/webd166/03/solutions/feedback.php" target="_blank">https://strandian.com/SDCCD/webd166/03/solutions/feedback.php</a> <br />Feedback Form
 
-https://strandian.com/SDCCD/webd166/03/solutions/feedback.php - Feedback Form
+<a href="https://strandian.com/SDCCD/webd166/03/solutions/hello.html" target="_blank">https://strandian.com/SDCCD/webd166/03/solutions/hello.html</a> <br />Name Entry
 
-https://strandian.com/SDCCD/webd166/03/solutions/hello.html - Name Entry
+<a href="https://strandian.com/SDCCD/webd166/04/solutions/pursue_2.php" target="_blank">https://strandian.com/SDCCD/webd166/04/solutions/pursue_2.php</a> <br />Delivery Calculator
 
-https://strandian.com/SDCCD/webd166/04/solutions/pursue_2.php - Delivery Calculator
+<a href="https://strandian.com/SDCCD/webd166/04/solutions/pursue_2.php" target="_blank">https://strandian.com/SDCCD/webd166/04/solutions/pursue_2.php</a> <br />Submit Post
 
-https://strandian.com/SDCCD/webd166/04/solutions/pursue_2.php - Submit Post
+<a href="https://strandian.com/SDCCD/webd166/06/solutions/register.php" target="_blank">https://strandian.com/SDCCD/webd166/06/solutions/register.php</a> <br />Online Registration
 
-https://strandian.com/SDCCD/webd166/06/solutions/register.php - Online Registration
+<a href="https://strandian.com/SDCCD/webd166/07/solutions/soups.php" target="_blank">https://strandian.com/SDCCD/webd166/07/solutions/soups.php</a> <br />Soups
 
-https://strandian.com/SDCCD/webd166/07/solutions/soups.php - Soups
+<a href="https://strandian.com/SDCCD/webd166/08/solutions/index.php" target="_blank">https://strandian.com/SDCCD/webd166/08/solutions/index.php</a> <br />Club Website
 
-https://strandian.com/SDCCD/webd166/08/solutions/index.php - Club Website
+<a href="https://strandian.com/SDCCD/webd166/09/solutions/customize.php" target="_blank">https://strandian.com/SDCCD/webd166/09/solutions/customize.php</a> <br />Customize CSS Form
 
+<a href="https://strandian.com/SDCCD/webd166/10/solutions/myfunction.php" target="_blank">https://strandian.com/SDCCD/webd166/10/solutions/myfunction.php</a> <br />Function Form
 
-https://strandian.com/SDCCD/webd166/09/solutions/customize.php - Customize CSS Form
+<a href="https://strandian.com/SDCCD/webd166/11/solutions/upload_file.php" target="_blank">https://strandian.com/SDCCD/webd166/11/solutions/upload_file.php</a> <br />File Upload
 
-https://strandian.com/SDCCD/webd166/10/solutions/myfunction.php - Function Form
+<a href="https://strandian.com/SDCCD/webd166/12/solutions/view_entries.php" target="_blank">https://strandian.com/SDCCD/webd166/12/solutions/view_entries.php</a> <br />Edit Blog Entry
 
-https://strandian.com/SDCCD/webd166/11/solutions/upload_file.php - File Upload
+<a href="https://strandian.com/SDCCD/webd166/13/solutions2/" target="_blank">https://strandian.com/SDCCD/webd166/13/solutions2/</a> <br />Quotes Website
 
-https://strandian.com/SDCCD/webd166/12/solutions/view_entries.php - Edit Blog Entry
+<a href="https://strandian.com/SDCCD/webd165/finalproject/" target="_blank">https://strandian.com/SDCCD/webd165/finalproject/</a> <br />Blog Layout
 
-https://strandian.com/SDCCD/webd166/13/solutions2/ - Quotes Website
+<a href="https://strandian.com/SDCCD/webd164/lessons/strand_homework-1.html" target="_blank">https://strandian.com/SDCCD/webd164/lessons/strand_homework-1.html</a> <br />JavaScript Syntax
 
-https://strandian.com/SDCCD/webd165/finalproject/ - Blog Layout
+<a href="https://strandian.com/SDCCD/webd164/lessons/strand_homework-2.html" target="_blank">https://strandian.com/SDCCD/webd164/lessons/strand_homework-2.html</a> <br />Calculator
 
-https://strandian.com/SDCCD/webd164/lessons/strand_homework-1.html - JavaScript Syntax
+<a href="https://strandian.com/SDCCD/webd164/lessons/strand_homework-3.html" target="_blank">https://strandian.com/SDCCD/webd164/lessons/strand_homework-3.html</a> <br />Events and Functions
 
-https://strandian.com/SDCCD/webd164/lessons/strand_homework-2.html - Calculator
+<a href="https://strandian.com/SDCCD/webd164/lessons/strand_homework-4.html" target="_blank">https://strandian.com/SDCCD/webd164/lessons/strand_homework-4.html</a> <br />Form Validation using DOM
 
-https://strandian.com/SDCCD/webd164/lessons/strand_homework-3.html - Events and Functions
+<a href="https://strandian.com/SDCCD/webd164/lessons/strand_homework-5.html" target="_blank">https://strandian.com/SDCCD/webd164/lessons/strand_homework-5.html</a> <br />Dynamic Validation of a Form
 
-https://strandian.com/SDCCD/webd164/lessons/strand_homework-4.html - Form Validation using DOM
+<a href="https://strandian.com/SDCCD/webd164/final-project/" target="_blank">https://strandian.com/SDCCD/webd164/final-project/</a> <br />Image Gallery
 
-https://strandian.com/SDCCD/webd164/lessons/strand_homework-5.html - Dynamic Validation of a Form
+<a href="https://strandian.com/SDCCD/webd152/" target="_blank">https://strandian.com/SDCCD/webd152/</a> <br />CatMatch
 
-https://strandian.com/SDCCD/webd164/final-project/ - Image Gallery
+<a href="https://strandoutmedia.com/" target="_blank">https://strandoutmedia.com/</a> <br />Portfolio created as User-Centered Content
 
-https://strandian.com/SDCCD/webd152/ - CatMatch
+<a href="https://strandian.com/SDCCD/portfolio-archive/" target="_blank">https://strandian.com/SDCCD/portfolio-archive/</a> <br />Archived Portfolio using template
 
-https://strandoutmedia.com/ - Portfolio created as User-Centered Content
+<a href="https://openprocessing.org/sketch/642529" target="_blank">https://openprocessing.org/sketch/642529</a> <br />OpenProcessing Sketch
 
-https://strandian.com/SDCCD/portfolio-archive/ - Archived Portfolio using template
+<a href="https://openprocessing.org/sketch/193833" target="_blank">https://openprocessing.org/sketch/193833</a> <br />OpenProcessing Sketch 2
 
-https://openprocessing.org/sketch/642529 - OpenProcessing Sketch
+<a href="https://northcoastalartgallery.com/" target="_blank">https://northcoastalartgallery.com/</a> <br />Webmaster for Gallery site
 
-https://openprocessing.org/sketch/193833 - OpenProcessing Sketch 2
+<a href="https://strandian.com/SDCCD/webd165/lesson12/mylayout.html" target="_blank">https://strandian.com/SDCCD/webd165/lesson12/mylayout.html</a> <br />Website Layout
 
-https://northcoastalartgallery.com/ - Webmaster for Gallery site
+<a href="https://strandian.com/SDCCD/webd165/lesson12/sidebars08.html" target="_blank">https://strandian.com/SDCCD/webd165/lesson12/sidebars08.html</a> <br />Sidebar Images
 
-https://strandian.com/SDCCD/webd165/lesson12/mylayout.html - Website Layout
+<a href="https://strandian.com/SDCCD/webd165/lesson11/" target="_blank">https://strandian.com/SDCCD/webd165/lesson11/</a> <br />Calendar
 
-https://strandian.com/SDCCD/webd165/lesson12/sidebars08.html - Sidebar Images
+<a href="https://strandian.com/SDCCD/webd167/coursework/lessons/ch02/calendar.php" target="_blank">https://strandian.com/SDCCD/webd167/coursework/lessons/ch02/calendar.php</a> <br />Calculator
 
-https://strandian.com/SDCCD/webd165/lesson11/ - Calendar
+<a href="https://strandian.com/SDCCD/webd167/coursework/lessons/ch02/form.html" target="_blank">https://strandian.com/SDCCD/webd167/coursework/lessons/ch02/form.html</a> <br />Information Form
 
-https://strandian.com/SDCCD/webd167/coursework/lessons/ch02/calendar.php - Calculator
+<a href="https://strandian.com/SDCCD/webd167/coursework/lessons/ch02/multi.php" target="_blank">https://strandian.com/SDCCD/webd167/coursework/lessons/ch02/multi.php</a> <br />Formatting
 
-https://strandian.com/SDCCD/webd167/coursework/lessons/ch02/form.html - Information Form
+<a href="https://strandian.com/SDCCD/webd167/coursework/lessons/ch02/sorting.php" target="_blank">https://strandian.com/SDCCD/webd167/coursework/lessons/ch02/sorting.php</a> <br />Sorting Books
 
-https://strandian.com/SDCCD/webd167/coursework/lessons/ch02/multi.php - Formatting
+<a href="https://strandian.com/SDCCD/webd167/coursework/lessons/ch02/registration.php" target="_blank">https://strandian.com/SDCCD/webd167/coursework/lessons/ch02/registration.php</a> <br />Registration Form
 
-https://strandian.com/SDCCD/webd167/coursework/lessons/ch02/sorting.php - Sorting Books
+<a href="https://strandian.com/SDCCD/webd167/coursework/lessons/ch13/calculator.php" target="_blank">https://strandian.com/SDCCD/webd167/coursework/lessons/ch13/calculator.php</a> <br />Cost Calculator
 
-https://strandian.com/SDCCD/webd167/coursework/lessons/ch02/registration.php - Registration Form
-
-https://strandian.com/SDCCD/webd167/coursework/lessons/ch13/calculator.php - Cost Calculator
-
-https://strandian.com/SDCCD/webd167/coursework/lessons/ch13/email.php - Contact Form
-
+<a href="https://strandian.com/SDCCD/webd167/coursework/lessons/ch13/email.php" target="_blank">https://strandian.com/SDCCD/webd167/coursework/lessons/ch13/email.php</a> <br />Contact Form
