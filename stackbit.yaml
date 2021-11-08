@@ -283,12 +283,12 @@ models:
         name: seo
         models:
           - stackbit_page_meta
-  blog:
+  portfolio:
     type: page
-    urlPath: /blog
-    label: Blog
-    layout: blog
-    file: blog/index.md
+    urlPath: /portfolio
+    label: Portfolio
+    layout: portfolio
+    file: portfolio/index.md
     hideContent: true
     singleInstance: true
     fields:
