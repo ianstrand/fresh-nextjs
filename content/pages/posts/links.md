@@ -177,3 +177,25 @@ Sketch 2
 
 https://northcoastalartgallery.com/
 Webmaster for Gallery site
+
+https://strandian.com/SDCCD/webd165/lesson12/mylayout.html
+
+https://strandian.com/SDCCD/webd165/lesson12/sidebars08.html
+
+https://strandian.com/SDCCD/webd165/lesson11/
+
+https://strandian.com/SDCCD/webd167/coursework/lessons/ch02/calendar.php
+
+https://strandian.com/SDCCD/webd167/coursework/lessons/ch02/form.html
+
+https://strandian.com/SDCCD/webd167/coursework/lessons/ch02/multi.php
+
+https://strandian.com/SDCCD/webd167/coursework/lessons/ch02/sorting.php
+
+https://strandian.com/SDCCD/webd167/coursework/lessons/ch02/registration.php
+
+
+https://strandian.com/SDCCD/webd167/coursework/lessons/ch13/calculator.php
+
+https://strandian.com/SDCCD/webd167/coursework/lessons/ch13/email.php
+
