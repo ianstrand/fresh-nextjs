@@ -40,6 +40,8 @@ seo:
 layout: post
 ---
 
+<a href="https://strandian.com/SDCCD/webd173/opencart/" target="_blank">https://strandian.com/SDCCD/webd173/opencart/</a>
+
 https://strandian.com/SDCCD/webd173/opencart/ - OpenCart website
 
 https://codesandbox.io/s/cckut - Code Sandbox Navbar
