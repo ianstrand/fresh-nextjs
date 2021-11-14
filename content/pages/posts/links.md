@@ -2,7 +2,7 @@
 title: Portfolio Links
 excerpt: >-
   Possible links for web development portfolio
-date: '2021-11-07'
+date: '2019-03-27'
 thumb_img_path: images/7.jpg
 thumb_img_alt: Icelandic horses
 # content_img_path: images/7.jpg
