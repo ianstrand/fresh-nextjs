@@ -67,6 +67,16 @@ sourceMapping:
     target:
       file: config.yml
       fieldPath: 'params.header.social_links[4].url'
+  - source:
+      fieldPath: social.codepen.url
+    target:
+      file: config.yml
+      fieldPath: 'params.header.social_links[5].url'
+  - action: delete
+    condition: context.social && !context.social.codepen
+    target:
+      file: config.yml
+      fieldPath: 'params.header.social_links[5]'
   - action: delete
     condition: context.social && !context.social.devto
     target:
@@ -228,6 +238,19 @@ models:
         name: social_links
         label: Social Links
         description: List of social links on the left side.
+        items:
+          type: model
+          models:
+            - action
+      - type: boolean
+        name: has_navb
+        label: Enable Navigation Menu
+        description: Display the navigation menu bar on the left side.
+        default: true
+      - type: list
+        name: nav_linksb
+        label: Navigation Links
+        description: List of navigation links.
         items:
           type: model
           models:
@@ -533,6 +556,7 @@ models:
           - twitter
           - vimeo
           - youtube
+          - codepen
         default: dev
       - type: boolean
         name: new_window

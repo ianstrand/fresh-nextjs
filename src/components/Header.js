@@ -114,6 +114,8 @@ export default class Header extends React.Component {
         const navLinks = _.get(header, 'nav_links');
         const hasSocial = _.get(header, 'has_social');
         const socialLinks = _.get(header, 'social_links');
+        const hasNavB = _.get(header, 'has_navb');
+        const navLinksB = _.get(header, 'nav_linksb');
 
         return (
             <header id="masthead" className={`site-header ${headerBackground}`}>
@@ -139,6 +141,7 @@ export default class Header extends React.Component {
                                     <div className="site-nav-inside">
                                         {hasNav && !_.isEmpty(navLinks) && this.renderNavLinks(navLinks, pageUrl)}
                                         {hasSocial && !_.isEmpty(socialLinks) && this.renderSocialLinks(socialLinks)}
+                                        {hasNavB && !_.isEmpty(navLinksB) && this.renderNavLinks(navLinksB, pageUrl)}
                                     </div>
                                 </div>
                             </nav>

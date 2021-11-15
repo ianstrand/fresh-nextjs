@@ -15,8 +15,9 @@ body {
 }
 
 a {
-  border-bottom: 2px solid _palette(accent);
+  
   color: _palette(secondary);
+  border-bottom: 0.5px solid _palette(accent);
   text-decoration: none;
   -webkit-transition: border .3s ease, color .3s ease;
   transition: border .3s ease, color .3s ease;
@@ -333,7 +334,7 @@ input[type="reset"],
 .button {
   background: _palette(accent);
   border: 2px solid _palette(accent);
-  border-radius: 30px;
+  border-radius: 5px;
   box-sizing: border-box;
   color: #fff;
   display: inline-block;
