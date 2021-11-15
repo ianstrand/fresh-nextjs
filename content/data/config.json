@@ -78,7 +78,8 @@
             {
                 "label": "Visit my Artist Website!",
                 "url": "https://strandoutmedia.com/",
-                "style": "link"
+                "style": "link",
+                "new_window": true
             }
         ]
     },

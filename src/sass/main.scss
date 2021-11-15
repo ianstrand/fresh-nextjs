@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans&display=swap');
 
 // Font.
 $font: (
-  primary: ("Ubuntu Mono","Roboto",Helvetica,sans-serif),
+  primary: ("IBM Plex Sans","Roboto",Helvetica,sans-serif),
+  secondary: ("Roboto",Helvetica,sans-serif),
   monospace: (Consolas,Monaco,"Andale Mono","Ubuntu Mono",monospace)
 );
 
@@ -12,8 +15,8 @@ $palette: (
   meta:          lighten(#555e69, 25%),
   border:        lighten(#555e69, 55%),
   bg:            lighten(#555e69, 60%),
-  accent:        #1de2bc,
-  accent-blue:   #10bcf9,
+  accent:        #D81159,
+  accent-blue:   #000000,
   accent-violet: #9371e6,
   accent-orange: #fc6e51
 

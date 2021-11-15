@@ -11,7 +11,7 @@
   display: flex;
   padding-top: 1em;
 
-  .site-info {
+  .site-info, {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
@@ -23,17 +23,9 @@
     -webkit-box-flex: 1;
     -ms-flex: 1;
     flex: 1;
-    font-size: 1em;
-    letter-spacing: 0.09em;
-    line-height: 1.5em;
-    margin-bottom: 0;
-
-    .copyright,
-    > a {
-      font-size: 11px;
-      margin-bottom: 0.5em;
-      margin-right: 8px;
-    }
+    font-size: 0.75rem;
+    line-height: 1.4rem;
+    margin-bottom: 2rem;
 
     .button {
       padding: 0.58182em 15px;
