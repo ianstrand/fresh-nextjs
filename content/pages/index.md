@@ -23,7 +23,7 @@ sections:
   - section_id: recent-projects
     type: section_posts
     title: Recent Projects
-    posts_number: 4
+    posts_number: 2
     actions:
       - label: View Portfolio
         url: /portfolio/
@@ -31,7 +31,7 @@ sections:
   - section_id: recent-posts
     type: section_posts
     title: Recent Blog Posts
-    posts_number: 4
+    posts_number: 2
     actions:
       - label: View Blog
         url: /blog/
