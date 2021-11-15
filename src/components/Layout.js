@@ -70,7 +70,7 @@ export default class Body extends React.Component {
                     <meta name="description" content={seoDescription} />
                     {!_.isEmpty(seoRobots) && <meta name="robots" content={seoRobots} />}
                     {seoExtra}
-                    <link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i&display=swap" rel="stylesheet" />
+                    <link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i|Source+Sans+Pro|IBM+Plex+Sans&display=swap" rel="stylesheet" />
                     {favicon && <link rel="icon" href={withPrefix(favicon)} />}
                     <body className={classNames(`palette-${palette}`, `style-${layoutStyle}`)} />
                 </Helmet>

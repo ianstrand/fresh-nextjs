@@ -74,12 +74,6 @@
                 "label": "Style Guide",
                 "url": "/style-guide/",
                 "style": "link"
-            },
-            {
-                "label": "Visit my Artist Website!",
-                "url": "https://strandoutmedia.com/",
-                "style": "link",
-                "new_window": true
             }
         ]
     },

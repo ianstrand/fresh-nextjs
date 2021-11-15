@@ -133,7 +133,7 @@ export default class Header extends React.Component {
                                 <p className="site-title"><Link href={withPrefix('/')}>{title}</Link></p>
                                 {tagline && <p className="site-description">{tagline}</p>}
                             </div>
-                            {((hasNav && !_.isEmpty(navLinks)) || (hasSocial && !_.isEmpty(socialLinks))) && <button id="menu-toggle" className="menu-toggle" ref={this.menuOpenRef} onClick={this.handleMenuToggle.bind(this)}><span className="screen-reader-text">Menu</span><span className="icon-menu" aria-hidden="true" /></button>}
+                            {((hasNav && !_.isEmpty(navLinks)) || (hasSocial && !_.isEmpty(socialLinks)) || (hasSocial && !_.isEmpty(navLinksB))) && <button id="menu-toggle" className="menu-toggle" ref={this.menuOpenRef} onClick={this.handleMenuToggle.bind(this)}><span className="screen-reader-text">Menu</span><span className="icon-menu" aria-hidden="true" /></button>}
                         </div>
                         {((hasNav && !_.isEmpty(navLinks)) || (hasSocial && !_.isEmpty(socialLinks))) && (
                             <nav id="main-navigation" className="site-navigation" aria-label="Main Navigation">
