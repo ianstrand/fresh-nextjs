@@ -33,7 +33,8 @@
   margin-bottom: 1.66667em;
 
   img {
-    width: 100%;
+    position: relative;
+    width: 75%;
   }
 }
 
@@ -71,6 +72,7 @@
   width: 50%;
 
   .post-inside {
+    background-color: white;
     border: 1px solid _palette(border);
     border-radius: 5px;
     display: -webkit-box;

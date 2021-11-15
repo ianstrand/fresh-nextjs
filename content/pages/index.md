@@ -1,19 +1,19 @@
 ---
 title: Home
 hide_title: true
-img_path: images/about.jpg
+img_path: images/home.jpg
 img_alt: Portrait of a man with beard and mustache
 sections:
   - section_id: hero
     type: section_hero
     title: "Ian Strand"
     content: >-
-      Beginning Web Developer & Independent Artist
+      Web Developer & Independent Artist
   - section_id: about
     type: section_content
-    title: About
+    title: 
     content: >-
-      I love to learn and help!
+      Student with an interest in responsive frameworks. I enjoy learning as part of a team! 
     actions:
       - label: Contact Me
         url: /contact/
