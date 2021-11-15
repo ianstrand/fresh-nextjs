@@ -22,11 +22,6 @@
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide/",
-                "style": "link"
-            },
-            {
                 "label": "About",
                 "url": "/about/",
                 "style": "link"
@@ -34,6 +29,11 @@
             {
                 "label": "Contact",
                 "url": "/contact/",
+                "style": "link"
+            },
+            {
+                "label": "Blog",
+                "url": "/blog/",
                 "style": "link"
             }
         ],
@@ -73,6 +73,11 @@
                 "style": "icon",
                 "icon_class": "dev",
                 "new_window": true
+            },
+            {
+                "label": "Style Guide",
+                "url": "/style-guide/",
+                "style": "link"
             }
         ]
     },

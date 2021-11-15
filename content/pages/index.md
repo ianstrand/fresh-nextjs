@@ -18,15 +18,23 @@ sections:
       about yourself for those who are interested.
     actions:
       - label: Contact Me
-        url: /contact
+        url: /contact/
         style: button
-  - section_id: recent-posts
+  - section_id: recent-projects
     type: section_posts
-    title: Recent Posts
+    title: Recent Projects
     posts_number: 4
     actions:
       - label: View Portfolio
-        url: portfolio/index.html
+        url: /portfolio/
+        style: button
+  - section_id: recent-posts
+    type: section_posts
+    title: Recent Blog Posts
+    posts_number: 4
+    actions:
+      - label: View Blog
+        url: /blog/
         style: button
 seo:
   title: Stackbit Fresh Theme
