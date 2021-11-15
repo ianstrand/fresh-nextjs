@@ -4,8 +4,8 @@
     "layout_style": "overflow",
     "palette": "blue",
     "header": {
-        "title": "Ian Strand",
-        "tagline": "Header Tagline",
+        "title": "",
+        "tagline": "",
         "profile_img": "images/avatar.png",
         "profile_img_alt": "Author avatar",
         "background": "light",
@@ -78,6 +78,6 @@
         ]
     },
     "footer": {
-        "content": "&copy; 2021 Ian Strand, but please take and modify code samples as needed. <br/ > Site adapted from <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a> template using NextJS and SCSS.</a>"
+        "content": "&copy; 2021 Ian Strand, but please feel free to take and modify code samples. <br/ > Site adapted from <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a> template using NextJS and SCSS.</a>"
     }
 }

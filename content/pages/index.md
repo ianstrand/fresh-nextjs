@@ -1,21 +1,19 @@
 ---
 title: Home
 hide_title: true
+img_path: images/about.jpg
+img_alt: Portrait of a man with beard and mustache
 sections:
   - section_id: hero
     type: section_hero
     title: "Ian Strand"
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Beginning Web Developer & Independent Artist
   - section_id: about
     type: section_content
     title: About
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      I love to learn and help!
     actions:
       - label: Contact Me
         url: /contact/

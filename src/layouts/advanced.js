@@ -2,7 +2,7 @@ import React from 'react';
 import _ from 'lodash';
 
 import components, { Layout } from '../components/index';
-import { getPageUrl } from '../utils';
+import { getPageUrl, withPrefix } from '../utils';
 
 export default class Advanced extends React.Component {
     render() {
@@ -12,6 +12,8 @@ export default class Advanced extends React.Component {
         const page = _.get(this.props, 'page');
         const hideTitle = _.get(page, 'hide_title');
         const title = _.get(page, 'title');
+        const image = _.get(page, 'img_path');
+        const imageAlt = _.get(page, 'img_alt', '');
         const sections = _.get(page, 'sections');
         const pageUrl = getPageUrl(page);
 
@@ -22,6 +24,11 @@ export default class Advanced extends React.Component {
                         <h1 className="post-title underline">{title}</h1>
                     </header>
                 )}
+                {image && (
+                        <div className="post-image">
+                            <img src={withPrefix(image)} alt={imageAlt} />
+                        </div>
+                    )}
                 {_.map(sections, (section, index) => {
                     const sectionType = _.get(section, 'type');
                     const component = _.upperFirst(_.camelCase(sectionType));
