@@ -8,7 +8,7 @@
         "tagline": "Header Tagline",
         "profile_img": "images/avatar.png",
         "profile_img_alt": "Author avatar",
-        "background": "dark",
+        "background": "light",
         "has_nav": true,
         "nav_links": [
             {
@@ -40,10 +40,10 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/",
                 "style": "icon",
-                "icon_class": "twitter",
+                "icon_class": "linkedin",
                 "new_window": true
             },
             {
@@ -58,13 +58,6 @@
                 "url": "https://github.com/",
                 "style": "icon",
                 "icon_class": "github",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "icon",
-                "icon_class": "linkedin",
                 "new_window": true
             },
             {
