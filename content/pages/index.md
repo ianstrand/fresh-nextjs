@@ -35,17 +35,17 @@ sections:
         url: /blog/
         style: button
 seo:
-  title: Stackbit Fresh Theme
-  description: The preview of the Fresh theme
+  title: Ian Strand
+  description: The portfolio of Ian Strand - seeking Web Development opportunities
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Fresh Theme
+      value: Ian Strand
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: The portfolio of Ian Strand - seeking Web Development opportunities
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
@@ -54,9 +54,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Fresh Theme
+      value: Ian Strand
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: The portfolio of Ian Strand - seeking Web Development opportunities
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
