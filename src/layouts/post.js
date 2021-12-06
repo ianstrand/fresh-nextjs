@@ -12,6 +12,7 @@ export default class Post extends React.Component {
         const page = _.get(this.props, 'page');
         const title = _.get(page, 'title');
         const subtitle = _.get(page, 'subtitle');
+        const link = _.get(page, 'projectlink');
         const image = _.get(page, 'content_img_path');
         const imageAlt = _.get(page, 'content_img_alt', '');
         const date = _.get(page, 'date');
@@ -26,17 +27,19 @@ export default class Post extends React.Component {
                         <h1 className="post-title underline">{title}</h1>
                         {subtitle && <div className="post-subtitle">{htmlToReact(subtitle)}</div>}
                     </header>
+                    <a href="{link}" target="_blank">
                     {image && (
                         <div className="post-image">
                             <img src={withPrefix(image)} alt={imageAlt} />
                         </div>
-                    )}
+                    )}</a>
                     {markdownContent && <div className="post-content inner-sm">{markdownify(markdownContent)}</div>}
-                    <footer className="post-meta inner-sm">
-                        <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
-                    </footer>
                 </article>
             </Layout>
         );
     }
 }
+
+/* <footer className="post-meta inner-sm">
+                        <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
+                    </footer> */

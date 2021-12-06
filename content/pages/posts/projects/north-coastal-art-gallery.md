@@ -1,51 +1,47 @@
 ---
-title: Minimalist Travel - A Weekend in Japan
+title: North Coastal Art Gallery
+subtitle: >-
+  The NCAG / Carlsbad Oceanside Art League Website, for which I am volunteer webmaster.
 excerpt: >-
-  The Shrines of Ise have been celebrated as the prototype of Japanese
-  architecture. Largely of wood, traditional housing and many temple buildings
-  see the use of tatami mats and sliding doors that break down the distinction
-  between rooms and indoor and outdoor space.
-date: '2019-03-24'
-thumb_img_path: images/2.jpg
-thumb_img_alt: Fushimi Inari Shrine in Kyoto
-content_img_path: images/2.jpg
-content_img_alt: Fushimi Inari Shrine in Kyoto
+  The NCAG / Carlsbad Oceanside Art League Website, for which I am volunteer webmaster.
+date: '2021-11-05'
+projectlink: https://northcoastalartgallery.com/
+thumb_img_path: images/6.jpg
+thumb_img_alt: The NCAG / Carlsbad Oceanside Art League Website, for which I am volunteer webmaster.
+content_img_path: images/6.jpg
+content_img_alt: The NCAG / Carlsbad Oceanside Art League Website, for which I am volunteer webmaster.
 seo:
-  title: A Weekend in Japan
-  description: >-
-    The Shrines of Ise have been celebrated as the prototype of Japanese
-    architecture
+  title: North Coastal Art Gallery
+  description: The NCAG / Carlsbad Oceanside Art League Website, for which I am volunteer webmaster.
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: A Weekend in Japan
+      value: North Coastal Art Gallery
       keyName: property
     - name: 'og:description'
-      value: >-
-        The Shrines of Ise have been celebrated as the prototype of Japanese
-        architecture
+      value: The NCAG / Carlsbad Oceanside Art League Website, for which I am volunteer webmaster.
       keyName: property
     - name: 'og:image'
-      value: images/2.jpg
+      value: images/6.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: A Weekend in Japan
+      value: North Coastal Art Gallery
     - name: 'twitter:description'
-      value: >-
-        The Shrines of Ise have been celebrated as the prototype of Japanese
-        architecture
+      value: The NCAG / Carlsbad Oceanside Art League Website, for which I am volunteer webmaster.
     - name: 'twitter:image'
-      value: images/2.jpg
+      value: images/6.jpg
       relativeUrl: true
 layout: post
 ---
 
-**A Weekend in Japan** vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+
+> “Creativity is nothing but the way to solve new problems.”
 
 Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
 

@@ -1,26 +1,25 @@
 ---
-title: The Advantages and Disadvantages of Working from Home
+title: CatMatch.com - A Fun Website for my Cat
 excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities. They are sometimes referred to
-  as a WAHM (work at home mom) or a WAHD (work at home dad).
-date: '2016-08-22'
+  A starter responsive website.
+date: '2021-11-02'
+projectlink: https://strandian.com/SDCCD/webd152/
 thumb_img_path: images/9.jpg
-thumb_img_alt: A man sitting at the table
+thumb_img_alt: A starter responsive website.
 content_img_path: images/9.jpg
-content_img_alt: A man sitting at the table
+content_img_alt: A starter responsive website.
 seo:
-  title: The Advantages and Disadvantages of Working from Home
-  description: Work at home parent is an entrepreneur who works from home
+  title: CatMatch.com - A Fun Website for my Cat
+  description: A starter responsive website.
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: The Advantages and Disadvantages of Working from Home
+      value: CatMatch.com - A Fun Website for my Cat
       keyName: property
     - name: 'og:description'
-      value: Work at home parent is an entrepreneur who works from home
+      value: A starter responsive website.
       keyName: property
     - name: 'og:image'
       value: images/9.jpg
@@ -29,9 +28,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: The Advantages and Disadvantages of Working from Home
+      value: CatMatch.com - A Fun Website for my Cat
     - name: 'twitter:description'
-      value: Work at home parent is an entrepreneur who works from home
+      value: A starter responsive website.
     - name: 'twitter:image'
       value: images/9.jpg
       relativeUrl: true

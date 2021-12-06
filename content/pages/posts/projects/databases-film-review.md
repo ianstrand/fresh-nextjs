@@ -1,40 +1,39 @@
 ---
-title: Best Waves - Surfing In Spain
-subtitle: A intresting tale about Surfing
+title: Film Review Website
+subtitle: A sample film review website created with PHP and MySQL.
 excerpt: >-
-  Surfing is a surface water sport in which the wave rider, referred to as a
-  surfer, rides on the forward or deep face of a moving wave, which is usually
-  carrying the surfer towards the shore.
-date: '2018-01-15'
-thumb_img_path: images/4.jpg
-thumb_img_alt: Three person about to surf
-content_img_path: images/4.jpg
-content_img_alt: Three person about to surf
+  A sample film review website created with PHP and MySQL.
+date: '2021-11-09'
+projectlink: https://strandian.com/SDCCD/webd167/finalproject/
+thumb_img_path: images/2.jpg
+thumb_img_alt: A sample film review website created with PHP and MySQL.
+content_img_path: images/2.jpg
+content_img_alt: A sample film review website created with PHP and MySQL.
 seo:
-  title: Best Waves - Surfing In Spain
-  description: A intresting tale about Surfing
+  title: Film Review Website
+  description: A sample film review website created with PHP and MySQL.
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Best Waves - Surfing In Spain
+      value: Film Review Website
       keyName: property
     - name: 'og:description'
-      value: A intresting tale about Surfing
+      value: A sample film review website created with PHP and MySQL.
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: images/2.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Best Waves - Surfing In Spain
+      value: Film Review Website
     - name: 'twitter:description'
-      value: A intresting tale about Surfing
+      value: A sample film review website created with PHP and MySQL.
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: images/2.jpg
       relativeUrl: true
 layout: post
 ---

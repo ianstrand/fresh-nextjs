@@ -399,6 +399,7 @@ border-radius: 5px;
 .block {
   iframe[src*="vimeo.com"],
   iframe[src*="youtube.com"] {
+    border-radius: 5px;
     display: block;
     margin-bottom: 1.66667rem;
     margin-top: 1.66667rem;

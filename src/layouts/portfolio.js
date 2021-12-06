@@ -14,13 +14,14 @@ export default class Portfolio extends React.Component {
         const date = _.get(post, 'date');
         const dateTimeAttr = moment(date).strftime('%Y-%m-%d %H:%M');
         const formattedDate = moment(date).strftime('%B %d, %Y');
-        const postUrl = getPageUrl(post, { withPrefix: true });
+        const postUrl = _.get(post, 'projectlink');
+        // const postUrl = getPageUrl(post, { withPrefix: true });
 
         return (
             <article key={index} className="post post-card">
                 <div className="post-inside">
                     {thumbImage && (
-                        <Link className="post-thumbnail" href={postUrl}>
+                        <Link className="post-thumbnail" href={postUrl} target="_blank">
                             <img src={withPrefix(thumbImage)} alt={thumbImageAlt} />
                         </Link>
                     )}
@@ -34,13 +35,14 @@ export default class Portfolio extends React.Component {
                             <p>{excerpt}</p>
                         </div>
                     )}
-                    <footer className="post-meta">
-                        <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
-                    </footer>
                 </div>
             </article>
         );
     }
+
+    /* <footer className="post-meta">
+                        <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
+                    </footer> */
 
     render() {
         const data = _.get(this.props, 'data');

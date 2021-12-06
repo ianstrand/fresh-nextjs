@@ -34,9 +34,7 @@ export default class SectionPosts extends React.Component {
                             <p>{excerpt}</p>
                         </div>
                     )}
-                    <footer className="post-meta">
-                        <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
-                    </footer>
+                    
                 </div>
             </article>
         );

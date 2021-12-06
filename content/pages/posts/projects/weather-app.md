@@ -1,48 +1,43 @@
 ---
-title: Fox Village In Japan
+title: Weather App with ReactJS
 subtitle: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries.
+  An app to display the current weather in San Diego.
 excerpt: >-
-  Miyagi Zao Fox Village, aka Kitsune Mura, is a popular tourist attraction
-  situated in Shiroishi, Miyagi it based in the Miyagi Zao mountains. Visitors
-  can visit a village where there is a vast population of foxes.
-date: '2018-01-11'
-thumb_img_path: images/5.jpg
-thumb_img_alt: A red fox in a rocky forest
-content_img_path: images/5.jpg
-content_img_alt: A red fox in a rocky forest
+  An app to display the current weather in San Diego.
+date: '2021-11-08'
+projectlink: https://ianstrand.github.io/webd171-5/
+thumb_img_path: images/3.jpg
+thumb_img_alt: Weather App with ReactJS
+content_img_path: images/3.jpg
+content_img_alt: Weather App with ReactJS
 seo:
-  title: Fox Village In Japan
+  title: Weather App with ReactJS
   description: >-
-    Apparently, Japan is covered in magical and irresistibly cute animal
-    sanctuaries.
+    An app to display the current weather in San Diego.
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Fox Village In Japan
+      value: Weather App with ReactJS
       keyName: property
     - name: 'og:description'
       value: >-
-        Apparently, Japan is covered in magical and irresistibly cute animal
-        sanctuaries.
+        An app to display the current weather in San Diego.
       keyName: property
     - name: 'og:image'
-      value: images/5.jpg
+      value: images/3.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Fox Village In Japan
+      value: Weather App with ReactJS
     - name: 'twitter:description'
       value: >-
-        Apparently, Japan is covered in magical and irresistibly cute animal
-        sanctuaries.
+        An app to display the current weather in San Diego.
     - name: 'twitter:image'
-      value: images/5.jpg
+      value: images/3.jpg
       relativeUrl: true
 layout: post
 ---

@@ -1,39 +1,39 @@
 ---
-title: The Ride In The Woods
-subtitle: A cautionary tale about riding
+title: JavaScript Image Gallery
+subtitle: A slider image gallery created with JavaScript.
 excerpt: >-
-  The Ride In The Woods lorem ipsum dolor sit amet, consectetur adipiscing elit,
-  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-date: '2018-01-23'
-thumb_img_path: images/3.jpg
-thumb_img_alt: A motorcycle in a forest
-content_img_path: images/3.jpg
-content_img_alt: A motorcycle in a forest
+  A slider image gallery created with JavaScript. 
+date: '2021-11-03'
+projectlink: https://strandian.com/SDCCD/webd164/final-project/
+thumb_img_path: images/8.jpg
+thumb_img_alt: A slider image gallery created with JavaScript.
+content_img_path: images/8.jpg
+content_img_alt: A slider image gallery created with JavaScript.
 seo:
-  title: The Ride In The Woods
-  description: A cautionary tale about riding
+  title: JavaScript Image Gallery
+  description: A slider image gallery created with JavaScript.
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: The Ride In The Woods
+      value: JavaScript Image Gallery
       keyName: property
     - name: 'og:description'
-      value: A cautionary tale about riding
+      value: A slider image gallery created with JavaScript.
       keyName: property
     - name: 'og:image'
-      value: images/3.jpg
+      value: images/8.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: The Ride In The Woods
+      value: JavaScript Image Gallery
     - name: 'twitter:description'
-      value: A cautionary tale about riding
+      value: A slider image gallery created with JavaScript.
     - name: 'twitter:image'
-      value: images/3.jpg
+      value: images/8.jpg
       relativeUrl: true
 layout: post
 ---
