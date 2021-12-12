@@ -73,12 +73,14 @@
             {
                 "label": "style guide",
                 "url": "/Ian Strand Style Guide.pdf",
-                "style": "link"
+                "style": "link",
+                "new_window": true
             },
             {
                 "label": "résumé",
                 "url": "/Ian Strand Resume.pdf",
-                "style": "link"
+                "style": "link",
+                "new_window": true
             }
         ]
     },
