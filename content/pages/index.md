@@ -8,12 +8,12 @@ sections:
     type: section_hero
     title: "Ian Strand"
     content: >-
-      Web Developer & Independent Artist
+      web developer | artist
   - section_id: about
     type: section_content
     title: 
     content: >-
-      Student with an interest in responsive frameworks. I enjoy learning as part of a team! 
+      entry level web designer who is focused on growth
     actions:
       - label: Contact Me
         url: /contact/

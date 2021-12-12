@@ -12,27 +12,27 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Home",
+                "label": "home",
                 "url": "/",
                 "style": "link"
             },
             {
-                "label": "Portfolio",
+                "label": "portfolio",
                 "url": "/portfolio/",
                 "style": "link"
             },
             {
-                "label": "About",
+                "label": "about",
                 "url": "/about/",
                 "style": "link"
             },
             {
-                "label": "Contact",
+                "label": "contact",
                 "url": "/contact/",
                 "style": "link"
             },
             {
-                "label": "Blog",
+                "label": "blog",
                 "url": "/blog/",
                 "style": "link"
             }
@@ -71,8 +71,13 @@
         "has_navb": true,
         "nav_linksb": [
             {
-                "label": "Style Guide",
-                "url": "/style-guide/",
+                "label": "style guide",
+                "url": "/Ian Strand Style Guide.pdf",
+                "style": "link"
+            },
+            {
+                "label": "résumé",
+                "url": "/Ian Strand Resume.pdf",
                 "style": "link"
             }
         ]
