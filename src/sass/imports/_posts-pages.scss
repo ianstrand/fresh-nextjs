@@ -119,10 +119,11 @@
   }
 
   .post-title {
-    border-bottom: 1px solid _palette(border);
+    border-top: 1px solid _palette(border);
     font-size: 1.33333em;
     margin: 0;
-    padding-bottom: 0.83333rem;
+    padding-top: 0.83333rem;
+    padding-bottom: 0.33333rem;
   }
 
   .post-content {

@@ -30,15 +30,17 @@ export default class Blog extends React.Component {
                             <Link href={postUrl} target="_blank" rel="bookmark">{title}</Link>
                         </h2>
                     </header>
-                    {excerpt && (
-                        <div className="post-content">
-                            <p>{excerpt}</p>
-                        </div>
-                    )}
+                    
                 </div>
             </article>
         );
     }
+
+    /* {excerpt && (
+                        <div className="post-content">
+                            <p>{excerpt}</p>
+                        </div>
+                    )} */
 
     /* <footer className="post-meta">
                         <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
