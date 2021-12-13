@@ -36,7 +36,7 @@ seo:
     - name: 'twitter:image'
       value: images/7.jpg
       relativeUrl: true
-layout: post
+layout: project
 ---
 
 Photo by [Anders Jildén](https://unsplash.com/photos/uO4Au3LrCtk)

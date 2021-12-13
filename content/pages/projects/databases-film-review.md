@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:image'
       value: images/2.jpg
       relativeUrl: true
-layout: post
+layout: project
 ---
 
 Photo by [George Sultan.](https://www.pexels.com/photo/three-person-about-to-surf-1768784/)

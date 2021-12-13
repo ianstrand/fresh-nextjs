@@ -13,7 +13,7 @@ sections:
     type: section_content
     title: 
     content: >-
-      entry level web designer who is focused on growth
+      entry level web designer, focused on growth
     actions:
       - label: Contact Me
         url: /contact/

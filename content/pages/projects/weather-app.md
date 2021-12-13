@@ -39,7 +39,7 @@ seo:
     - name: 'twitter:image'
       value: images/3.jpg
       relativeUrl: true
-layout: post
+layout: project
 ---
 
 Photo by [Katerina Bartosova.](https://unsplash.com/photos/SAfJ1eTBeyk)

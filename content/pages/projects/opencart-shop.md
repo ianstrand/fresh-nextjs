@@ -37,7 +37,7 @@ seo:
     - name: 'twitter:image'
       value: images/1.jpg
       relativeUrl: true
-layout: post
+layout: project
 ---
 
 Photo by [David Marcu.](https://unsplash.com/photos/wcHCzgo0_mQ)

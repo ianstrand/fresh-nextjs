@@ -12,7 +12,7 @@ export default class Portfolio extends React.Component {
         const thumbImageAlt = _.get(post, 'thumb_img_alt', '');
         const excerpt = _.get(post, 'excerpt');
         const date = _.get(post, 'date');
-        const dateTimeAttr = moment(date).strftime('%Y-%m-%d %H:%M');
+        const dateTimeAttr = moment(date).strftime('%Y-%m-%d %H:Z%M');
         const formattedDate = moment(date).strftime('%B %d, %Y');
         const postUrl = _.get(post, 'projectlink');
         // const postUrl = getPageUrl(post, { withPrefix: true });
@@ -27,7 +27,7 @@ export default class Portfolio extends React.Component {
                     )}
                     <header className="post-header">
                         <h2 className="post-title">
-                            <Link href={postUrl} rel="bookmark">{title}</Link>
+                            <Link href={postUrl} target="_blank" rel="bookmark">{title}</Link>
                         </h2>
                     </header>
                     {excerpt && (

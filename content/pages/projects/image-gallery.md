@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:image'
       value: images/8.jpg
       relativeUrl: true
-layout: post
+layout: project
 ---
 
 The Ride In The Woods lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh venenatis cras sed felis eget velit aliquet sagittis id. Pellentesque dignissim enim sit amet venenatis urna cursus. Faucibus turpis in eu mi bibendum neque egestas congue quisque. Hac habitasse platea dictumst vestibulum rhoncus est. Sit amet cursus sit amet. Habitant morbi tristique senectus et netus et. Dolor morbi non arcu risus quis. Dignissim diam quis enim lobortis. Sit amet cursus sit amet dictum. Senectus et netus et malesuada fames ac turpis egestas sed. Felis imperdiet proin fermentum leo vel orci porta non pulvinar. Malesuada pellentesque elit eget gravida. Elementum pulvinar etiam non quam lacus.

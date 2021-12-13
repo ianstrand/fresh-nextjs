@@ -37,7 +37,7 @@ seo:
     - name: 'twitter:image'
       value: images/5.jpg
       relativeUrl: true
-layout: post
+layout: project
 ---
 
 Photo by [Galen Crout.](https://unsplash.com/photos/fItRJ7AHak8)
