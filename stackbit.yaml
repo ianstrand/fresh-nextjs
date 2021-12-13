@@ -543,6 +543,9 @@ models:
         default: link
         required: true
       - type: enum
+        name: filename
+        label: File Name
+      - type: enum
         name: icon_class
         label: Icon
         options:
@@ -561,6 +564,10 @@ models:
       - type: boolean
         name: new_window
         label: Open in new tab/window
+        default: false
+      - type: boolean
+        name: download_attr
+        label: Add download attribute to the link
         default: false
       - type: boolean
         name: no_follow

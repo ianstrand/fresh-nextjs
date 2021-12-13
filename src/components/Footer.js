@@ -23,10 +23,6 @@ export default class Footer extends React.Component {
                         ))}
                     </p>
                 )}
-                <Link id="to-top" className="to-top" href="#page">
-                    <span className="icon-arrow-up" aria-hidden="true" />
-                    <span className="screen-reader-text">Back to top</span>
-                </Link>
             </footer>
         );
     }
