@@ -15,12 +15,12 @@ sections:
     content: >-
       entry level web designer, focused on growth • 
 
-      I am an Administrative Assistant at the Athenaeum Music & Arts Library and an independent artist. I have Bachelors of Arts degrees from the University of Michigan, in Art & Design and Screen Arts & Cultures. My recent artwork has primarily involved oil painting, photography, and experimental cinematography.
+      I am an Administrative Assistant at the Athenaeum Music & Arts Library and an independent artist. I have Bachelors of Arts degrees from the University of Michigan, in Art & Design and Screen Arts & Cultures. My recent artwork has primarily involved oil painting, photography, and experimental cinematography. My name is Ian Strand, and I am using the Web Design program at San Diego Mesa College to improve my online presence as an independent artist and to augment my professional skills.
     
   - section_id: recent-projects
     type: section_projects
     title: Recent Projects
-    posts_number: 4
+    posts_number: 2
     actions:
       - label: View Portfolio
         url: /portfolio/
@@ -28,7 +28,7 @@ sections:
   - section_id: recent-posts
     type: section_posts
     title: Recent Blog Posts
-    posts_number: 4
+    posts_number: 2
     actions:
       - label: View Blog
         url: /blog/
