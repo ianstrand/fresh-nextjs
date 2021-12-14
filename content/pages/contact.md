@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - section_id: contact-form
     type: section_form
-    content: To get in touch please fill the form below.
+    content: To get in touch, please fill out the form below.
     form_id: contactForm
     form_action: /thank-you
     form_fields:
@@ -18,14 +18,10 @@ sections:
         label: Email
         default_value: Your email address
         is_required: true
-      - input_type: select
+      - input_type: text
         name: subject
         label: Subject
-        default_value: Please select
-        options:
-          - Error on the site
-          - Sponsorship
-          - Other
+        default_value: Subject line
       - input_type: textarea
         name: message
         label: Message

@@ -38,6 +38,8 @@ module.exports = {
                     { path: '/{__metadata.urlPath}', predicate: _.matchesProperty('__metadata.modelName', 'portfolio') },
                     { path: '/{__metadata.urlPath}', predicate: _.matchesProperty('__metadata.modelName', 'blog') },
                     { path: '/{__metadata.urlPath}', predicate: _.matchesProperty('__metadata.modelName', 'page') },
+                    { path: '/{__metadata.urlPath}', predicate: _.matchesProperty('__metadata.modelName', 'pagealt') },
+                    { path: '/{__metadata.urlPath}', predicate: _.matchesProperty('__metadata.modelName', 'project') },
                     { path: '/{__metadata.urlPath}', predicate: _.matchesProperty('__metadata.modelName', 'post') }
                 ],
                 commonProps: {

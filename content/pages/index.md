@@ -21,7 +21,7 @@ sections:
   - section_id: recent-projects
     type: section_posts
     title: Recent Projects
-    posts_number: 2
+    posts_number: 4
     actions:
       - label: View Portfolio
         url: /portfolio/
