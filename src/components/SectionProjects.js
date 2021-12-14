@@ -14,19 +14,19 @@ export default class SectionProjects extends React.Component {
         const date = _.get(post, 'date');
         const dateTimeAttr = moment(date).strftime('%Y-%m-%d %H:%M');
         const formattedDate = moment(date).strftime('%B %d, %Y');
-        const postUrl = getPageUrl(post, { withPrefix: true });
+        const postUrl = _.get(post, 'projectlink');
 
         return (
             <article key={index} className="post post-card-home">
                 <div className="post-inside">
                     {thumbImage && (
-                        <Link className="post-thumbnail" href={postUrl}>
+                        <Link className="post-thumbnail" href={postUrl} target="_blank">
                             <img src={withPrefix(thumbImage)} alt={thumbImageAlt} />
                         </Link>
                     )}
                     <header className="post-header">
                         <h3 className="post-title">
-                            <Link href={postUrl} rel="bookmark">{title}</Link>
+                            <Link href={postUrl} target="_blank" rel="bookmark">{title}</Link>
                         </h3>
                     </header>
                     {excerpt && (
