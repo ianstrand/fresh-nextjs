@@ -9,7 +9,6 @@ import SectionContent from './SectionContent';
 import SectionForm from './SectionForm';
 import SectionHero from './SectionHero';
 import SectionPosts from './SectionPosts';
-import SectionProjects from './SectionProjects';
 
 export {
     Action,

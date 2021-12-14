@@ -49,7 +49,7 @@ export default class Portfolio extends React.Component {
         const config = _.get(data, 'config');
         const page = _.get(this.props, 'page');
         const title = _.get(page, 'title');
-        const projects = _.orderBy(_.get(this.props, 'projects', []), 'date', 'desc');
+        const posts = _.orderBy(_.get(this.props, 'posts', []), 'date', 'desc');
 
         return (
             <Layout page={page} config={config}>
@@ -58,7 +58,7 @@ export default class Portfolio extends React.Component {
                 </header>
                 <div className="post-feed">
                     <div className="post-feed-inside">
-                        {_.map(projects, (post, index) => this.renderPost(post, index))}
+                        {_.map(posts, (post, index) => this.renderPost(post, index))}
                     </div>
                 </div>
             </Layout>
