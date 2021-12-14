@@ -49,7 +49,8 @@ export default class Portfolio extends React.Component {
         const config = _.get(data, 'config');
         const page = _.get(this.props, 'page');
         const title = _.get(page, 'title');
-        const posts = _.orderBy(_.get(this.props, 'posts', []), 'date', 'desc');
+        const project = _.get(page, 'project');
+        const posts = _.filter(_.orderBy(_.get(this.props, 'posts', []), 'date', 'desc'), ['project', true]);
 
         return (
             <Layout page={page} config={config}>

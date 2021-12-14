@@ -416,6 +416,14 @@ img {
   max-width: 100%;
 }
 
+.post-image {
+  height: auto;
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .post-image,
 .post-content,
 .block {

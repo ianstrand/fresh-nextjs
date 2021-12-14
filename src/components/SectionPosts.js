@@ -44,8 +44,9 @@ export default class SectionPosts extends React.Component {
         const section = _.get(this.props, 'section');
         const sectionId = _.get(section, 'section_id');
         const title = _.get(section, 'title');
+        const blog = _.get(section, 'blog');
         const actions = _.get(section, 'actions');
-        const posts = _.orderBy(_.get(this.props, 'posts', []), 'date', 'desc');
+        const posts = _.filter(_.orderBy(_.get(this.props, 'posts', []), 'date', 'desc'), ['blog', true]);
         const postsNumber = _.get(section, 'posts_number', 2);
         const recentPosts = posts.slice(0, postsNumber);
 

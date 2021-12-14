@@ -44,17 +44,18 @@ export default class SectionProjects extends React.Component {
         const section = _.get(this.props, 'section');
         const sectionId = _.get(section, 'section_id');
         const title = _.get(section, 'title');
+        const project = _.get(section, 'project');
         const actions = _.get(section, 'actions');
-        const projects = _.orderBy(_.get(this.props, 'projects', []), 'date', 'desc');
-        const projectsNumber = _.get(section, 'projects_number', 2);
-        const recentProjects = projects.slice(0, projectsNumber);
+        const posts = _.filter(_.orderBy(_.get(this.props, 'posts', []), 'date', 'desc'), ['project', true]);
+        const postsNumber = _.get(section, 'posts_number', 2);
+        const recentPosts = posts.slice(0, postsNumber);
 
         return (
-            <section id={sectionId} className="block block-projects">
+            <section id={sectionId} className="block block-posts">
                 {title && <h2 className="block-title underline inner-sm">{title}</h2>}
                 <div className="post-feed">
                     <div className="post-feed-inside">
-                        {_.map(recentProjecs, (post, index) => this.renderPost(post, index))}
+                        {_.map(recentPosts, (post, index) => this.renderPost(post, index))}
                     </div>
                 </div>
                 {!_.isEmpty(actions) && (
