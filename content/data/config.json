@@ -27,11 +27,6 @@
                 "style": "link"
             },
             {
-                "label": "contact",
-                "url": "/contact/",
-                "style": "link"
-            },
-            {
                 "label": "blog",
                 "url": "/blog/",
                 "style": "link"
