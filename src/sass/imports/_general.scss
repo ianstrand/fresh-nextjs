@@ -397,6 +397,7 @@ border-radius: 5px;
 
 .post-content,
 .block {
+  iframe[src*="codesandbox.io"],
   iframe[src*="vimeo.com"],
   iframe[src*="youtube.com"] {
     border-radius: 5px;

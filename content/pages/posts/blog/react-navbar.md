@@ -41,12 +41,21 @@ seo:
 layout: post
 ---
 ### Iteration 1: Navbar in CodeSandbox
-<br />
-<a href="https://codesandbox.io/s/cckut" target="_blank">
+
+<iframe src="https://codesandbox.io/embed/webd171-assignment-1-cckut?fontsize=14&theme=dark&view=preview"
+     style="width:100%; height:500px; border:0; border-radius: 5px; overflow:hidden;"
+     title="webd171-assignment-1"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+   ></iframe> 
+
+   Placeholder<br /><br />
+
+<!-- <a href="https://codesandbox.io/s/cckut" target="_blank">
   <img alt="CodeSandbox Navbar" src="/images/posts/blogimages1.jpg" style="padding-top:10px;padding-bottom:10px;">
 </a>
 <br />
-[Code SandBox Link] <a href="https://codesandbox.io/s/cckut" target="_blank">https://codesandbox.io/s/cckut</a><br /><br />
+[Code SandBox Link] <a href="https://codesandbox.io/s/cckut" target="_blank">https://codesandbox.io/s/cckut</a><br /><br /> -->
 
 ### Iteration 2: Simple Navbar with ReactJS
 <br />
