@@ -17,20 +17,20 @@ export default class SectionProjects extends React.Component {
         const postUrl = _.get(post, 'projectlink');
 
         return (
-            <article key={index} className="post post-card-home">
-                <div className="post-inside">
+            <article key={index} className="project project-card-home">
+                <div className="project-inside">
                     {thumbImage && (
-                        <Link className="post-thumbnail" href={postUrl} target="_blank">
+                        <Link className="project-thumbnail" href={postUrl} target="_blank">
                             <img src={withPrefix(thumbImage)} alt={thumbImageAlt} />
                         </Link>
                     )}
-                    <header className="post-header">
-                        <h3 className="post-title">
+                    <header className="project-header">
+                        <h3 className="project-title">
                             <Link href={postUrl} target="_blank" rel="bookmark">{title}</Link>
                         </h3>
                     </header>
                     {excerpt && (
-                        <div className="post-content">
+                        <div className="project-content">
                             <p>{excerpt}</p>
                         </div>
                     )}
@@ -51,10 +51,10 @@ export default class SectionProjects extends React.Component {
         const recentPosts = posts.slice(0, postsNumber);
 
         return (
-            <section id={sectionId} className="block block-posts">
+            <section id={sectionId} className="block block-projects">
                 {title && <h2 className="block-title underline inner-sm">{title}</h2>}
-                <div className="post-feed">
-                    <div className="post-feed-inside">
+                <div className="project-feed">
+                    <div className="project-feed-inside">
                         {_.map(recentPosts, (post, index) => this.renderPost(post, index))}
                     </div>
                 </div>

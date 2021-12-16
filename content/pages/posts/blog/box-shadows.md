@@ -2,9 +2,9 @@
 title: Box Shadows with CSS
 blog: true
 excerpt: >-
-  Box Shadows with CSS
+  Box Shadows with CSS entry level web designer, focused on growth • My name is Ian Strand, and I am using the Web Design program at San Diego Mesa College to improve my online presence as an independent artist and to augment my professional skills. 
 date: '2021-11-17'
-projectlink: https://strandian.com/SDCCD/webd168/ch05_assignment/start/05_beautiful_boxes.html
+projectlink: /posts/blog/box-shadows/
 thumb_img_path: images/posts/blogimages28.jpg
 thumb_img_alt: Responsive Web Design with CSS
 content_img_path: images/9.jpg
@@ -37,6 +37,16 @@ seo:
       relativeUrl: true
 layout: post
 ---
+
+https://strandian.com/SDCCD/webd168/ch05_assignment/start/05_beautiful_boxes.html
+
+<div style="padding:0;position:relative;">
+              <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/" target="_blank">
+                <div class="thumbnail">
+                  <iframe src="https://strandian.com/" frameborder="0" onload="this.style.opacity = 1"></iframe>
+                </div>
+                </a> </div>
+            </div>
 
 ### Long Distance Hiking
 <a href="https://strandian.com/SDCCD/webd168/ch08_assignment/ch08_acme.html" target="_blank">

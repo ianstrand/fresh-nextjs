@@ -331,11 +331,11 @@ input[type="submit"],
 input[type="button"],
 input[type="reset"],
 .button {
-  background: _palette(accent);
+  background: #eaeaea;
   border: 2px solid _palette(accent);
   border-radius: 5px;
   box-sizing: border-box;
-  color: #fff;
+  color: white;
   display: inline-block;
   font-size: 14px;
   letter-spacing: 0.075em;

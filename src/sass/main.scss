@@ -14,7 +14,7 @@ $palette: (
   bg:            lighten(#555e69, 60%),
   accent:        #000000,
   accent-blue:   #000000,
-  accent-violet: #9371e6,
+  accent-violet: #eaeaea,
   accent-orange: #fc6e51
 
   /* primary:       #555e69,
@@ -36,6 +36,8 @@ $palette: (
 @import "imports/structure";
 @import "imports/header";
 @import "imports/posts-pages";
+@import "imports/projects-pages";
+// @import "imports/web-preview";
 @import "imports/sections";
 @import "imports/footer";
 @import "imports/palettes";

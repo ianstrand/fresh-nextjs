@@ -18,20 +18,20 @@ export default class Portfolio extends React.Component {
         // const postUrl = getPageUrl(post, { withPrefix: true });
 
         return (
-            <article key={index} className="post post-card">
-                <div className="post-inside">
+            <article key={index} className="project project-card">
+                <div className="project-inside">
                     {thumbImage && (
-                        <Link className="post-thumbnail" href={postUrl} target="_blank">
+                        <Link className="project-thumbnail" href={postUrl} target="_blank">
                             <img src={withPrefix(thumbImage)} alt={thumbImageAlt} />
                         </Link>
                     )}
-                    <header className="post-header">
-                        <h2 className="post-title">
+                    <header className="project-header">
+                        <h2 className="project-title">
                             <Link href={postUrl} target="_blank" rel="bookmark">{title}</Link>
                         </h2>
                     </header>
                     {excerpt && (
-                        <div className="post-content">
+                        <div className="project-content">
                             <p>{excerpt}</p>
                         </div>
                     )}
@@ -40,7 +40,7 @@ export default class Portfolio extends React.Component {
         );
     }
 
-    /* <footer className="post-meta">
+    /* <footer className="project-meta">
                         <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
                     </footer> */
 
@@ -57,8 +57,8 @@ export default class Portfolio extends React.Component {
                 <header className="screen-reader-text">
                     <h1>{title}</h1>
                 </header>
-                <div className="post-feed">
-                    <div className="post-feed-inside">
+                <div className="project-feed">
+                    <div className="project-feed-inside">
                         {_.map(posts, (post, index) => this.renderPost(post, index))}
                     </div>
                 </div>
