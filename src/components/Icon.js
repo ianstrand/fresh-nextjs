@@ -73,6 +73,13 @@ export default class Icon extends React.Component {
         l11.159-7.463l13.822,9.245V87.953z M60,67.543L48.723,60L60,52.458L71.276,60L60,67.543z M63.188,87.953V73.082l13.823-9.245
         L88.17,71.3L63.188,87.953z M90.723,65.336L82.746,60l7.977-5.335V65.336z"/></svg>
                 );
+            case 'download':
+                return (
+                    <svg className="icon download" xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20">
+  <path fill-rule="evenodd" d="M3 17a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm3.293-7.707a1 1 0 011.414 0L9 10.586V3a1 1 0 112 0v7.586l1.293-1.293a1 1 0 111.414 1.414l-3 3a1 1 0 01-1.414 0l-3-3a1 1 0 010-1.414z" clip-rule="evenodd" />
+</svg>
+
+                );
             default:
                 return null;
         }

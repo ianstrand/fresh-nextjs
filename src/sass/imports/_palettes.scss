@@ -15,20 +15,22 @@
   input[type="button"],
   input[type="reset"],
   .button {
-    background: _palette(accent-blue);
-    border-color: _palette(accent-blue);
+    background: _palette(accent-violet);
+    border-color: _palette(accent-violet);
+    color: _palette(primary);
 
     &:hover,
     &:focus,
     &:active {
       background: transparent;
-      border-color: _palette(accent-blue);
+      border-color: _palette(primary);
+      color: _palette(primary);
     }
   }
 
   .underline {
     &:after {
-      border-color: _palette(accent-blue);
+      border-color: _palette(accent-violet);
     }
   }
 
@@ -44,17 +46,21 @@
     a {
       &:not(.button) {
         &:hover {
-          color: _palette(accent-blue);
+          color: _palette(accent-violet);
         }
       }
 
       &.button-icon {
+        background: transparent;
+        border-color: transparent;
+        color: _palette(primary);
+
         &:hover,
         &:focus,
         &:active {
-          background: _palette(accent-blue);
-          border-color: _palette(accent-blue);
-          color: #fff;
+          background: _palette(accent-violet);
+          border-color: _palette(accent-violet);
+          color: _palette(primary);
 
         }
       }
@@ -62,7 +68,7 @@
   }
 
   .menu-item.current-menu-item,
-  .menu-item :not(.button):hover,
+  //.menu-item :not(.button):hover,
   .post-title a:hover {
     color: _palette(accent-blue);
   }
@@ -75,9 +81,14 @@
     .menu-item .button:hover,
     .menu-item .button:focus,
     .menu-item .button:active {
-      color: _palette(accent-blue);
+      color: _palette(accent-violet);
     }
   }
+
+  .menu-item svg {
+  color: _palette(primary);
+  padding-right: 5px;
+}
 }
 
 .palette-violet {

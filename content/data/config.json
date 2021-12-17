@@ -27,6 +27,11 @@
                 "style": "link"
             },
             {
+                "label": "contact",
+                "url": "/contact/",
+                "style": "link"
+            },
+            {
                 "label": "blog",
                 "url": "/blog/",
                 "style": "link"
@@ -66,18 +71,20 @@
         "has_navb": true,
         "nav_linksb": [
             {
-                "label": "style guide",
+                "label": " style guide",
                 "filename": "Ian Strand Style Guide.pdf",
                 "url": "/Ian Strand Style Guide.pdf",
                 "style": "link",
+                "icon_class": "download",
                 "new_window": true,
                 "download_attr": true
             },
             {
-                "label": "résumé",
+                "label": " résumé",
                 "filename": "Ian Strand Resume.pdf",
                 "url": "/Ian Strand Resume.pdf",
                 "style": "link",
+                "icon_class": "download",
                 "new_window": true,
                 "download_attr": true
             }

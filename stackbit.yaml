@@ -72,6 +72,11 @@ sourceMapping:
     target:
       file: config.yml
       fieldPath: 'params.header.social_links[5].url'
+  - source:
+      fieldPath: social.download.url
+    target:
+      file: config.yml
+      fieldPath: 'params.header.social_links[6].url'
   - action: delete
     condition: context.social && !context.social.codepen
     target:
@@ -560,6 +565,7 @@ models:
           - vimeo
           - youtube
           - codepen
+          - download
         default: dev
       - type: boolean
         name: new_window

@@ -46,6 +46,7 @@ export default class Header extends React.Component {
                 {_.map(navLinks, (action, index) => {
                     const actionUrl = _.trim(_.get(action, 'url'), '/');
                     const actionStyle = _.get(action, 'style', 'link');
+                    const icon = _.get(action, 'icon_class', '');
                     return (
                         <li
                             key={index}
@@ -54,13 +55,15 @@ export default class Header extends React.Component {
                                 'menu-button': actionStyle === 'button'
                             })}
                         >
-                            <Action action={action} />
+                            <Icon icon={icon} /><Action action={action} />
                         </li>
                     )
                 })}
             </ul>
         )
     }
+
+    
 
     renderSocialLinks(socialLinks) {
         return (
@@ -140,7 +143,7 @@ export default class Header extends React.Component {
                             </div>
                             {((hasNav && !_.isEmpty(navLinks)) || (hasSocial && !_.isEmpty(socialLinks)) || (hasSocial && !_.isEmpty(navLinksB))) && <button id="menu-toggle" className="menu-toggle" ref={this.menuOpenRef} onClick={this.handleMenuToggle.bind(this)}><span className="screen-reader-text">Menu</span><span className="icon-menu" aria-hidden="true" /></button>}
                         </div>
-                        {((hasNav && !_.isEmpty(navLinks)) || (hasSocial && !_.isEmpty(socialLinks))) && (
+                        {((hasNav && !_.isEmpty(navLinks)) || (hasNavB && !_.isEmpty(navLinksB)) || (hasSocial && !_.isEmpty(socialLinks))) && (
                             <nav id="main-navigation" className="site-navigation" aria-label="Main Navigation">
                                 <div className="site-nav-wrap">
                                     <div className="site-nav-inside">
