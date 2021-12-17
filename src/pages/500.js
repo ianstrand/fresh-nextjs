@@ -5,7 +5,7 @@ export default function Custom500() {
   const router = useRouter()
 
   useEffect(() => {
-    router.replace("/error/")
+    router.replace("/error500/")
   })
 
   return null
