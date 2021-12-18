@@ -1,5 +1,6 @@
 import Document, { Html, Head, Main, NextScript } from 'next/document';
 import { Helmet } from 'react-helmet';
+import * as gtag from "../lib/ga/gtag";
 
 export default class MyDocument extends Document {
     static async getInitialProps(ctx) {
@@ -35,6 +36,24 @@ export default class MyDocument extends Document {
                 <body {...this.helmetBodyAttrComponents}>
                     <Main />
                     <script src="/js/plugins.js" />
+                    {/* Global Site Tag (gtag.js) - Google Analytics */}
+                      <script
+                        strategy="afterInteractive"
+                        src={`https://www.googletagmanager.com/gtag/js?id=${gtag.GA_TRACKING_ID}`}
+                      />
+                      <script
+                        strategy="afterInteractive"
+                        dangerouslySetInnerHTML={{
+                          __html: `
+                            window.dataLayer = window.dataLayer || [];
+                            function gtag(){dataLayer.push(arguments);}
+                            gtag('js', new Date());
+                            gtag('config', '${gtag.GA_TRACKING_ID}', {
+                              page_path: window.location.pathname,
+                            });
+                          `,
+                        }}
+                      />
                     <NextScript />
                 </body>
             </Html>
