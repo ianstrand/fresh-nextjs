@@ -1,7 +1,8 @@
 import '../sass/main.scss';
-import { useEffect } from "react";
 import Document, { NextScript } from 'next/document';
+import Router, { route } from "next/router"
 import { useRouter } from "next/router";
+import { useEffect } from "react";
 import * as gtag from "../lib/ga/gtag";
 
 // This default export is required in a new `pages/_app.js` file.
