@@ -2,6 +2,7 @@ import '../sass/main.scss';
 import { useEffect } from "react";
 import Document, { NextScript } from 'next/document';
 import { useRouter } from "next/router";
+import * as gtag from "../lib/ga/gtag";
 
 // This default export is required in a new `pages/_app.js` file.
 export default function MyApp({ Component, pageProps }) {
@@ -21,7 +22,7 @@ export default function MyApp({ Component, pageProps }) {
       {/* Global Site Tag (gtag.js) - Google Analytics */}
       <script
         strategy="afterInteractive"
-        src={`https://www.googletagmanager.com/gtag/js?id=XXXXXXXXX`}
+        src={`https://www.googletagmanager.com/gtag/js?id=${gtag.GA_TRACKING_ID}`}
       />
       <script
         strategy="afterInteractive"
@@ -30,7 +31,7 @@ export default function MyApp({ Component, pageProps }) {
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-XXXXXXX', {
+            gtag('config', '${gtag.GA_TRACKING_ID}', {
               page_path: window.location.pathname,
             });
           `,
