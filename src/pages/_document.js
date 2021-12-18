@@ -32,11 +32,8 @@ export default class MyDocument extends Document {
         // const pageProps = _.get(this.props, '__NEXT_DATA__.props.pageProps');
         return (
             <Html {...this.helmetHtmlAttrComponents}>
-                <Head>{this.helmetHeadComponents}</Head>
-                <body {...this.helmetBodyAttrComponents}>
-                    <Main />
-                    <script src="/js/plugins.js" />
-                    {/* Global Site Tag (gtag.js) - Google Analytics */}
+                <Head>{this.helmetHeadComponents}
+                {/* Global Site Tag (gtag.js) - Google Analytics */}
                       <script
                         strategy="afterInteractive"
                         src={`https://www.googletagmanager.com/gtag/js?id=${gtag.GA_TRACKING_ID}`}
@@ -54,6 +51,10 @@ export default class MyDocument extends Document {
                           `,
                         }}
                       />
+                </Head>
+                <body {...this.helmetBodyAttrComponents}>
+                    <Main />
+                    <script src="/js/plugins.js" />
                     <NextScript />
                 </body>
             </Html>
