@@ -14,12 +14,12 @@ export default class Blog extends React.Component {
         const date = _.get(post, 'date');
         const dateTimeAttr = moment(date).strftime('%Y-%m-%d %H:%M');
         const formattedDate = moment(date).strftime('%B %d, %Y');
-        const postUrl = _.get(post, 'projectlink');
-        //const postUrl = getPageUrl(post, { withPrefix: true });
+        //const postUrl = _.get(post, 'projectlink');
+        const postUrl = getPageUrl(post, { withPrefix: true });
 
         return (
             <article key={index} className="post post-card">
-                <Link href={postUrl} target="_blank" rel="bookmark"><div className="post-inside">
+                <Link href={postUrl} rel="bookmark"><div className="post-inside">
                     <header className="post-header">
                         <h2 className="post-title">
                             {title}
@@ -37,12 +37,6 @@ export default class Blog extends React.Component {
             </article>
         );
     }
-
-    /* {excerpt && (
-                        <div className="post-content">
-                            <p>{excerpt}</p>
-                        </div>
-                    )} */
 
     /* <footer className="post-meta">
                         <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>

@@ -42,7 +42,7 @@ layout: post
 ---
 ### Iteration 1: Navbar in CodeSandbox
 
-<iframe src="https://codesandbox.io/embed/webd171-assignment-1-cckut?fontsize=14&theme=dark&view=preview"
+<iframe src="https://codesandbox.io/embed/webd171-assignment-1-cckut?fontsize=14&theme=light&view=preview"
      style="width:100%; height:500px; border:0; border-radius: 5px; overflow:hidden;"
      title="webd171-assignment-1"
      allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
