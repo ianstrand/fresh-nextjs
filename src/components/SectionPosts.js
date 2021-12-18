@@ -14,11 +14,11 @@ export default class SectionPosts extends React.Component {
         const date = _.get(post, 'date');
         const dateTimeAttr = moment(date).strftime('%Y-%m-%d %H:%M');
         const formattedDate = moment(date).strftime('%B %d, %Y');
-        const postUrl = _.get(post, 'projectlink');
+        const postUrl = getPageUrl(post, { withPrefix: true });
 
         return (
             <article key={index} className="post post-card-home">
-                <Link href={postUrl} target="_blank" rel="bookmark"><div className="post-inside">
+                <Link href={postUrl} rel="bookmark"><div className="post-inside">
                     <header className="post-header">
                         <h3 className="post-title">
                             {title}
