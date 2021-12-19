@@ -32,33 +32,160 @@ seo:
 layout: page
 ---
 
-Ian Strand graduated from the University of Michigan in 2017 with Bachelor’s degrees in Art & Design and Screen Arts & Cultures. He has worked at the Athenaeum Music & Arts library for the past four years, and during that time has amassed experience in web development through classes with the San Diego Community College District, volunteering, and personal projects. Ian also interned as a graphic designer at the company Rolling Design in 2016.
+<div style="padding-bottom:0.5em;" markdown='1'>
+  
+Ian is an artist with digital design, photography, and videography experience; other areas of focus in his studies have included abstract expressionist oil painting, experimental projection, and animation. He has more than five years experience producing materials for print and online promotional purposes.
 
-Ian is an artist with digital design, photography, and videography experience; other areas of focus in his studies have included abstract expressionist oil painting, experimental projection, and animation. 
+Ian has volunteered for the ACLU, the Veterans Village of San Diego, the San Diego County Young Democrats, and the San Diego International Film Festival, the North Coastal Art Gallery in a variety of creative and marketing roles.
 
-#### Webpage Design and Development
-+ I have designed several websites in my classes at Mesa College, and I regularly update the Carlsbad Oceanside Art League website.
+</div>
 
-#### Web Creation Tools
-+ I have used Dreamweaver and Wordpress. I am familiar with various web hosting sites, such as MDDHosting, GoDaddy, and DreamHost.
+### Skills
 
-#### Programming Languages
-+ I have experience with HTML, CSS, PHP, MySQL, Processing, and Javascript.
+<hr />
 
-#### Digital Imagining / Graphic Design
-+ I am skilled with the Adobe Suite, and I have worked as a graphic designer at Rolling Design – a design company in Shenzhen.
+#### Languages
 
-#### Drawing Programs
-+ I tend to use Adobe Photoshop. I prefer to sketch on paper, scan the drawing, and then use a tablet to digitally revise my work.
+<div class="two-col" markdown='1'>
 
-#### Designs for Print
-+ I have designed a greeting card and often create posters, flyers, and other printed matter at the Athenaeum Music & Arts Library.
++ HTML5
++ CSS3
+<ul>
+  <li>SASS / SCSS / LESS</li>
+</ul>
++ JavaScript
+  <ul>
+    <li>Ajax techniques</li>
+    <li>ReactJS, AngularJS, jQuery libraries</li>
+  </ul>
++ PHP
++ MySQL
++ Ruby
++ <a href="https://processing.org/" target="_blank">Processing</a> (flexible software sketchbook)
 
-#### Education
-+ I have designed several websites in my classes at Mesa College, and I regularly update the Carlsbad Oceanside Art League website.
+</div>
 
-#### Skills
-+ I have designed several websites in my classes at Mesa College, and I regularly update the Carlsbad Oceanside Art League website.
+<hr />
 
-#### Awards
-+ I have designed several websites in my classes at Mesa College, and I regularly update the Carlsbad Oceanside Art League website.
+#### Tools & Practices
+
+<div class="two-col" markdown='1'>
+
++ Git / version control
++ Website management
+<ul>
+  <li>WordPress CMS</li>
+  <li>Squarespace CMS</li>
+  <li>cPanel</li>
+</ul>
++ Mass emailing best practices
++ UI / UX design
+<ul>
+  <li>Figma</li>
+</ul>
++ Wireframing tools
+<ul>
+  <li>Axure RP</li>
+</ul>
++ Website mockup creation
++ Code Editors
+<ul>
+  <li>Visual Studio Code</li>
+  <li>Webstorm</li>
+  <li>Sublime Text</li>
+</ul>
+</div>
+
+<hr />
+
+#### Design
+
+<div class="two-col" markdown='1'>
+
++ Photo and video editing
++ Adobe
+<ul>
+  <li>Illustrator</li>
+  <li>InDesign</li>
+  <li>Photoshop</li>
+  <li>After Effects</li>
+  <li>XD</li>
+  <li>Dreamweaver</li>
+  <li>Substance 3D</li>
+</ul>
++ Clip Studio Paint
++ Avid
+<ul>
+  <li>Pro Tools</li>
+  <li>Media Composer</li>
+</ul>
++ Autodesk
+<ul>
+  <li>Maya</li>
+  <li>Mudbox</li>
+  <li>3ds Max</li>
+</ul>
++ Rhino
++ Microsoft Office
+
+</div>
+
+<div style="padding-top:4em;" markdown='1'>
+
+### Education
+
+<hr />
+
+##### Penny W. Stamps School Of Art & Design
+Bachelor of Arts, *Art & Design*, 2017
+
+<!--
++ Portfolio included specialties in oil painting, photography, digital animation, and experimental cinematography / projection. 
++ Participated in the Michigan International Internship and Service Program.
++ Completed photography coursework at the SACI College of Art & Design in Venice, Italy -->
+
+##### University of Michigan
+Bachelor of Arts, *Screen Arts & Cultures*, 2017
+
+<!--
++ Enrolled in the Residential College Program and completed four years of French and Francophone studies. 
++ Other areas of study included Anthropology and Computer Science. -->
+
+##### San Diego Miramar College
+Certificate of Achievement, *Web Design*, 2021
+
+<!--
++ Topics have covered usability, accessibility, and design principles. -->
+
+</div>
+
+<div style="padding-top:2em;" markdown='1'>
+
+### Exhibitions
+
+<hr />
+
+**2016** <br/>
+TEDxUofM Chroma Gallery, Ann Arbor, MI 
+
+**2015** <br/>
+2.99e8 Gallery at Palmer Commons, University of Michigan, Ann Arbor, MI
+
+</div>
+
+<div style="padding-top:2em;" markdown='1'>
+
+### Awards
+
+<hr />
+
+**2016** <br/>
+Residential College Study Abroad Scholarship
+
+**2016** <br/>
+Anderson Ranch Arts Center Student Scholarship
+
+**2015** <br/>
+Guy Palazzola Award for portfolio
+
+</div>

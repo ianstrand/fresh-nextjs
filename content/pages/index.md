@@ -12,8 +12,7 @@ sections:
   - section_id: about
     type: section_content
     title: 
-    content: >-
-     With both a web design and fine arts background, Ian Strand has a wide range of skills and experience that include website mockup design and wireframing, database creation and maintenance, content management system implementation, and various multimedia asset creation for web in adherance with Web Content Accessibility Guidelines.
+    content: With both a web design and fine arts background, Ian Strand has a wide range of skills and experience that include website mockup design and wireframing, database creation and maintenance, content management system implementation, and various multimedia asset creation for web in adherance with Web Content Accessibility Guidelines.
   - section_id: recent-projects
     type: section_projects
     title: Recent Projects

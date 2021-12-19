@@ -42,7 +42,7 @@ layout: post
 ---
 
 ### A sample artist website made using a customized OpenCart theme.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
+One of my favorite independent web development projects has been to construct an online shop using OpenCart, starting from a mockup design. I very much enjoyed developing my original concept created with wireframing tools to an e-commerce site by using a custom theme. The most challenging aspect of developing this site for me was to ensure that it was still fully accessible and responsive with this custom theme. It is important to test out websites by accessing them from a variety of browsers and devices, and with the help of web developer tools such as Chrome DevTools. 
 
 <h4 align="center">
 Link to live example
