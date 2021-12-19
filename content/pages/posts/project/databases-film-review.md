@@ -1,7 +1,6 @@
 ---
 title: Film Review Website
 project: true
-subtitle: A sample film review website created with PHP and MySQL.
 excerpt: >-
   A sample film review website created with PHP and MySQL.
 date: '2021-11-09'
@@ -39,7 +38,7 @@ seo:
 layout: post
 ---
 
-### Webpage Design and Development
+### A sample film review website created with PHP and MySQL.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
 
 <h4 align="center">

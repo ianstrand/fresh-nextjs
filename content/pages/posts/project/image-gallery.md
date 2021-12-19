@@ -1,7 +1,6 @@
 ---
 title: JavaScript Image Gallery
 project: true
-subtitle: A slider image gallery created with JavaScript.
 excerpt: >-
   A slider image gallery created with JavaScript. 
 date: '2021-11-03'
@@ -39,7 +38,7 @@ seo:
 layout: post
 ---
 
-### Webpage Design and Development
+### A slider image gallery created with JavaScript.
 In my free time, I like to explore San Diego and work on my photography portfolio. One of my favorite San Diego activities has been volunteering for the San Diego International Film Festival. There, I helped coordinate the event photographers and was able to also add to my own photography portfolio!
 
 <h4 align="center">

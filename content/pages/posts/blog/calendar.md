@@ -2,7 +2,7 @@
 title: Calendar with PHP
 blog: true
 excerpt: >-
-  Calendar with PHP - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
 date: '2021-11-02'
 projectlink: https://strandian.com/SDCCD/webd167/coursework/lessons/ch02/calendar.php
 thumb_img_path: images/posts/blogimages34.jpg

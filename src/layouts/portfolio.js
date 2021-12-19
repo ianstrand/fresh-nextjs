@@ -25,16 +25,7 @@ export default class Portfolio extends React.Component {
                             <img src={withPrefix(thumbImage)} alt={thumbImageAlt} />
                         </Link>
                     )}
-                    <header className="project-header">
-                        <h2 className="project-title">
-                            <Link href={postUrl} rel="bookmark">{title}</Link>
-                        </h2>
-                    </header>
-                    {excerpt && (
-                        <div className="project-content">
-                            <p>{excerpt}</p>
-                        </div>
-                    )}
+                    
                 </div>
             </article>
         );

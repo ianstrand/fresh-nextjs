@@ -32,9 +32,9 @@ seo:
 layout: page
 ---
 
-I am a graduate of the University of Michigan, and I work as an Administrative Assistant and Murals of La Jolla Liaison at the Athenaeum Music & Arts Library. I have Bachelor of Arts degrees in Art & Design and Screen Arts & Cultures, with an emphasis in French & Francophone Studies. Although I am focusing right now on my administrative work, I would like to eventually go back to school and earn a graduate degree. I would also like to find work experience as a camera operator or cinematographer on a student or independent film. I currently make my own short videos and have experience in event videography.
+Ian Strand graduated from the University of Michigan in 2017 with Bachelor’s degrees in Art & Design and Screen Arts & Cultures. He has worked at the Athenaeum Music & Arts library for the past four years, and during that time has amassed experience in web development through classes with the San Diego Community College District, volunteering, and personal projects. Ian also interned as a graphic designer at the company Rolling Design in 2016.
 
-In my free time, I like to explore San Diego and work on my photography portfolio. One of my favorite San Diego activities has been volunteering for the San Diego International Film Festival. There, I helped coordinate the event photographers and was able to also add to my own photography portfolio!
+Ian is an artist with digital design, photography, and videography experience; other areas of focus in his studies have included abstract expressionist oil painting, experimental projection, and animation. 
 
 #### Webpage Design and Development
 + I have designed several websites in my classes at Mesa College, and I regularly update the Carlsbad Oceanside Art League website.
@@ -53,3 +53,12 @@ In my free time, I like to explore San Diego and work on my photography portfoli
 
 #### Designs for Print
 + I have designed a greeting card and often create posters, flyers, and other printed matter at the Athenaeum Music & Arts Library.
+
+#### Education
++ I have designed several websites in my classes at Mesa College, and I regularly update the Carlsbad Oceanside Art League website.
+
+#### Skills
++ I have designed several websites in my classes at Mesa College, and I regularly update the Carlsbad Oceanside Art League website.
+
+#### Awards
++ I have designed several websites in my classes at Mesa College, and I regularly update the Carlsbad Oceanside Art League website.

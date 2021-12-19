@@ -2,7 +2,7 @@
 title: List Formatting
 blog: true
 excerpt: >-
-  List Formatting
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
 date: '2021-10-31'
 projectlink: https://strandian.com/SDCCD/webd167/coursework/lessons/ch02/multi.php
 thumb_img_path: images/posts/blogimages36.jpg
@@ -39,7 +39,7 @@ layout: post
 ---
 
 ### Webpage Design and Development
-In my free time, I like to explore San Diego and work on my photography portfolio. One of my favorite San Diego activities has been volunteering for the San Diego International Film Festival. There, I helped coordinate the event photographers and was able to also add to my own photography portfolio!
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
 
 <h4 align="center">
 Link to live example
@@ -66,7 +66,7 @@ Link to live example
     </a> </div>
 </div>
 
-In my free time, I like to explore San Diego and work on my photography portfolio. One of my favorite San Diego activities has been volunteering for the San Diego International Film Festival. There, I helped coordinate the event photographers and was able to also add to my own photography portfolio!
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
 
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="ZEXyOEj" data-user="strandian" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/strandian/pen/ZEXyOEj">

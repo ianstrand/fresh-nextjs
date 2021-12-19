@@ -41,7 +41,7 @@ layout: post
 ### Webpage Design and Development
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
 
-<iframe src="https://openprocessing.org/sketch/193833/embed/?plusEmbedHash=NDUxMGE5NjQ2OTZkYjZhZGNjZDFlZDY5NmM0MzJkYTg1NTZkMmViMDk4MDFhNzRlMzJiZWVlZWYxOTFkZjI4MWU4YjQxZDJjNThhMjIxZjIxZWViYjBlODU2M2Y1NjBiMDZkMjJmZGVmY2IwNGI5YjE5MWQ3MDU3MWM4Mjc2MDN0YkhPWWc0WjhKWG54SHhRRXZmTmxkZzAxSG5za21hbG14bklldWRvbFdnRnlURzFYTTlydWVZQU1nUG5VeTVJVE14NURIQWRZZzJveFlBcGhCL0Q3UT09&plusEmbedTitle=true" width="80%" height="400" style="margin-bottom: 2em;"></iframe>
+<iframe class="openprocessing" src="https://openprocessing.org/sketch/193833/embed/?plusEmbedHash=NzFiMjA5Yzc4ZDlhODk3NTFiOTEzOTM5MTNhMDZmY2E4NTU1NWIwNjFmY2NjNDIwMzYzNmQwZGMxZjJlZTMzYWY1Zjk0YzU0N2VhMDFmODZjZWExZmE1OTQ0M2MzYWVjMGRiZTcyZGZlNGEwNWUxMmVhYmNiNzg2YWIzODZkZmZnTHdYeDYyS2I4aGcreWFRMlZGNnc5bWtrNUMzc05nK3BPdjUxKzZVUTJaZm5WMEhtbTFzT0t3WTZEcEJWbWYrWVZkVDFmMy9BUmhESFUxU0xNTFUydz09&plusEmbedFullscreen=true" width="400" height="400" style="margin-bottom: 2em;"></iframe>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
 

@@ -406,9 +406,8 @@ border-radius: 5px;
   iframe[src*="youtube.com"] {
     border-radius: 5px;
     display: block;
-    margin-bottom: 1.66667rem;
-    margin-top: 1.66667rem;
-
+    margin: 1.66667rem auto;
+   
     &:first-child {
         margin-top: 0;
     }

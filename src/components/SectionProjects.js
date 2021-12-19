@@ -24,7 +24,14 @@ export default class SectionProjects extends React.Component {
                             <img src={withPrefix(thumbImage)} alt={thumbImageAlt} />
                         </Link>
                     )}
-                    <header className="project-header">
+                
+                    
+                </div>
+            </article>
+        );
+    }
+
+    /* <header className="project-header">
                         <h3 className="project-title">
                             <Link href={postUrl} rel="bookmark">{title}</Link>
                         </h3>
@@ -33,12 +40,9 @@ export default class SectionProjects extends React.Component {
                         <div className="project-content">
                             <p>{excerpt}</p>
                         </div>
-                    )}
-                    
-                </div>
-            </article>
-        );
-    }
+                    )} */
+
+
 
     render() {
         const section = _.get(this.props, 'section');

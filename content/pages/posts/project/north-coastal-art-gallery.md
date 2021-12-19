@@ -1,8 +1,6 @@
 ---
 title: North Coastal Art Gallery
 project: true
-subtitle: >-
-  The NCAG / Carlsbad Oceanside Art League Website, for which I am volunteer webmaster.
 excerpt: >-
   The NCAG / Carlsbad Oceanside Art League Website, for which I am volunteer webmaster.
 date: '2021-11-05'
@@ -40,7 +38,7 @@ seo:
 layout: post
 ---
 
-### Webpage Design and Development
+### The NCAG / Carlsbad Oceanside Art League Website.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
 
 <h4 align="center">
