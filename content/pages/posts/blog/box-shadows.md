@@ -38,19 +38,17 @@ seo:
 layout: post
 ---
 
-https://strandian.com/SDCCD/webd168/ch05_assignment/start/05_beautiful_boxes.html
+<iframe src="https://strandian.com/"></iframe>
 
-<div style="padding:0;position:relative;">
-              <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/" target="_blank">
-                <div class="thumbnail">
+<div className="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/" target="_blank">
+                <div className="thumbnail">
                   <iframe src="https://strandian.com/" frameborder="0" onload="this.style.opacity = 1"></iframe>
                 </div>
                 </a> </div>
-            </div>
 
 ### Long Distance Hiking
 <a href="https://strandian.com/SDCCD/webd168/ch08_assignment/ch08_acme.html" target="_blank">
-  <img alt="Qries" src="/images/5.jpg">
+  <img alt="Qries" src="/images/projects/5.jpg">
 </a>
 
 [Code Sandbox Link] <a href="https://strandian.com/SDCCD/webd168/ch08_assignment/ch08_acme.html" target="_blank">https://strandian.com/SDCCD/webd168/ch08_assignment/ch08_acme.html</a><br />
