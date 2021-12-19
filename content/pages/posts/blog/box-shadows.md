@@ -38,11 +38,9 @@ seo:
 layout: post
 ---
 
-<iframe src="https://strandian.com/"></iframe>
-
 <div className="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/" target="_blank">
                 <div className="thumbnail">
-                  <iframe src="https://strandian.com/" frameborder="0" onload="this.style.opacity = 1"></iframe>
+                  <iframe src="https://strandian.com/"></iframe>
                 </div>
                 </a> </div>
 
