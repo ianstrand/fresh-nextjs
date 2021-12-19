@@ -1,10 +1,9 @@
 ---
 title: Style Guide
-subtitle: >-
-  
+# subtitle: 
 seo:
   title: Theme Style Guide
-  description: A reference for suggested typographic treatment and styles for your content
+  description: A reference for suggested typographic treatment and styles
   extra:
     - name: 'og:type'
       value: website
@@ -14,11 +13,10 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
+        A reference for suggested typographic treatment and styles
       keyName: property
     - name: 'og:image'
-      value: images/1.jpg
+      # value: images/1.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -27,10 +25,9 @@ seo:
       value: Theme Style Guide
     - name: 'twitter:description'
       value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
+        A reference for suggested typographic treatment and styles
     - name: 'twitter:image'
-      value: images/1.jpg
+      # value: images/1.jpg
       relativeUrl: true
 layout: page
 ---

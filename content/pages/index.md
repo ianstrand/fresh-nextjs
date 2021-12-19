@@ -2,7 +2,7 @@
 title: Home
 hide_title: true
 img_path: images/home.jpg
-img_alt: Portrait of a man with beard and mustache
+img_alt: Desk with multi-monitor setup
 sections:
   - section_id: hero
     type: section_hero
@@ -46,7 +46,7 @@ seo:
       value: The portfolio of Ian Strand - seeking Web Development opportunities
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: images/home.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -56,7 +56,7 @@ seo:
     - name: 'twitter:description'
       value: The portfolio of Ian Strand - seeking Web Development opportunities
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: images/home.jpg
       relativeUrl: true
 layout: advanced
 ---

@@ -2,29 +2,29 @@
 title: '500'
 seo:
   title: '500'
-  description: This is the about me page
+  description: Page error 500
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Me
+      value: Page error 500
       keyName: property
     - name: 'og:description'
-      value: This is the about me page
+      value: Page error 500
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      # value: images/about.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Me
+      value: Page error 500
     - name: 'twitter:description'
-      value: This is the about me page
+      value: Page error 500
     - name: 'twitter:image'
-      value: images/about.jpg
+      # value: images/about.jpg
       relativeUrl: true
 layout: page
 ---
