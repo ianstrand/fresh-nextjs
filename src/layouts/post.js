@@ -4,9 +4,11 @@ import moment from 'moment-strftime';
 
 import { Layout } from '../components/index';
 import { htmlToReact, withPrefix, markdownify } from '../utils';
+import CtaButtons from '../components/CtaButtons';
 
 export default class Post extends React.Component {
     render() {
+        const section = _.get(this.props, 'section');
         const data = _.get(this.props, 'data');
         const config = _.get(data, 'config');
         const page = _.get(this.props, 'page');
@@ -15,6 +17,7 @@ export default class Post extends React.Component {
         const link = _.get(page, 'projectlink');
         const image = _.get(page, 'content_img_path');
         const imageAlt = _.get(page, 'content_img_alt', '');
+        const actions = _.get(section, 'actions');
         const date = _.get(page, 'date');
         const dateTimeAttr = moment(date).strftime('%Y-%m-%d %H:%M');
         const formattedDate = moment(date).strftime('%A, %B %e, %Y');
@@ -27,12 +30,11 @@ export default class Post extends React.Component {
                         <h1 className="post-title underline">{title}</h1>
                         {subtitle && <div className="post-subtitle">{htmlToReact(subtitle)}</div>}
                     </header>
-                    <a href="{link}" target="_blank">
                     {image && (
                         <div className="post-image">
                             <img src={withPrefix(image)} alt={imageAlt} />
                         </div>
-                    )}</a>
+                    )}
                     {markdownContent && <div className="post-content inner-sm">{markdownify(markdownContent)}</div>}
                 </article>
             </Layout>

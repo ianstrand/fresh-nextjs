@@ -2,46 +2,53 @@
 title: OpenProcessing Sketch - Fireflies
 blog: true
 excerpt: >-
-  OpenProcessing Sketch - Fireflies
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
 date: '2021-10-28'
 projectlink: https://openprocessing.org/sketch/642529
 thumb_img_path: images/posts/blogimages46.jpg
-thumb_img_alt: Responsive Web Design with CSS
-content_img_path: images/9.jpg
-content_img_alt: Responsive Web Design with CSS
+thumb_img_alt: OpenProcessing Sketch - Fireflies
+content_img_path: images/posts/blogimages46.jpg
+content_img_alt: OpenProcessing Sketch - Fireflies
 seo:
-  title: Responsive Web Design with CSS
-  description: Responsive Web Design with CSS
+  title: OpenProcessing Sketch - Fireflies
+  description: OpenProcessing Sketch - Fireflies
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Responsive Web Design with CSS
+      value: OpenProcessing Sketch - Fireflies
       keyName: property
     - name: 'og:description'
-      value: Responsive Web Design with CSS
+      value: OpenProcessing Sketch - Fireflies
       keyName: property
     - name: 'og:image'
-      value: images/9.jpg
+      value: images/posts/blogimages46.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Responsive Web Design with CSS
+      value: OpenProcessing Sketch - Fireflies
     - name: 'twitter:description'
-      value: Responsive Web Design with CSS
+      value: OpenProcessing Sketch - Fireflies
     - name: 'twitter:image'
-      value: images/9.jpg
+      value: images/posts/blogimages46.jpg
       relativeUrl: true
 layout: post
 ---
 
-### Long Distance Hiking
-<a href="https://strandian.com/SDCCD/webd168/ch08_assignment/ch08_acme.html" target="_blank">
-  <img alt="Qries" src="/images/5.jpg">
+### Webpage Design and Development
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
+
+<iframe src="https://openprocessing.org/sketch/642529/embed/?plusEmbedHash=MWZjYzVjOTA4NDc0YmYzZjhiNTZmZjQ4ODNhNjcyODAwMGViMzk0NzkxNDc0MWJkZGIxYzUxNjg2MGRhMWJmZWViYTA0YTMyYTVkMDRjZWE0N2Y2NmU2NTI0NmE4NTBiNGM5OWE5OTgxNmVlMTFiYjMzMzhkZWU0NjliMTBmZjFBbHlyV0xtd3g4eHlHT0x2R0RHZzBSZjRGK3hNRkxHckx0aERKNG5FWVZZbXRxRWZYSUxEbE45MUk0VlRJSXBvNTRzT0hxZFFBMWRQNlltaHpSTkdJQT09&plusEmbedFullscreen=true" width="80%" height="400" style="margin-bottom: 2em;"></iframe>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
+
+<br />
+<br />
+<a class="button" href="/blog/">
+  Return to Blog
 </a>
 
-[Code Sandbox Link] <a href="https://strandian.com/SDCCD/webd168/ch08_assignment/ch08_acme.html" target="_blank">https://strandian.com/SDCCD/webd168/ch08_assignment/ch08_acme.html</a><br />
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>

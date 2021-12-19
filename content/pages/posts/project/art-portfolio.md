@@ -7,7 +7,7 @@ date: '2021-11-06'
 projectlink: https://strandoutmedia.com/
 thumb_img_path: images/projects/5.jpg
 thumb_img_alt: Artist Portfolio
-content_img_path: images/5.jpg
+content_img_path: images/projects/5.jpg
 content_img_alt: Artist Portfolio
 seo:
   title: Artist Portfolio
@@ -25,7 +25,7 @@ seo:
         Ian Strand's art portfolio website, created with particular attention to web content accessibility guidelines.
       keyName: property
     - name: 'og:image'
-      value: images/5.jpg
+      value: images/projects/5.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -36,17 +36,51 @@ seo:
       value: >-
         Ian Strand's art portfolio website, created with particular attention to web content accessibility guidelines.
     - name: 'twitter:image'
-      value: images/5.jpg
+      value: images/projects/5.jpg
       relativeUrl: true
 layout: post
 ---
 
-Photo by [Galen Crout.](https://unsplash.com/photos/fItRJ7AHak8)
+### Webpage Design and Development
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+<h4 align="center">
+Link to live example
+</h4>
+<div id="hideweb1">
+  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandoutmedia.com/" target="_blank">
+    <div class="thumbnail">
+      <iframe src="https://strandoutmedia.com/" onload="this.style.opacity = 1"></iframe>
+    </div>
+    </a> </div>
+</div>
+<div id="hideweb2">
+  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandoutmedia.com/" target="_blank">
+    <div class="thumbnail">
+      <iframe src="https://strandoutmedia.com/" onload="this.style.opacity = 1"></iframe>
+    </div>
+    </a> </div>
+</div>
+<div id="hideweb3">
+  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandoutmedia.com/" target="_blank">
+    <div class="thumbnail">
+      <iframe src="https://strandoutmedia.com/" onload="this.style.opacity = 1"></iframe>
+    </div>
+    </a> </div>
+</div>
 
-## Long Distance Hiking
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="ZEXyOEj" data-user="strandian" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/strandian/pen/ZEXyOEj">
+  Calculator with JavaScript</a> by Ian Strand (<a href="https://codepen.io/strandian">@strandian</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+<br />
+<br />
+<a class="button" href="/portfolio/">
+  Return to Portfolio
+</a>
+
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>

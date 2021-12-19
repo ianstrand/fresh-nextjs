@@ -2,7 +2,7 @@
 title: ReactJS Navbar
 blog: true
 excerpt: >-
-  Navbar made with React
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
 date: '2021-12-10'
 projectlink: /posts/blog/react-navbar/
 thumb_img_path: /images/posts/blogimages4.jpg
@@ -25,7 +25,7 @@ seo:
         Navbar made with React
       keyName: property
     - name: 'og:image'
-      value: images/5.jpg
+      value: /images/posts/blogimages4.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -36,53 +36,125 @@ seo:
       value: >-
         Navbar made with React
     - name: 'twitter:image'
-      value: images/5.jpg
+      value: /images/posts/blogimages4.jpg
       relativeUrl: true
 layout: post
 ---
-### Iteration 1: Navbar in CodeSandbox
+#### Iteration 1: Navbar in CodeSandbox
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
 
-<iframe src="https://codesandbox.io/embed/webd171-assignment-1-cckut?fontsize=14&theme=light&view=preview"
-     style="width:100%; height:400px; border:0; border-radius: 5px; overflow:hidden;"
+<iframe src="https://codesandbox.io/embed/webd171-assignment-1-cckut?fontsize=14&hidenavigation=1&theme=light"
+     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
      title="webd171-assignment-1"
      allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
      sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-   ></iframe> 
+   ></iframe>
 
-   <br /><br />
-
-<!-- <a href="https://codesandbox.io/s/cckut" target="_blank">
-  <img alt="CodeSandbox Navbar" src="/images/posts/blogimages1.jpg" style="padding-top:10px;padding-bottom:10px;">
-</a>
+#### Iteration 2: Simple Navbar with ReactJS
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
 <br />
-[Code SandBox Link] <a href="https://codesandbox.io/s/cckut" target="_blank">https://codesandbox.io/s/cckut</a><br /><br /> -->
 
-### Iteration 2: Simple Navbar with ReactJS
-<br />
-<a href="https://ianstrand.github.io/webd171-2/" target="_blank">
+<!--<a href="https://ianstrand.github.io/webd171-2/" target="_blank">
   <img alt="React Navbar" src="/images/posts/blogimages2.jpg" style="padding-top:10px;padding-bottom:10px;">
-</a>
+</a>-->
 
-<iframe class="iframeimg" src="https://ianstrand.github.io/webd171-2/"></iframe>
+<h4 align="center">
+<a href="https://ianstrand.github.io/webd171-2/" target="_blank">[GitHub Pages Link]</a>
+</h4>
+<div id="hideweb1">
+  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://ianstrand.github.io/webd171-2/" target="_blank">
+    <div class="thumbnail">
+      <iframe src="https://ianstrand.github.io/webd171-2/" onload="this.style.opacity = 1"></iframe>
+    </div>
+    </a> </div>
+</div>
+<div id="hideweb2">
+  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://ianstrand.github.io/webd171-2/" target="_blank">
+    <div class="thumbnail">
+      <iframe src="https://ianstrand.github.io/webd171-2/" onload="this.style.opacity = 1"></iframe>
+    </div>
+    </a> </div>
+</div>
+<div id="hideweb3">
+  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://ianstrand.github.io/webd171-2/" target="_blank">
+    <div class="thumbnail">
+      <iframe src="https://ianstrand.github.io/webd171-2/" onload="this.style.opacity = 1"></iframe>
+    </div>
+    </a> </div>
+</div>
+<div align="center">
+  <a href="https://ianstrand.github.io/webd171-2/" target="_blank">https://ianstrand.github.io/webd171-2/</a>
+</div>
 
+#### Iteration 3: Navbar using Props
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
 <br />
-[GitHub Pages Link] <a href="https://ianstrand.github.io/webd171-2/" target="_blank">https://ianstrand.github.io/webd171-2/</a><br /><br />
 
-### Iteration 3: Navbar using Props
-<br />
-<a href="https://ianstrand.github.io/webd171-3/" target="_blank">
+<!--<a href="https://ianstrand.github.io/webd171-3/" target="_blank">
   <img alt="Navbar with Props" src="/images/posts/blogimages3.jpg" style="padding-top:10px;padding-bottom:10px;">
-</a>
-<br />
-[GitHub Pages Link] <a href="https://ianstrand.github.io/webd171-3/" target="_blank">https://ianstrand.github.io/webd171-3/</a><br /><br />
+</a>-->
 
-### Iteration 4: Navbar using State
+<h4 align="center">
+<a href="https://ianstrand.github.io/webd171-3/" target="_blank">[GitHub Pages Link]</a>
+</h4>
+<div id="hideweb1">
+  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://ianstrand.github.io/webd171-3/" target="_blank">
+    <div class="thumbnail">
+      <iframe src="https://ianstrand.github.io/webd171-3/" onload="this.style.opacity = 1"></iframe>
+    </div>
+    </a> </div>
+</div>
+<div id="hideweb2">
+  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://ianstrand.github.io/webd171-3/" target="_blank">
+    <div class="thumbnail">
+      <iframe src="https://ianstrand.github.io/webd171-3/" onload="this.style.opacity = 1"></iframe>
+    </div>
+    </a> </div>
+</div>
+<div id="hideweb3">
+  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://ianstrand.github.io/webd171-3/" target="_blank">
+    <div class="thumbnail">
+      <iframe src="https://ianstrand.github.io/webd171-3/" onload="this.style.opacity = 1"></iframe>
+    </div>
+    </a> </div>
+</div>
+<div align="center">
+  <a href="https://ianstrand.github.io/webd171-3/" target="_blank">https://ianstrand.github.io/webd171-3/</a>
+</div>
+
+#### Iteration 4: Navbar using State
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
 <br />
-<a href="https://ianstrand.github.io/webd171-4/" target="_blank">
-  <img alt="Navbar with State" src="/images/posts/blogimages4.jpg" style="padding-top:10px;padding-bottom:10px;">
-</a>
+
+<h4 align="center">
+<a href="https://ianstrand.github.io/webd171-4/" target="_blank">[GitHub Pages Link]</a>
+</h4>
+<div id="hideweb1">
+  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://ianstrand.github.io/webd171-4/" target="_blank">
+    <div class="thumbnail">
+      <iframe src="https://ianstrand.github.io/webd171-4/" onload="this.style.opacity = 1"></iframe>
+    </div>
+    </a> </div>
+</div>
+<div id="hideweb2">
+  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://ianstrand.github.io/webd171-4/" target="_blank">
+    <div class="thumbnail">
+      <iframe src="https://ianstrand.github.io/webd171-4/" onload="this.style.opacity = 1"></iframe>
+    </div>
+    </a> </div>
+</div>
+<div id="hideweb3">
+  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://ianstrand.github.io/webd171-4/" target="_blank">
+    <div class="thumbnail">
+      <iframe src="https://ianstrand.github.io/webd171-4/" onload="this.style.opacity = 1"></iframe>
+    </div>
+    </a> </div>
+</div>
+<div align="center">
+  <a href="https://ianstrand.github.io/webd171-4/" target="_blank">https://ianstrand.github.io/webd171-4/</a>
+</div>
+
 <br />
-[GitHub Pages Link] <a href="https://ianstrand.github.io/webd171-4/" target="_blank">https://ianstrand.github.io/webd171-4/</a><br /><br />
 <br />
 <a class="button" href="/blog/">
   Return to Blog

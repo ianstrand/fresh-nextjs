@@ -80,7 +80,7 @@
                 "label": " résumé",
                 "url": "/resume/",
                 "style": "link",
-                "icon_class": "download"
+                "icon_class": "download"               
             }
         ]
     },

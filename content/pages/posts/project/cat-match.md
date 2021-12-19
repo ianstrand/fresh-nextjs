@@ -7,7 +7,7 @@ date: '2021-11-02'
 projectlink: https://strandian.com/SDCCD/webd152/
 thumb_img_path: images/projects/9.jpg
 thumb_img_alt: A starter responsive website.
-content_img_path: images/9.jpg
+content_img_path: images/projects/9.jpg
 content_img_alt: A starter responsive website.
 seo:
   title: CatMatch.com - A Fun Website for my Cat
@@ -23,7 +23,7 @@ seo:
       value: A starter responsive website.
       keyName: property
     - name: 'og:image'
-      value: images/9.jpg
+      value: images/projects/9.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -33,23 +33,51 @@ seo:
     - name: 'twitter:description'
       value: A starter responsive website.
     - name: 'twitter:image'
-      value: images/9.jpg
+      value: images/projects/9.jpg
       relativeUrl: true
 layout: post
 ---
 
-**Working from home** convallis aenean et tortor at risus viverra adipiscing at in. Maecenas accumsan lacus vel facilisis volutpat est. Nisl suscipit adipiscing bibendum est ultricies. Nulla facilisi cras fermentum odio eu feugiat pretium. Donec ac odio tempor orci dapibus. Eget velit aliquet sagittis id. Morbi non arcu risus quis varius quam quisque id diam. Facilisis gravida neque convallis a cras semper auctor neque vitae. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Aliquam vestibulum morbi blandit cursus risus. Eget mauris pharetra et ultrices neque ornare.
+### Webpage Design and Development
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
 
-## Advantages and Disadvantages 
+<h4 align="center">
+Link to live example
+</h4>
+<div id="hideweb1">
+  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/SDCCD/webd152/" target="_blank">
+    <div class="thumbnail">
+      <iframe src="https://strandian.com/SDCCD/webd152/" onload="this.style.opacity = 1"></iframe>
+    </div>
+    </a> </div>
+</div>
+<div id="hideweb2">
+  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/SDCCD/webd152/" target="_blank">
+    <div class="thumbnail">
+      <iframe src="https://strandian.com/SDCCD/webd152/" onload="this.style.opacity = 1"></iframe>
+    </div>
+    </a> </div>
+</div>
+<div id="hideweb3">
+  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/SDCCD/webd152/" target="_blank">
+    <div class="thumbnail">
+      <iframe src="https://strandian.com/SDCCD/webd152/" onload="this.style.opacity = 1"></iframe>
+    </div>
+    </a> </div>
+</div>
 
-Dignissim diam quis enim lobortis scelerisque. Vitae elementum curabitur vitae nunc. Ultrices neque ornare aenean euismod elementum nisi quis eleifend quam. Et ligula ullamcorper malesuada proin libero nunc consequat interdum. Quam lacus suspendisse faucibus interdum posuere. Bibendum arcu vitae elementum curabitur vitae nunc. Ullamcorper malesuada proin libero nunc. Sit amet risus nullam eget felis eget nunc lobortis. Elementum curabitur vitae nunc sed velit dignissim sodales. Turpis in eu mi bibendum neque egestas congue quisque egestas.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
 
-> Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do. - Pele
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="ZEXyOEj" data-user="strandian" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/strandian/pen/ZEXyOEj">
+  Calculator with JavaScript</a> by Ian Strand (<a href="https://codepen.io/strandian">@strandian</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
 
-Fermentum iaculis eu non diam. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Viverra nam libero justo laoreet sit amet cursus. Interdum consectetur libero id faucibus nisl tincidunt eget nullam. Aliquet sagittis id consectetur purus ut. Iaculis eu non diam phasellus. Ipsum dolor sit amet consectetur adipiscing elit duis. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. Dictum sit amet justo donec enim diam. Ultrices eros in cursus turpis massa tincidunt dui. Adipiscing elit ut aliquam purus sit.
+<br />
+<br />
+<a class="button" href="/portfolio/">
+  Return to Portfolio
+</a>
 
-## Types Of Work
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Felis donec et odio pellentesque diam volutpat. A diam maecenas sed enim ut sem viverra aliquet. Felis eget nunc lobortis mattis aliquam faucibus. Urna cursus eget nunc scelerisque viverra mauris. Pellentesque elit ullamcorper dignissim cras tincidunt lobortis. Ac tincidunt vitae semper quis lectus nulla at volutpat diam. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Ac turpis egestas sed tempus urna et pharetra pharetra massa. Vitae semper quis lectus nulla. Velit sed ullamcorper morbi tincidunt ornare. A arcu cursus vitae congue mauris. Amet nulla facilisi morbi tempus iaculis urna.
-
-Fermentum iaculis eu non diam. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Viverra nam libero justo laoreet sit amet cursus. Interdum consectetur libero id faucibus nisl tincidunt eget nullam. Aliquet sagittis id consectetur purus ut. Iaculis eu non diam phasellus. Ipsum dolor sit amet consectetur adipiscing elit duis. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. Dictum sit amet justo donec enim diam. Ultrices eros in cursus turpis massa tincidunt dui. Adipiscing elit ut aliquam purus sit.
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>

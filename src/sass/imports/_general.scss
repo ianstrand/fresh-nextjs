@@ -399,7 +399,9 @@ border-radius: 5px;
 
 .post-content,
 .block {
+  iframe[src*="codepen.io"],
   iframe[src*="codesandbox.io"],
+  iframe[src*="openprocessing.org"],
   iframe[src*="vimeo.com"],
   iframe[src*="youtube.com"] {
     border-radius: 5px;
@@ -433,6 +435,20 @@ img {
   img {
     border-radius: 5px;
   }
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+
+.sguide {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 90%;
 }
 
 /* Text meant only for screen readers */

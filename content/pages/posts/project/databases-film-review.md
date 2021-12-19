@@ -8,7 +8,7 @@ date: '2021-11-09'
 projectlink: https://strandian.com/SDCCD/webd167/finalproject/
 thumb_img_path: images/projects/2.jpg
 thumb_img_alt: A sample film review website created with PHP and MySQL.
-content_img_path: images/2.jpg
+content_img_path: images/projects/2.jpg
 content_img_alt: A sample film review website created with PHP and MySQL.
 seo:
   title: Film Review Website
@@ -24,7 +24,7 @@ seo:
       value: A sample film review website created with PHP and MySQL.
       keyName: property
     - name: 'og:image'
-      value: images/2.jpg
+      value: images/projects/2.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -34,24 +34,51 @@ seo:
     - name: 'twitter:description'
       value: A sample film review website created with PHP and MySQL.
     - name: 'twitter:image'
-      value: images/2.jpg
+      value: images/projects/2.jpg
       relativeUrl: true
 layout: post
 ---
 
-Photo by [George Sultan.](https://www.pexels.com/photo/three-person-about-to-surf-1768784/)
+### Webpage Design and Development
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
 
-**Surfing** is a surface water sport in which the wave rider, referred to as a surfer, rides on the forward or deep face of a moving wave, which is usually carrying the surfer towards the shore. Waves suitable for surfing are primarily found in the ocean, but can also be found in lakes or in rivers in the form of a standing wave or tidal bore. However, surfers can also utilize artificial waves such as those from boat wakes and the waves created in artificial wave pools.
+<h4 align="center">
+Link to live example
+</h4>
+<div id="hideweb1">
+  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/SDCCD/webd167/finalproject/" target="_blank">
+    <div class="thumbnail">
+      <iframe src="https://strandian.com/SDCCD/webd167/finalproject/" onload="this.style.opacity = 1"></iframe>
+    </div>
+    </a> </div>
+</div>
+<div id="hideweb2">
+  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/SDCCD/webd167/finalproject/" target="_blank">
+    <div class="thumbnail">
+      <iframe src="https://strandian.com/SDCCD/webd167/finalproject/" onload="this.style.opacity = 1"></iframe>
+    </div>
+    </a> </div>
+</div>
+<div id="hideweb3">
+  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/SDCCD/webd167/finalproject/" target="_blank">
+    <div class="thumbnail">
+      <iframe src="https://strandian.com/SDCCD/webd167/finalproject/" onload="this.style.opacity = 1"></iframe>
+    </div>
+    </a> </div>
+</div>
 
->"Your surfing can get better on every turn, on every wave you catch. Learn to read the ocean better. A big part of my success has been wave knowledge." - Kelly Slater
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
 
-Synchronised surfing, Manly Beach, New South Wales, 1938–46 The term surfing refers to the act of riding a wave, regardless of whether the wave is ridden with a board or without a board, and regardless of the stance used. The native peoples of the Pacific, for instance, surfed waves on alaia, paipo, and other such craft, and did so on their belly and knees. The modern-day definition of surfing, however, most often refers to a surfer riding a wave standing up on a surfboard; this is also referred to as stand-up surfing.
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="ZEXyOEj" data-user="strandian" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/strandian/pen/ZEXyOEj">
+  Calculator with JavaScript</a> by Ian Strand (<a href="https://codepen.io/strandian">@strandian</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
 
-<iframe src="https://player.vimeo.com/video/31830780" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<a href="https://vimeo.com/31830780">Hey Ho Let&#039;s Go Surfing</a> from <a href="https://vimeo.com/nathanoldfield">Nathan Oldfield</a> on <a href="https://vimeo.com">Vimeo</a>.
+<br />
+<br />
+<a class="button" href="/portfolio/">
+  Return to Portfolio
+</a>
 
-Another prominent form of surfing is body boarding, when a surfer rides a wave on a bodyboard, either lying on their belly, drop knee, or sometimes even standing up on a body board. Other types of surfing include knee boarding, surf matting (riding inflatable mats), and using foils. Body surfing, where the wave is surfed without a board, using the surfer's own body to catch and ride the wave, is very common and is considered by some to be the purest form of surfing.
-
-Three major subdivisions within standing-up surfing are long boarding and short boarding and these two have several major differences, including the board design and length, the riding style, and the kind of wave that is ridden.
-
-In tow-in surfing (most often, but not exclusively, associated with big wave surfing), a motorized water vehicle, such as a personal watercraft, tows the surfer into the wave front, helping the surfer match a large wave's speed, which is generally a higher speed than a self-propelled surfer can produce. Surfing-related sports such as paddle boarding and sea kayaking do not require waves, and other derivative sports such as kite surfing and windsurfing rely primarily on wind for power, yet all of these platforms may also be used to ride waves. Recently with the use of V-drive boats, Wakesurfing, in which one surfs on the wake of a boat, has emerged. The Guinness Book of World Records recognized a 78 feet (23.8 m) wave ride by Garrett McNamara at Nazaré, Portugal as the largest wave ever surfed, although this remains an issue of much contention amongst many surfers, given the difficulty of measuring a constantly changing mound of water
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>

@@ -9,7 +9,7 @@ date: '2021-11-05'
 projectlink: https://northcoastalartgallery.com/
 thumb_img_path: images/projects/6.jpg
 thumb_img_alt: The NCAG / Carlsbad Oceanside Art League Website, for which I am volunteer webmaster.
-content_img_path: images/6.jpg
+content_img_path: images/projects/6.jpg
 content_img_alt: The NCAG / Carlsbad Oceanside Art League Website, for which I am volunteer webmaster.
 seo:
   title: North Coastal Art Gallery
@@ -25,7 +25,7 @@ seo:
       value: The NCAG / Carlsbad Oceanside Art League Website, for which I am volunteer webmaster.
       keyName: property
     - name: 'og:image'
-      value: images/6.jpg
+      value: images/projects/6.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -35,15 +35,51 @@ seo:
     - name: 'twitter:description'
       value: The NCAG / Carlsbad Oceanside Art League Website, for which I am volunteer webmaster.
     - name: 'twitter:image'
-      value: images/6.jpg
+      value: images/projects/6.jpg
       relativeUrl: true
 layout: post
 ---
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+### Webpage Design and Development
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
 
-> “Creativity is nothing but the way to solve new problems.”
+<h4 align="center">
+Link to live example
+</h4>
+<div id="hideweb1">
+  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://northcoastalartgallery.com/" target="_blank">
+    <div class="thumbnail">
+      <iframe src="https://northcoastalartgallery.com/" onload="this.style.opacity = 1"></iframe>
+    </div>
+    </a> </div>
+</div>
+<div id="hideweb2">
+  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://northcoastalartgallery.com/" target="_blank">
+    <div class="thumbnail">
+      <iframe src="https://northcoastalartgallery.com/" onload="this.style.opacity = 1"></iframe>
+    </div>
+    </a> </div>
+</div>
+<div id="hideweb3">
+  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://northcoastalartgallery.com/" target="_blank">
+    <div class="thumbnail">
+      <iframe src="https://northcoastalartgallery.com/" onload="this.style.opacity = 1"></iframe>
+    </div>
+    </a> </div>
+</div>
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="ZEXyOEj" data-user="strandian" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/strandian/pen/ZEXyOEj">
+  Calculator with JavaScript</a> by Ian Strand (<a href="https://codepen.io/strandian">@strandian</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+
+<br />
+<br />
+<a class="button" href="/portfolio/">
+  Return to Portfolio
+</a>
+
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
