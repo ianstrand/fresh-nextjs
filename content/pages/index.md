@@ -8,14 +8,12 @@ sections:
     type: section_hero
     title: "Ian Strand"
     content: >-
-      web developer | artist
+      Ian is an artist and entry level web developer, focused on growth.
   - section_id: about
     type: section_content
     title: 
     content: >-
-      **entry level web designer, focused on growth** • 
-
-      My name is Ian Strand, and I am using the Web Design program at San Diego Mesa College to improve my online presence as an independent artist and to augment my professional skills. I am an Administrative Assistant at the Athenaeum Music & Arts Library and an independent artist. I have Bachelors of Arts degrees from the University of Michigan, in Art & Design and Screen Arts & Cultures.
+     With both a web design and fine arts background, Ian has a wide range of skills including website mockup design and wireframing, creating and maintaining MySQL databases, working with content management systems including WordPress, creating multimedia Web elements, and editing content to follow writing for the Web guidelines.
   - section_id: recent-projects
     type: section_projects
     title: Recent Projects
