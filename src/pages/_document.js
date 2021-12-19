@@ -33,13 +33,8 @@ export default class MyDocument extends Document {
         return (
             <Html {...this.helmetHtmlAttrComponents}>
                 <Head>{this.helmetHeadComponents}
-                {/* Global Site Tag (gtag.js) - Google Analytics */}
+                      <script async src={`https://www.googletagmanager.com/gtag/js?id=${gtag.GA_TRACKING_ID}`}></script>
                       <script
-                        strategy="afterInteractive"
-                        src={`https://www.googletagmanager.com/gtag/js?id=${gtag.GA_TRACKING_ID}`}
-                      />
-                      <script
-                        strategy="afterInteractive"
                         dangerouslySetInnerHTML={{
                           __html: `
                             window.dataLayer = window.dataLayer || [];
@@ -49,8 +44,7 @@ export default class MyDocument extends Document {
                               page_path: window.location.pathname,
                             });
                           `,
-                        }}
-                      />
+                        }}></script>
                 </Head>
                 <body {...this.helmetBodyAttrComponents}>
                     <Main />

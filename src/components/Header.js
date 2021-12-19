@@ -85,9 +85,6 @@ export default class Header extends React.Component {
                     if (newWindow) {
                         attrs.target = '_blank';
                     }
-                    if (downloadAttribute) {
-                        attrs.download = '';
-                    }
                     if (newWindow || noFollow) {
                         attrs.rel = [(newWindow ? 'noopener' : ''), (noFollow ? 'nofollow' : '')].filter(Boolean).join(' ');
                     }
