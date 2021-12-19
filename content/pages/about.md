@@ -33,10 +33,14 @@ layout: page
 ---
 
 <div style="padding-bottom:0.5em;" markdown='1'>
-  
-Ian is an artist with digital design, photography, and videography experience; other areas of focus in his studies have included abstract expressionist oil painting, experimental projection, and animation. He has more than five years experience producing materials for print and online promotional purposes.
 
-Ian has volunteered for the ACLU, the Veterans Village of San Diego, the San Diego County Young Democrats, and the San Diego International Film Festival, the North Coastal Art Gallery in a variety of creative and marketing roles.
+Ian Strand has been designing and creating websites since 2016. He also has more than five years of experience producing materials for print and online promotional purposes.
+
+#### Ian is experienced with UI / UX, responsive, and mobile-first design practices as well as cross-browser testing. 
+
+<div style="padding-top:0.6em; padding-bottom:1.5em;" markdown='1'>
+Ian also has a background in art and design &mdash; including digital and graphic design, and photography, and videography. Specific areas of focus in his studies have included abstract expressionist oil painting, experimental projection, and animation. 
+</div>
 
 </div>
 
@@ -131,6 +135,16 @@ Ian has volunteered for the ACLU, the Veterans Village of San Diego, the San Die
 </div>
 
 <div style="padding-top:4em;" markdown='1'>
+
+### Experience
+
+<hr />
+
+Ian has worked for the <a href="https://www.ljathenaeum.org/" target="_blank">Athenaeum Music & Arts Library</a> and <a href="https://www.facebook.com/Rollingifts/" target="_blank">Rolling Design</a>. He has also volunteered for the ACLU, the Veterans Village of San Diego, the San Diego County Young Democrats, and the San Diego International Film Festival, the North Coastal Art Gallery in a variety of creative and marketing roles.
+
+</div>
+
+<div style="padding-top:2em;" markdown='1'>
 
 ### Education
 
