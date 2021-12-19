@@ -1,23 +1,7 @@
 /**
  * Web Preview
  */
-#hideweb1 .thumbnail-container, #hideweb1top .thumbnail-container {
-  width: calc(1440px * 0.25);
-  height: calc(900px * 0.25);
-  display: inline-block;
-  overflow: hidden;
-  position: relative;
-  background: #f9f9f9;
-}
-#hideweb2 .thumbnail-container, #hideweb2top .thumbnail-container {
-  width: calc(1440px * 0.5);
-  height: calc(900px * 0.5);
-  display: inline-block;
-  overflow: hidden;
-  position: relative;
-  background: #f9f9f9;
-}
-#hideweb3 .thumbnail-container {
+.thumbnail-container {
   width: calc(1440px * 0.75);
   height: calc(900px * 0.75);
   display: inline-block;
@@ -26,25 +10,7 @@
   background: #f9f9f9;
 }
 /* This is a masking container for the zoomed iframe element */
-#hideweb1 .thumbnail, #hideweb1top .thumbnail {
-  -ms-zoom: 0.25;
-  -moz-transform: scale(0.25);
-  -moz-transform-origin: 0 0;
-  -o-transform: scale(0.25);
-  -o-transform-origin: 0 0;
-  -webkit-transform: scale(0.25);
-  -webkit-transform-origin: 0 0;
-}
-#hideweb2 .thumbnail, #hideweb2top .thumbnail {
-  -ms-zoom: 0.5;
-  -moz-transform: scale(0.5);
-  -moz-transform-origin: 0 0;
-  -o-transform: scale(0.5);
-  -o-transform-origin: 0 0;
-  -webkit-transform: scale(0.5);
-  -webkit-transform-origin: 0 0;
-}
-#hideweb3 .thumbnail {
+.thumbnail {
   -ms-zoom: 0.75;
   -moz-transform: scale(0.75);
   -moz-transform-origin: 0 0;
