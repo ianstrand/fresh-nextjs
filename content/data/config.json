@@ -72,21 +72,15 @@
         "nav_linksb": [
             {
                 "label": " style guide",
-                "filename": "Ian Strand Style Guide.pdf",
-                "url": "/docs/Ian Strand Style Guide.pdf",
+                "url": "/style-guide/",
                 "style": "link",
-                "icon_class": "download",
-                "new_window": true,
-                "download_attr": true
+                "icon_class": "download"
             },
             {
                 "label": " résumé",
-                "filename": "Ian Strand Resume.pdf",
-                "url": "/docs/Ian Strand Resume.pdf",
+                "url": "/resume/",
                 "style": "link",
-                "icon_class": "download",
-                "new_window": true,
-                "download_attr": true
+                "icon_class": "download"
             }
         ]
     },
