@@ -1,6 +1,5 @@
 import Document, { Html, Head, Main, NextScript } from 'next/document';
 import { Helmet } from 'react-helmet';
-import { useEffect } from 'react'
 import * as gtag from "../lib/ga/gtag";
 
 export default class MyDocument extends Document {
@@ -33,28 +32,27 @@ export default class MyDocument extends Document {
         // const pageProps = _.get(this.props, '__NEXT_DATA__.props.pageProps');
         return (
             <Html {...this.helmetHtmlAttrComponents}>
-                <Head>{this.helmetHeadComponents}
-                      {/* Global Site Tag (gtag.js) - Google Analytics */}
-                      <script
-                        async
-                        src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GA_ID}`}
-                      />
-                      <script
-                        dangerouslySetInnerHTML={{
-                          __html: `
-                        window.dataLayer = window.dataLayer || [];
-                        function gtag(){dataLayer.push(arguments);}
-                        gtag('js', new Date());
-                        gtag('config', '${process.env.NEXT_PUBLIC_GA_ID}', {
-                          page_path: window.location.pathname,
-                        });
-                      `,
-                        }}
-                      />
-                </Head>
+                <Head>{this.helmetHeadComponents}</Head>
                 <body {...this.helmetBodyAttrComponents}>
                     <Main />
                     <script src="/js/plugins.js" />
+                      <script
+                        strategy="afterInteractive"
+                        src={`https://www.googletagmanager.com/gtag/js?id=${gtag.GA_TRACKING_ID}`}
+                      />
+                      <script
+                        strategy="afterInteractive"
+                        dangerouslySetInnerHTML={{
+                          __html: `
+                            window.dataLayer = window.dataLayer || [];
+                            function gtag(){dataLayer.push(arguments);}
+                            gtag('js', new Date());
+                            gtag('config', '${gtag.GA_TRACKING_ID}', {
+                              page_path: window.location.pathname,
+                            });
+                          `,
+                        }}
+                      />
                     <NextScript />
                 </body>
             </Html>
