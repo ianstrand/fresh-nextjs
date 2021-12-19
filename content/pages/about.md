@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: Hi, I'm a San Diego-based web developer and artist.
+subtitle: Ian is a San Diego-based web developer and artist.
 img_path: images/about.jpg
 img_alt: Portrait of Ian Strand
 seo:
