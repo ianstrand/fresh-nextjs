@@ -71,7 +71,6 @@ export default class Header extends React.Component {
                 {_.map(socialLinks, (action, index) => {
                     const url = _.get(action, 'url');
                     const label = _.get(action, 'label');
-                    const filename = _.get(action, 'filename');
                     const style = _.get(action, 'style', 'link');
                     const icon = _.get(action, 'icon_class', 'dev');
                     const classes = classNames({
@@ -86,7 +85,7 @@ export default class Header extends React.Component {
                         attrs.target = '_blank';
                     }
                     if (downloadAttribute) {
-                        attrs.download = 'Ian Strand Resume.pdf';
+                        attrs.download = _.get(action, 'filename');
                     }
                     if (newWindow || noFollow) {
                         attrs.rel = [(newWindow ? 'noopener' : ''), (noFollow ? 'nofollow' : '')].filter(Boolean).join(' ');
