@@ -86,7 +86,7 @@ export default class Header extends React.Component {
                         attrs.target = '_blank';
                     }
                     if (downloadAttribute) {
-                        attrs.download = '';
+                        attrs.download = 'Ian Strand Resume.pdf';
                     }
                     if (newWindow || noFollow) {
                         attrs.rel = [(newWindow ? 'noopener' : ''), (noFollow ? 'nofollow' : '')].filter(Boolean).join(' ');
