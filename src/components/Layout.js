@@ -21,7 +21,7 @@ export default class Body extends React.Component {
     }
 
     handleVideoEmbeds() {
-        const videoEmbeds = ['iframe[src*="codesandbox.io"]', 'iframe[src*="youtube.com"]', 'iframe[src*="vimeo.com"]'];
+        const videoEmbeds = ['iframe[src*="codesandbox.io"]', 'iframe[src*="phpsandbox.io"]', 'iframe[src*="youtube.com"]', 'iframe[src*="vimeo.com"]'];
         noframe(videoEmbeds.join(','), '.inner-sm');
     }
 
