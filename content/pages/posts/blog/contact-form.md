@@ -3,7 +3,7 @@ title: Contact Form
 blog: true
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
-date: '2021-10-22'
+date: '2018-05-23'
 projectlink: https://strandian.com/SDCCD/webd167/coursework/lessons/ch13/email.php
 thumb_img_path: /images/posts/blogimages43.jpg
 thumb_img_alt: Contact Form
