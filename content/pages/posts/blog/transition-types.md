@@ -3,7 +3,7 @@ title: Transition Types
 blog: true
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
-date: '2021-11-29'
+date: '2019-09-02'
 projectlink: https://strandian.com/SDCCD/webd168/ch10_assignment/start/15-02-transitionTypes.html
 thumb_img_path: images/posts/blogimages15.jpg
 thumb_img_alt: Transition Types
@@ -68,11 +68,12 @@ Link to live example
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
 
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="ZEXyOEj" data-user="strandian" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/strandian/pen/ZEXyOEj">
-  Calculator with JavaScript</a> by Ian Strand (<a href="https://codepen.io/strandian">@strandian</a>)
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="qBPJpYN" data-editable="true" data-user="strandian" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/strandian/pen/qBPJpYN">
+  Untitled</a> by Ian Strand (<a href="https://codepen.io/strandian">@strandian</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 <br />
 <br />

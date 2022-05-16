@@ -59,7 +59,7 @@
                 "style": "icon",
                 "icon_class": "codepen",
                 "new_window": true
-            },   
+            },
             {
                 "label": "Twitter",
                 "url": "https://twitter.com/strandoutmedia",
@@ -80,11 +80,11 @@
                 "label": " résumé",
                 "url": "/resume/",
                 "style": "link",
-                "icon_class": "download"               
+                "icon_class": "download"
             }
         ]
     },
     "footer": {
-        "content": "&copy; 2021 Ian Strand. Please feel free to take and modify code samples. <br/ > Site adapted from <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a> template using NextJS and SCSS.</a>"
+        "content": "&copy; 2022 Ian Strand. Please feel free to take and modify code samples. <br/ > Site adapted from Stackbit template using NextJS and SCSS.</a> <br/ > 2020 &emsp; <a href=\"https://strandian.com/?utm_source=deployed-footer\" target=\"_blank\">strandian.com</a>"
     }
 }
