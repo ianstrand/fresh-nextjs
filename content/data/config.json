@@ -85,6 +85,6 @@
         ]
     },
     "footer": {
-        "content": "&copy; 2022 Ian Strand. Please feel free to take and modify code samples. <br/ > Site adapted from Stackbit template using NextJS and SCSS.</a> <br/ > 2020 &emsp; <a href=\"https://strandian.com/?utm_source=deployed-footer\" target=\"_blank\">strandian.com</a>"
+        "content": "&copy; 2022 Ian Strand. Please feel free to take and modify code samples. <br/ > Site adapted from Stackbit template using NextJS and SCSS.</a> <br/ > 2020 <a href=\"https://strandian.com/?utm_source=deployed-footer\" target=\"_blank\">strandian.com</a>"
     }
 }
