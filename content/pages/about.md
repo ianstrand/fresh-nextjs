@@ -65,8 +65,8 @@ Ian can be contacted at <a href="mailto:ian@ianstrand.com/" target="_blank">ian@
     <li>Ajax techniques</li>
     <li>ReactJS, AngularJS, jQuery libraries</li>
   </ul>
-+ PHP
-+ MySQL
++ PHP7
++ SQL
 + Ruby
 + <a href="https://processing.org/" target="_blank">Processing</a> (flexible software sketchbook)
 
