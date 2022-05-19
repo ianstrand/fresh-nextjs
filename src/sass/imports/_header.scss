@@ -157,7 +157,13 @@
 .menu-item:last-of-type {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
+}
+
+@media only screen and (min-width: 800px) {
+  .menu-item:last-of-type {
+    justify-content: center;
+  }
 }
 
 .menu-item:last-of-type svg {
