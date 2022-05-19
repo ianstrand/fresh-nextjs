@@ -3,7 +3,7 @@ title: Artist Shop made with OpenCart
 project: true
 excerpt: >-
   A sample artist website made using a customized OpenCart theme.
-date: '2021-11-10'
+date: '2019-08-12'
 projectlink: https://strandian.com/SDCCD/webd173/opencart/
 thumb_img_path: images/projects/1.jpg
 thumb_img_alt: Screenshot of OpenCart Shop
@@ -42,41 +42,50 @@ layout: post
 ---
 
 ### A sample artist website made using a customized OpenCart theme.
-One of my favorite independent web development projects has been to construct an online shop using OpenCart, starting from a mockup design. I very much enjoyed developing my original concept created with wireframing tools to an e-commerce site by using a custom theme. The most challenging aspect of developing this site for me was to ensure that it was still fully accessible and responsive with this custom theme. It is important to test out websites by accessing them from a variety of browsers and devices, and with the help of web developer tools such as Chrome DevTools. 
+This is an online shop that I created with OpenCart, starting from a mockup design. I created a responsive custom theme, which I tested for usability from a variety of browsers and devices.
 
-<h4 align="center">
-Link to live example
-</h4>
+<br />
+<br />
+<h4 align="center"><a href="https://strandian.com/SDCCD/webd173/opencart/" target="_blank">[Link to live example]</a></h4>
 <div id="hideweb1">
   <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/SDCCD/webd173/opencart/" target="_blank">
     <div class="thumbnail">
-      <iframe src="https://strandian.com/SDCCD/webd173/opencart/" onload="this.style.opacity = 1"></iframe>
+      <iframe sandbox src="https://strandian.com/SDCCD/webd173/opencart/" onload="this.style.opacity = 1"></iframe>
     </div>
     </a> </div>
 </div>
 <div id="hideweb2">
   <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/SDCCD/webd173/opencart/" target="_blank">
     <div class="thumbnail">
-      <iframe src="https://strandian.com/SDCCD/webd173/opencart/" onload="this.style.opacity = 1"></iframe>
+      <iframe sandbox src="https://strandian.com/SDCCD/webd173/opencart/" onload="this.style.opacity = 1"></iframe>
     </div>
     </a> </div>
 </div>
 <div id="hideweb3">
   <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/SDCCD/webd173/opencart/" target="_blank">
     <div class="thumbnail">
-      <iframe src="https://strandian.com/SDCCD/webd173/opencart/" onload="this.style.opacity = 1"></iframe>
+      <iframe sandbox src="https://strandian.com/SDCCD/webd173/opencart/" onload="this.style.opacity = 1"></iframe>
     </div>
     </a> </div>
 </div>
+<br />
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
+<hr />
+I developed the original concept for this project by using wireframing tools, which I then used to create a mockup for the website.
+
+<div align="center">
+<br />
+<img src="/images/projects/strand-homepagemockup.png" alt="Mockup of OpenCart Artist Shop" style="width: 40%">
+</div>
+
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
 
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="ZEXyOEj" data-user="strandian" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/strandian/pen/ZEXyOEj">
   Calculator with JavaScript</a> by Ian Strand (<a href="https://codepen.io/strandian">@strandian</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-
+</p> -->
+<br />
 <br />
 <br />
 <a class="button" href="/portfolio/">

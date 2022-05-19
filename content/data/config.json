@@ -22,19 +22,21 @@
                 "style": "link"
             },
             {
-                "label": "about",
+                "label": "about / contact",
                 "url": "/about/",
-                "style": "link"
-            },
-            {
-                "label": "contact",
-                "url": "/contact/",
                 "style": "link"
             },
             {
                 "label": "blog",
                 "url": "/blog/",
                 "style": "link"
+            },
+            {
+                "label": "art",
+                "url": "https://strandoutmedia.com/",
+                "style": "link",
+                "icon_class": "web",
+                "new_window": true
             }
         ],
         "has_social": true,
@@ -85,6 +87,6 @@
         ]
     },
     "footer": {
-        "content": "&copy; 2022 Ian Strand. Please feel free to take and modify code samples. <br/ > Site adapted from Stackbit template using NextJS and SCSS.</a> <br/ > 2020 <a href=\"https://strandian.com/?utm_source=deployed-footer\" target=\"_blank\">strandian.com</a>"
+        "content": "&copy; 2022 Ian Strand. Please feel free to take and modify code samples. <br/ > Site adapted from Stackbit template using NextJS and SCSS.</a><br/ ><br/ ><a href=\"mailto:ian@ianstrand.com/?utm_source=deployed-footer\" target=\"_blank\">ian@ianstrand.com</a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2020 &emsp; <a href=\"https://strandian.com/?utm_source=deployed-footer\" target=\"_blank\">strandian.com</a>"
     }
 }

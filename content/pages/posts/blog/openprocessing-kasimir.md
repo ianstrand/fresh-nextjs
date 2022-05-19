@@ -2,8 +2,8 @@
 title: OpenProcessing Sketch
 blog: true
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
-date: '2021-10-27'
+  An application that I created with Processing, a flexible software sketchbook.
+date: '2015-04-10'
 projectlink: https://openprocessing.org/sketch/193833
 thumb_img_path: images/posts/blogimages45.jpg
 thumb_img_alt: OpenProcessing Sketch
@@ -39,11 +39,15 @@ layout: post
 ---
 
 ### Webpage Design and Development
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
-
+This is an <a href="https://openprocessing.org/sketch/193833/" target="_blank">application that I created with Processing,</a> a flexible software sketchbook. The original image is a work of artist Kazimir Malevich.
+<br />
+<br />
+<h4 align="center">
+<a href="https://openprocessing.org/sketch/193833/" target="_blank">[Live Example]</a>
+</h4>
 <iframe class="openprocessing" src="https://openprocessing.org/sketch/193833/embed/?plusEmbedHash=NzFiMjA5Yzc4ZDlhODk3NTFiOTEzOTM5MTNhMDZmY2E4NTU1NWIwNjFmY2NjNDIwMzYzNmQwZGMxZjJlZTMzYWY1Zjk0YzU0N2VhMDFmODZjZWExZmE1OTQ0M2MzYWVjMGRiZTcyZGZlNGEwNWUxMmVhYmNiNzg2YWIzODZkZmZnTHdYeDYyS2I4aGcreWFRMlZGNnc5bWtrNUMzc05nK3BPdjUxKzZVUTJaZm5WMEhtbTFzT0t3WTZEcEJWbWYrWVZkVDFmMy9BUmhESFUxU0xNTFUydz09&plusEmbedFullscreen=true" width="400" height="400" style="margin-bottom: 2em;"></iframe>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
+Click and drag with the mouse in order to add to the artwork.
 
 <br />
 <br />

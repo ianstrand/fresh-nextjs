@@ -5,7 +5,7 @@ subtitle: >-
   An app to display the current weather in San Diego.
 excerpt: >-
   An app to display the current weather in San Diego.
-date: '2021-11-08'
+date: '2020-11-23'
 projectlink: https://ianstrand.github.io/webd171-5/
 thumb_img_path: images/projects/3.jpg
 thumb_img_alt: Weather App with ReactJS
@@ -44,11 +44,10 @@ layout: post
 ---
 
 ### An app to display the current weather in San Diego.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
-
-<h4 align="center">
-Link to live example
-</h4>
+I created this application using an API to fetch data in ReactJS, to show weather data from the time zone where the page is being accessed.
+<br />
+<br />
+<h4 align="center"><a href="https://ianstrand.github.io/webd171-5/" target="_blank">[Link to live example]</a></h4>
 <div id="hideweb1">
   <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://ianstrand.github.io/webd171-5/" target="_blank">
     <div class="thumbnail">
@@ -70,15 +69,12 @@ Link to live example
     </div>
     </a> </div>
 </div>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
-
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="ZEXyOEj" data-user="strandian" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/strandian/pen/ZEXyOEj">
   Calculator with JavaScript</a> by Ian Strand (<a href="https://codepen.io/strandian">@strandian</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-
+</p> -->
 <br />
 <br />
 <a class="button" href="/portfolio/">

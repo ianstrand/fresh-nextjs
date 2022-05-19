@@ -8,10 +8,10 @@ sections:
     type: section_hero
     title: "Ian Strand"
     content: >-
-      Ian is an artist and entry level web developer, focused on growth.
+      Ian is a multidisciplinary artist and web developer, focused on growth.
   - section_id: about
     type: section_content
-    title: 
+    title:
     content: With both a web design and fine arts background, Ian Strand has a wide range of skills and experience that include website mockup design and wireframing, database creation and maintenance, content management system implementation, and various multimedia asset creation for web in adherance with Web Content Accessibility Guidelines.
   - section_id: recent-projects
     type: section_projects

@@ -2,7 +2,7 @@
 title: Scalable Vector Graphics
 blog: true
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
+  A interactive project where buttons can be selected to change the CSS characteristics of an SVG image.
 date: '2018-05-08'
 projectlink: https://strandian.com/SDCCD/webd168/ch11_assignment/ch11_assignment.html
 thumb_img_path: images/posts/blogimages16.jpg
@@ -38,36 +38,34 @@ seo:
 layout: post
 ---
 
-### Webpage Design and Development
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
-
+### Styling SVG Images
+This is an interactive project where buttons can be selected to change the CSS characteristics of an SVG image.
+<br />
+<br />
 <h4 align="center">
-  <a href="https://strandian.com/SDCCD/webd168/ch11_assignment/ch11_assignment.html" target="_blank">[Link to live example]</a>
-</h4>
+  <a href="https://strandian.com/SDCCD/webd168/ch11_assignment/ch11_assignment.html" target="_blank">[Link to live example]</a></h4>
 <div id="hideweb1">
   <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/SDCCD/webd168/ch11_assignment/ch11_assignment.html" target="_blank">
     <div class="thumbnail">
-      <iframe src="https://strandian.com/SDCCD/webd168/ch11_assignment/ch11_assignment.html" onload="this.style.opacity = 1"></iframe>
+      <iframe sandbox src="https://strandian.com/SDCCD/webd168/ch11_assignment/ch11_assignment.html" onload="this.style.opacity = 1"></iframe>
     </div>
     </a> </div>
 </div>
 <div id="hideweb2">
   <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/SDCCD/webd168/ch11_assignment/ch11_assignment.html" target="_blank">
     <div class="thumbnail">
-      <iframe src="https://strandian.com/SDCCD/webd168/ch11_assignment/ch11_assignment.html" onload="this.style.opacity = 1"></iframe>
+      <iframe sandbox src="https://strandian.com/SDCCD/webd168/ch11_assignment/ch11_assignment.html" onload="this.style.opacity = 1"></iframe>
     </div>
     </a> </div>
 </div>
 <div id="hideweb3">
   <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/SDCCD/webd168/ch11_assignment/ch11_assignment.html" target="_blank">
     <div class="thumbnail">
-      <iframe src="https://strandian.com/SDCCD/webd168/ch11_assignment/ch11_assignment.html" onload="this.style.opacity = 1"></iframe>
+      <iframe sandbox src="https://strandian.com/SDCCD/webd168/ch11_assignment/ch11_assignment.html" onload="this.style.opacity = 1"></iframe>
     </div>
     </a> </div>
 </div>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
-
+<!--
 ```
 <h1>SVG Essentials</h1>
 <div class="buttons">
@@ -78,7 +76,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   <button data-add="move-around">Move around</button>
   <button data-remove="move-around">Sit still</button>
 </div>
-
 <div class="svg-container">
   <svg class="cat" width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
     <path d="m119.00002,184.5c0,0 11.25,-157.50001 -36,-164.25001c-47.25,-6.75 156,15.75001 159.75,96.00001c3.75,80.25 29.25,-16.5 137.25,-11.25c108.00001,5.25 53.25001,-111.75001 84.00001,-99.00001l30.24997,12.00001c0,0 81.50003,17.25 44.00003,125.25c-37.5,108 -20.25,174.75 -20.75003,174.75c-0.50003,0 47.75003,120.75 79.25003,123.75c31.5,3 -129,-5.25 -132.75,-3c-3.75,2.25 -24.75,22.50001 -77.25001,27.75001c-52.5,5.25 -167.25,-48.00001 -167.75002,-48.00001c-0.50002,0 -152.49998,35.25001 -153,35.25c-0.50002,-0.00001 116.75002,-83.25 108.50002,-107.25c-8.25,-24 -89.25,-87 -71.25,-120.75c18,-33.75 15.75,-41.25 15.75,-41.25z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#999999" />
@@ -103,26 +100,25 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
       <line y2="301" x2="102" y1="353" x1="297" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#DDDDDD" fill="none" />
       <line fill="none" stroke="#DDDDDD" stroke-width="null" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x1="105" y1="344" x2="300" y2="358" />
     </g>
-
     <g class="right-whiskers">
       <line fill="none" stroke="#DDDDDD" stroke-width="null" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x1="354" y1="361" x2="571" y2="296" />
       <line y2="364" x2="363" y1="373" x1="556" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" stroke="#DDDDDD" fill="none" />
     </g>
   </svg>
 </div>
-
 <div class="row">
   <div class="column">
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem ullam quibusdam minus magni itaque neque asperiores, modi corporis cum! Ullam cum velit distinctio esse dolore aperiam provident iure nesciunt dignissimos, incidunt alias culpa necessitatibus dolor id enim tempore tempora. Voluptatibus, enim veniam magnam assumenda cumque. Dolores a, dolorum natus in.</p>
   </div>
-
   <div class="column">
     <p>Eaque quisquam ipsa rem aliquid. Amet doloremque, fugiat illo praesentium quod consequuntur ea eius in doloribus numquam quaerat molestiae quo officia ipsa iste, earum unde eaque. Ad vero inventore aut culpa debitis quasi officia, quia qui voluptatum temporibus odio alias aliquid numquam, libero voluptate repudiandae omnis. Ratione corporis non tempore.</p>
   </div>
-
 </div>
 ```
+-->
+<br />
 
+Edit this project with CodePen:
 <p class="codepen" data-height="800" data-default-tab="result" data-slug-hash="yLzvNeG" data-editable="true" data-user="strandian" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/strandian/pen/yLzvNeG">
   SVG Essentials</a> by Ian Strand (<a href="https://codepen.io/strandian">@strandian</a>)

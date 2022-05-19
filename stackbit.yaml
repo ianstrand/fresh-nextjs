@@ -566,6 +566,8 @@ models:
           - youtube
           - codepen
           - download
+          - web
+          - email
         default: dev
       - type: boolean
         name: new_window

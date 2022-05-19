@@ -2,8 +2,8 @@
 title: ReactJS Navbar
 blog: true
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
-date: '2021-12-10'
+  Several iterations of building a navigation bar with React App.
+date: '2020-11-02'
 projectlink: /posts/blog/react-navbar/
 thumb_img_path: /images/posts/blogimages4.jpg
 thumb_img_alt: ReactJS Navbar
@@ -41,7 +41,7 @@ seo:
 layout: post
 ---
 #### Iteration 1: Navbar in CodeSandbox
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis. -->
 
 <iframe src="https://codesandbox.io/embed/webd171-assignment-1-cckut?fontsize=14&hidenavigation=1&theme=light"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
@@ -50,9 +50,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
      sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
    ></iframe>
 
+   <br />
+
 #### Iteration 2: Simple Navbar with ReactJS
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
-<br />
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis. <br />-->
+
 
 <!--<a href="https://ianstrand.github.io/webd171-2/" target="_blank">
   <img alt="React Navbar" src="/images/posts/blogimages2.jpg" style="padding-top:10px;padding-bottom:10px;">
@@ -86,9 +88,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   <a href="https://ianstrand.github.io/webd171-2/" target="_blank">https://ianstrand.github.io/webd171-2/</a>
 </div>
 
-#### Iteration 3: Navbar using Props
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
 <br />
+<br />
+
+#### Iteration 3: Navbar using Props
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis. <br /> -->
+
 
 <!--<a href="https://ianstrand.github.io/webd171-3/" target="_blank">
   <img alt="Navbar with Props" src="/images/posts/blogimages3.jpg" style="padding-top:10px;padding-bottom:10px;">
@@ -122,9 +127,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   <a href="https://ianstrand.github.io/webd171-3/" target="_blank">https://ianstrand.github.io/webd171-3/</a>
 </div>
 
-#### Iteration 4: Navbar using State
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
 <br />
+<br />
+
+#### Iteration 4: Navbar using State
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis. <br /> -->
+
 
 <h4 align="center">
 <a href="https://ianstrand.github.io/webd171-4/" target="_blank">[GitHub Pages Link]</a>
@@ -154,6 +162,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   <a href="https://ianstrand.github.io/webd171-4/" target="_blank">https://ianstrand.github.io/webd171-4/</a>
 </div>
 
+<br />
 <br />
 <br />
 <a class="button" href="/blog/">

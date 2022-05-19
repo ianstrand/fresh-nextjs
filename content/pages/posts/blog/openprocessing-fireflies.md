@@ -2,8 +2,8 @@
 title: OpenProcessing Sketch - Fireflies
 blog: true
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
-date: '2021-10-28'
+  An interactive application that I created with Processing, a flexible software sketchbook.
+date: '2015-04-15'
 projectlink: https://openprocessing.org/sketch/642529
 thumb_img_path: images/posts/blogimages46.jpg
 thumb_img_alt: OpenProcessing Sketch - Fireflies
@@ -38,13 +38,17 @@ seo:
 layout: post
 ---
 
-### Webpage Design and Development
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
-
+### Interactive Digital Art
+This is an <a href="https://openprocessing.org/sketch/642529/" target="_blank">application that I created with Processing,</a> a flexible software sketchbook.
+<br />
+<br />
+<h4 align="center">
+<a href="https://openprocessing.org/sketch/642529/" target="_blank">[Live Example]</a>
+</h4>
 <iframe src="https://openprocessing.org/sketch/642529/embed/?plusEmbedHash=MWZjYzVjOTA4NDc0YmYzZjhiNTZmZjQ4ODNhNjcyODAwMGViMzk0NzkxNDc0MWJkZGIxYzUxNjg2MGRhMWJmZWViYTA0YTMyYTVkMDRjZWE0N2Y2NmU2NTI0NmE4NTBiNGM5OWE5OTgxNmVlMTFiYjMzMzhkZWU0NjliMTBmZjFBbHlyV0xtd3g4eHlHT0x2R0RHZzBSZjRGK3hNRkxHckx0aERKNG5FWVZZbXRxRWZYSUxEbE45MUk0VlRJSXBvNTRzT0hxZFFBMWRQNlltaHpSTkdJQT09&plusEmbedFullscreen=true" width="80%" height="400" style="margin-bottom: 2em;"></iframe>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
-
+Move the mouse to control the lantern, and the fireflies will follow it around the screen.
+<br />
+<br />
 <br />
 <br />
 <a class="button" href="/blog/">

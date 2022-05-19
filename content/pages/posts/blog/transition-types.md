@@ -2,8 +2,8 @@
 title: Transition Types
 blog: true
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
-date: '2019-09-02'
+  A project that demonstrates different CSS transition types.
+date: '2018-04-23'
 projectlink: https://strandian.com/SDCCD/webd168/ch10_assignment/start/15-02-transitionTypes.html
 thumb_img_path: images/posts/blogimages15.jpg
 thumb_img_alt: Transition Types
@@ -38,36 +38,35 @@ seo:
 layout: post
 ---
 
-### Webpage Design and Development
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
-
-<h4 align="center">
-Link to live example
-</h4>
+### Types of Transition
+This project demonstrates different CSS transition types.
+<br />
+<br />
+<h4 align="center"><a href="https://strandian.com/SDCCD/webd168/ch10_assignment/start/15-02-transitionTypes.html" target="_blank">[Link to live example]</a></h4>
 <div id="hideweb1">
   <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/SDCCD/webd168/ch10_assignment/start/15-02-transitionTypes.html" target="_blank">
     <div class="thumbnail">
-      <iframe src="https://strandian.com/SDCCD/webd168/ch10_assignment/start/15-02-transitionTypes.html" onload="this.style.opacity = 1"></iframe>
+      <iframe sandbox src="https://strandian.com/SDCCD/webd168/ch10_assignment/start/15-02-transitionTypes.html" onload="this.style.opacity = 1"></iframe>
     </div>
     </a> </div>
 </div>
 <div id="hideweb2">
   <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/SDCCD/webd168/ch10_assignment/start/15-02-transitionTypes.html" target="_blank">
     <div class="thumbnail">
-      <iframe src="https://strandian.com/SDCCD/webd168/ch10_assignment/start/15-02-transitionTypes.html" onload="this.style.opacity = 1"></iframe>
+      <iframe sandbox src="https://strandian.com/SDCCD/webd168/ch10_assignment/start/15-02-transitionTypes.html" onload="this.style.opacity = 1"></iframe>
     </div>
     </a> </div>
 </div>
 <div id="hideweb3">
   <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/SDCCD/webd168/ch10_assignment/start/15-02-transitionTypes.html" target="_blank">
     <div class="thumbnail">
-      <iframe src="https://strandian.com/SDCCD/webd168/ch10_assignment/start/15-02-transitionTypes.html" onload="this.style.opacity = 1"></iframe>
+      <iframe sandbox src="https://strandian.com/SDCCD/webd168/ch10_assignment/start/15-02-transitionTypes.html" onload="this.style.opacity = 1"></iframe>
     </div>
     </a> </div>
 </div>
+<br />
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
-
+Edit this project with CodePen:
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="qBPJpYN" data-editable="true" data-user="strandian" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/strandian/pen/qBPJpYN">
   Untitled</a> by Ian Strand (<a href="https://codepen.io/strandian">@strandian</a>)

@@ -2,8 +2,8 @@
 title: JavaScript Image Gallery
 project: true
 excerpt: >-
-  A slider image gallery created with JavaScript. 
-date: '2021-11-03'
+  A slider image gallery created with CSS and JavaScript.
+date: '2020-04-02'
 projectlink: https://strandian.com/SDCCD/webd164/final-project/
 thumb_img_path: images/projects/8.jpg
 thumb_img_alt: A slider image gallery created with JavaScript.
@@ -39,11 +39,10 @@ layout: post
 ---
 
 ### A slider image gallery created with JavaScript.
-In my free time, I like to explore San Diego and work on my photography portfolio. One of my favorite San Diego activities has been volunteering for the San Diego International Film Festival. There, I helped coordinate the event photographers and was able to also add to my own photography portfolio!
-
-<h4 align="center">
-Link to live example
-</h4>
+This is an image gallery that I created, using jQuery library Slick Slider to create an image carousel and FancyBox to create a modal image gallery / lightbox.
+<br />
+<br />
+<h4 align="center"><a href="https://strandian.com/SDCCD/webd164/final-project/" target="_blank">[Link to live example]</a></h4>
 <div id="hideweb1">
   <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/SDCCD/webd164/final-project/" target="_blank">
     <div class="thumbnail">
@@ -66,13 +65,13 @@ Link to live example
     </a> </div>
 </div>
 
-In my free time, I like to explore San Diego and work on my photography portfolio. One of my favorite San Diego activities has been volunteering for the San Diego International Film Festival. There, I helped coordinate the event photographers and was able to also add to my own photography portfolio!
+<!-- In my free time, I like to explore San Diego and work on my photography portfolio. One of my favorite San Diego activities has been volunteering for the San Diego International Film Festival. There, I helped coordinate the event photographers and was able to also add to my own photography portfolio!
 
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="ZEXyOEj" data-user="strandian" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/strandian/pen/ZEXyOEj">
   Calculator with JavaScript</a> by Ian Strand (<a href="https://codepen.io/strandian">@strandian</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
+</p> -->
 
 <br />
 <br />

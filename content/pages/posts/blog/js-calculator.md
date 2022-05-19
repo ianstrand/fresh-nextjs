@@ -2,8 +2,8 @@
 title: Calculator with JavaScript
 blog: true
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
-date: '2021-12-03'
+  A simple calculator created with JavaScript.
+date: '2020-02-16'
 projectlink: https://strandian.com/SDCCD/webd164/lessons/strand_homework-2.html
 thumb_img_path: images/posts/blogimages11.jpg
 thumb_img_alt: Calculator with JavaScript
@@ -38,36 +38,35 @@ seo:
 layout: post
 ---
 
-### Webpage Design and Development
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
-
-<h4 align="center">
-Link to live example
-</h4>
+### Using a table and function to create a calculator
+This is a simple calculator created with JavaScript.
+<br/>
+<br/>
+<h4 align="center"><a href="https://strandian.com/SDCCD/webd164/lessons/strand_homework-2.html" target="_blank">[Link to live example]</a></h4>
 <div id="hideweb1">
   <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/SDCCD/webd164/lessons/strand_homework-2.html" target="_blank">
     <div class="thumbnail">
-      <iframe src="https://strandian.com/SDCCD/webd164/lessons/strand_homework-2.html" onload="this.style.opacity = 1"></iframe>
+      <iframe sandbox src="https://strandian.com/SDCCD/webd164/lessons/strand_homework-2.html" onload="this.style.opacity = 1"></iframe>
     </div>
     </a> </div>
 </div>
 <div id="hideweb2">
   <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/SDCCD/webd164/lessons/strand_homework-2.html" target="_blank">
     <div class="thumbnail">
-      <iframe src="https://strandian.com/SDCCD/webd164/lessons/strand_homework-2.html" onload="this.style.opacity = 1"></iframe>
+      <iframe sandbox src="https://strandian.com/SDCCD/webd164/lessons/strand_homework-2.html" onload="this.style.opacity = 1"></iframe>
     </div>
     </a> </div>
 </div>
 <div id="hideweb3">
   <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/SDCCD/webd164/lessons/strand_homework-2.html" target="_blank">
     <div class="thumbnail">
-      <iframe src="https://strandian.com/SDCCD/webd164/lessons/strand_homework-2.html" onload="this.style.opacity = 1"></iframe>
+      <iframe sandbox src="https://strandian.com/SDCCD/webd164/lessons/strand_homework-2.html" onload="this.style.opacity = 1"></iframe>
     </div>
     </a> </div>
 </div>
+<br />
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
-
+Edit this project with CodePen:
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="ZEXyOEj" data-user="strandian" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/strandian/pen/ZEXyOEj">
   Calculator with JavaScript</a> by Ian Strand (<a href="https://codepen.io/strandian">@strandian</a>)

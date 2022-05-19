@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: Ian is a San Diego-based web developer and artist.
+subtitle: Ian is a San Diego-based web developer and artist. He has been designing and creating websites since 2016.
 img_path: images/about.jpg
 img_alt: Portrait of Ian Strand
 seo:
@@ -34,15 +34,18 @@ layout: page
 
 <div style="padding-bottom:0.5em;" markdown='1'>
 
-Ian Strand has been designing and creating websites since 2016. He also has more than five years of experience producing materials for print and online promotional purposes.
-
-#### Ian is experienced with UI / UX, responsive, and mobile-first design practices as well as cross-browser testing. 
+#### Ian is experienced with UI / UX, responsive, and mobile-first design practices as well as cross-browser testing.
 
 <div style="padding-top:0.6em; padding-bottom:1.5em;" markdown='1'>
-Ian also has a background in art and design &mdash; including digital and graphic design, and photography, and videography. Specific areas of focus in his studies have included abstract expressionist oil painting, experimental projection, and animation. 
+Ian has a background in art and design &mdash; including digital and graphic design, and photography, and videography. He also has more than five years of experience producing materials for print and online promotional purposes. Specific areas of focus in his studies have included abstract expressionist oil painting, experimental projection, and animation.
 </div>
 
 </div>
+
+### Contact
+Ian can be contacted at <a href="mailto:ian@ianstrand.com/" target="_blank">ian@ianstrand.com</a>.
+
+<br />
 
 ### Skills
 
@@ -140,7 +143,9 @@ Ian also has a background in art and design &mdash; including digital and graphi
 
 <hr />
 
-Ian has worked for the <a href="https://www.ljathenaeum.org/" target="_blank">Athenaeum Music & Arts Library</a> and <a href="https://www.facebook.com/Rollingifts/" target="_blank">Rolling Design</a>. He has also volunteered for the ACLU, the Veterans Village of San Diego, the San Diego County Young Democrats, and the San Diego International Film Festival, the North Coastal Art Gallery in a variety of creative and marketing roles.
+Ian currently works at <a href="https://www.rosemontmedia.com/" target="_blank">Rosemont Media</a> and has previously worked for the <a href="https://www.ljathenaeum.org/" target="_blank">Athenaeum Music & Arts Library</a> and <a href="https://www.facebook.com/Rollingifts/" target="_blank">Rolling Design</a>. He also has experience working in both creative nonprofit and web development fields as an independent contractor.
+
+Ian has volunteered for the ACLU, the Veterans Village of San Diego, the San Diego County Young Democrats, and the San Diego International Film Festival, the North Coastal Art Gallery in a variety of creative and marketing roles.
 
 </div>
 
@@ -150,11 +155,15 @@ Ian has worked for the <a href="https://www.ljathenaeum.org/" target="_blank">At
 
 <hr />
 
-##### Penny W. Stamps School Of Art & Design
+##### San Diego Mesa College
+Associate of Science, *Web Design*, expected 2023 <br/>
+Certificate of Achievement, *Web Design*, 2021
+
+##### Penny W. Stamps School Of Art & Design, University of Michigan
 Bachelor of Arts, *Art & Design*, 2017
 
 <!--
-+ Portfolio included specialties in oil painting, photography, digital animation, and experimental cinematography / projection. 
++ Portfolio included specialties in oil painting, photography, digital animation, and experimental cinematography / projection.
 + Participated in the Michigan International Internship and Service Program.
 + Completed photography coursework at the SACI College of Art & Design in Venice, Italy -->
 
@@ -162,11 +171,8 @@ Bachelor of Arts, *Art & Design*, 2017
 Bachelor of Arts, *Screen Arts & Cultures*, 2017
 
 <!--
-+ Enrolled in the Residential College Program and completed four years of French and Francophone studies. 
++ Enrolled in the Residential College Program and completed four years of French and Francophone studies.
 + Other areas of study included Anthropology and Computer Science. -->
-
-##### San Diego Miramar College
-Certificate of Achievement, *Web Design*, 2021
 
 <!--
 + Topics have covered usability, accessibility, and design principles. -->
@@ -180,7 +186,7 @@ Certificate of Achievement, *Web Design*, 2021
 <hr />
 
 **2016** <br/>
-TEDxUofM Chroma Gallery, Ann Arbor, MI 
+TEDxUofM Chroma Gallery, Ann Arbor, MI
 
 **2015** <br/>
 2.99e8 Gallery at Palmer Commons, University of Michigan, Ann Arbor, MI

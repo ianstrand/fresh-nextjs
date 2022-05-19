@@ -3,7 +3,7 @@ title: Sample Flexbox Blog
 project: true
 excerpt: >-
   A starter blog created with HTML and CSS.
-date: '2021-11-01'
+date: '2019-03-18'
 projectlink: https://strandian.com/SDCCD/webd165/finalproject/
 thumb_img_path: images/projects/10.jpg
 thumb_img_alt: Sample Flexbox Blog
@@ -42,41 +42,55 @@ layout: post
 ---
 
 ### A starter blog created with HTML and CSS.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
-
-<h4 align="center">
-Link to live example
-</h4>
+This is a simple, three-page blog created with flexbox and including a responsive sidebar.
+<br />
+<br />
+<h4 align="center"><a href="https://strandian.com/SDCCD/webd165/finalproject/" target="_blank">[Link to live example]</a></h4>
 <div id="hideweb1">
   <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/SDCCD/webd165/finalproject/" target="_blank">
     <div class="thumbnail">
-      <iframe src="https://strandian.com/SDCCD/webd165/finalproject/" onload="this.style.opacity = 1"></iframe>
+      <iframe sandbox src="https://strandian.com/SDCCD/webd165/finalproject/" onload="this.style.opacity = 1"></iframe>
     </div>
     </a> </div>
 </div>
 <div id="hideweb2">
   <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/SDCCD/webd165/finalproject/" target="_blank">
     <div class="thumbnail">
-      <iframe src="https://strandian.com/SDCCD/webd165/finalproject/" onload="this.style.opacity = 1"></iframe>
+      <iframe sandbox src="https://strandian.com/SDCCD/webd165/finalproject/" onload="this.style.opacity = 1"></iframe>
     </div>
     </a> </div>
 </div>
 <div id="hideweb3">
   <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/SDCCD/webd165/finalproject/" target="_blank">
     <div class="thumbnail">
-      <iframe src="https://strandian.com/SDCCD/webd165/finalproject/" onload="this.style.opacity = 1"></iframe>
+      <iframe sandbox src="https://strandian.com/SDCCD/webd165/finalproject/" onload="this.style.opacity = 1"></iframe>
     </div>
     </a> </div>
 </div>
+<br />
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
+<hr />
+To create the blog's design for this project, I created mockups up each of the website pages.
 
+<div align="center">
+<br />
+<img src="/images/projects/blog-1.jpg" alt="Mockup of Blog Home Page" style="width: 80%">
+<br />
+<br />
+
+<img src="/images/projects/blog-2.jpg" alt="Mockup of Blog About Page" style="width: 80%">
+<br />
+<br />
+
+<img src="/images/projects/blog-3.jpg" alt="Mockup of Blog Contact Page" style="width: 80%">
+</div>
+<!--
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="ZEXyOEj" data-user="strandian" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/strandian/pen/ZEXyOEj">
   Calculator with JavaScript</a> by Ian Strand (<a href="https://codepen.io/strandian">@strandian</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-
+</p> -->
+<br />
 <br />
 <br />
 <a class="button" href="/portfolio/">

@@ -146,12 +146,22 @@
       border: 0;
       color: inherit;
       font-weight: normal;
-  
+
       &:hover {
         color: _palette(accent);
       }
     }
   }
+}
+
+.menu-item:last-of-type {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.menu-item:last-of-type svg {
+  margin-right: 5px;
 }
 
 .social-links {
@@ -186,7 +196,7 @@
       height: 2em;
       line-height: 2em;
       width: 2em;
-  
+
       &:hover,
       &:focus,
       &:active {
