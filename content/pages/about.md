@@ -42,10 +42,10 @@ Ian has a background in art and design &mdash; including digital and graphic des
 
 </div>
 
-### Contact
+<!-- ### Contact
 Ian can be contacted at <a href="mailto:ian@ianstrand.com/" target="_blank">ian@ianstrand.com</a>.
 
-<br />
+<br /> -->
 
 ### Skills
 
