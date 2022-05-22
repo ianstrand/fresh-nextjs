@@ -57,6 +57,8 @@
   }
 }
 
-.two-col {
-  column-count: 2;
+@media only screen and (min-width: 600px) {
+  .two-col {
+    column-count: 2;
+  }
 }
