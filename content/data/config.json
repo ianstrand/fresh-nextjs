@@ -22,8 +22,13 @@
                 "style": "link"
             },
             {
-                "label": "about / contact",
+                "label": "about",
                 "url": "/about/",
+                "style": "link"
+            },
+            {
+                "label": "contact",
+                "url": "/contact/",
                 "style": "link"
             },
             {
