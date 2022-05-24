@@ -42,7 +42,7 @@ layout: post
 This is a sample website built with HTML, CSS, and PHP that requires the user to register and log in for full access.
 <br />
 <br />
-<h4 align="center"><a href="https://strandian.com/SDCCD/webd166/08/solutions/index.php" target="_blank">[Link to live example]</a></h4>
+<h4 align="center"><a href="https://strandian.com/SDCCD/webd166/08/solutions/index.php" target="_blank">[Link to Version 1]</a></h4>
 <div id="hideweb1">
   <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/SDCCD/webd166/08/solutions/index.php" target="_blank">
     <div class="thumbnail">
@@ -61,6 +61,30 @@ This is a sample website built with HTML, CSS, and PHP that requires the user to
   <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/SDCCD/webd166/08/solutions/index.php" target="_blank">
     <div class="thumbnail">
       <iframe sandbox src="https://strandian.com/SDCCD/webd166/08/solutions/index.php" onload="this.style.opacity = 1"></iframe>
+    </div>
+    </a> </div>
+</div>
+
+<br />
+<h4 align="center"><a href="https://strandian.com/SDCCD/webd166/11/solutions/index.php" target="_blank">[Link to Version 2]</a></h4>
+<div id="hideweb1">
+  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/SDCCD/webd166/11/solutions/index.php" target="_blank">
+    <div class="thumbnail">
+      <iframe sandbox src="https://strandian.com/SDCCD/webd166/11/solutions/index.php" onload="this.style.opacity = 1"></iframe>
+    </div>
+    </a> </div>
+</div>
+<div id="hideweb2">
+  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/SDCCD/webd166/11/solutions/index.php" target="_blank">
+    <div class="thumbnail">
+      <iframe sandbox src="https://strandian.com/SDCCD/webd166/11/solutions/index.php" onload="this.style.opacity = 1"></iframe>
+    </div>
+    </a> </div>
+</div>
+<div id="hideweb3">
+  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/SDCCD/webd166/11/solutions/index.php" target="_blank">
+    <div class="thumbnail">
+      <iframe sandbox src="https://strandian.com/SDCCD/webd166/11/solutions/index.php" onload="this.style.opacity = 1"></iframe>
     </div>
     </a> </div>
 </div>

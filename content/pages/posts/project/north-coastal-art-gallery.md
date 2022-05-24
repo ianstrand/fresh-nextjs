@@ -42,27 +42,15 @@ layout: post
 From 2018 to 2022, I acted as Webmaster for the North Coastal Art Gallery Website, regularly updating and adding to the site and communicating with other members of the Board of Directors. I also served as website Gatekeeper (organizing and preparing content) from November 2017 until the summer of 2018.
 <br />
 <br />
-<h4 align="center"><a href="https://northcoastalartgallery.com/" target="_blank">[Link to live example]</a></h4>
+<!-- <h4 align="center"><a href="https://northcoastalartgallery.com/" target="_blank">[Link to live example]</a></h4> -->
 <div id="hideweb1">
-  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://northcoastalartgallery.com/" target="_blank">
-    <div class="thumbnail">
-      <iframe sandbox src="https://northcoastalartgallery.com/" onload="this.style.opacity = 1"></iframe>
-    </div>
-    </a> </div>
+  <div class="thumbnail-container" title="Web Development Portfolio"><img src="/images/projects/coalwebsite.png" alt="North Coastal Art Gallery Website"> </div>
 </div>
 <div id="hideweb2">
-  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://northcoastalartgallery.com/" target="_blank">
-    <div class="thumbnail">
-      <iframe sandbox src="https://northcoastalartgallery.com/" onload="this.style.opacity = 1"></iframe>
-    </div>
-    </a> </div>
+  <div class="thumbnail-container" title="Web Development Portfolio"><img src="/images/projects/coalwebsite.png" alt="North Coastal Art Gallery Website"> </div>
 </div>
 <div id="hideweb3">
-  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://northcoastalartgallery.com/" target="_blank">
-    <div class="thumbnail">
-      <iframe sandbox src="https://northcoastalartgallery.com/" onload="this.style.opacity = 1"></iframe>
-    </div>
-    </a> </div>
+  <div class="thumbnail-container" title="Web Development Portfolio"><img src="/images/projects/coalwebsite.png" alt="North Coastal Art Gallery Website"> </div>
 </div>
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
