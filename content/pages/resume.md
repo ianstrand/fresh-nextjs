@@ -32,8 +32,6 @@ layout: page
 
 <div class="post-subtitle" style="margin-bottom: 1.66667rem;">Please review Ian's resume for a full list of his work experience. <a href="/docs/Ian Strand Resume.pdf" download="Ian Strand Resume.pdf" target="_blank">Click to download a PDF version.</a></div>
 
-<div class="text-center">
 <a href="/docs/Ian Strand Resume.pdf" download="Ian Strand Resume.pdf" target="_blank">
   <img class="sguide" alt="Ian Strand Resume" src="/images/Ian Strand Resume.png">
 </a>
-</div>
