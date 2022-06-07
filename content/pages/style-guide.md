@@ -1,6 +1,6 @@
 ---
 title: Style Guide
-# subtitle: 
+# subtitle:
 seo:
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles
@@ -34,7 +34,7 @@ layout: page
 
 <div class="post-subtitle" style="margin-bottom: 1.66667rem;">The style guide provides a blueprint of default post and page styles. <a href="/docs/Ian Strand Style Guide.pdf" download="Ian Strand Style Guide.pdf" target="_blank">Click to download a PDF version.</a></div>
 
-<div class="row">
+<div class="row text-center">
   <div class="column">
   <a href="/docs/Ian Strand Style Guide.pdf" download="Ian Strand Style Guide.pdf" target="_blank">
   <img class="sguide" alt="Ian Strand Style Guide" src="/images/style-guide/Ian Strand Style Guide1.jpg">
@@ -46,7 +46,7 @@ layout: page
 </a>
 </div>
 </div>
-<div class="row">
+<div class="row text-center">
   <div class="column">
   <a href="/docs/Ian Strand Style Guide.pdf" download="Ian Strand Style Guide.pdf" target="_blank">
   <img class="sguide" alt="Ian Strand Style Guide" src="/images/style-guide/Ian Strand Style Guide3.jpg">
@@ -58,7 +58,7 @@ layout: page
 </a>
 </div>
 </div>
-<div class="row">
+<div class="row text-center">
   <div class="column">
   <a href="/docs/Ian Strand Style Guide.pdf" download="Ian Strand Style Guide.pdf" target="_blank">
   <img class="sguide" alt="Ian Strand Style Guide" src="/images/style-guide/Ian Strand Style Guide5.jpg">
@@ -70,7 +70,7 @@ layout: page
 </a>
 </div>
 </div>
-<div class="row">
+<div class="row text-center">
   <div class="column">
   <a href="/docs/Ian Strand Style Guide.pdf" download="Ian Strand Style Guide.pdf" target="_blank">
   <img class="sguide" alt="Ian Strand Style Guide" src="/images/style-guide/Ian Strand Style Guide7.jpg">
@@ -82,7 +82,7 @@ layout: page
 </a>
 </div>
 </div>
-<div class="row">
+<div class="row text-center">
   <div class="column">
   <a href="/docs/Ian Strand Style Guide.pdf" download="Ian Strand Style Guide.pdf" target="_blank">
   <img class="sguide" alt="Ian Strand Style Guide" src="/images/style-guide/Ian Strand Style Guide9.jpg">
@@ -94,7 +94,7 @@ layout: page
 </a>
 </div>
 </div>
-<div class="row">
+<div class="row text-center">
   <div class="column">
   <a href="/docs/Ian Strand Style Guide.pdf" download="Ian Strand Style Guide.pdf" target="_blank">
   <img class="sguide" alt="Ian Strand Style Guide" src="/images/style-guide/Ian Strand Style Guide11.jpg">
@@ -106,7 +106,7 @@ layout: page
 </a>
 </div>
 </div>
-<div class="row">
+<div class="row text-center">
   <div class="column">
   <a href="/docs/Ian Strand Style Guide.pdf" download="Ian Strand Style Guide.pdf" target="_blank">
   <img class="sguide" alt="Ian Strand Style Guide" src="/images/style-guide/Ian Strand Style Guide13.jpg">
