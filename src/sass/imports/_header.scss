@@ -1,6 +1,12 @@
 /**
  * Site Header
  */
+
+.site-header-wrap {
+  display: flex;
+  align-items: center;
+}
+
 .site-header {
   background: #f9fafb;
   /*border-bottom: 1px solid _palette(border);*/
@@ -24,7 +30,7 @@
   display: flex;
   flex-basis: 100%;
   font-size: 1rem;
-  padding-top: 1.32em;
+  padding-top: 1.42em;
 }
 
 .site-logo {
