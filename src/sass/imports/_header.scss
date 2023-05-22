@@ -9,7 +9,9 @@
 
 .site-header-inside {
   /* padding-bottom: 1.11111em; */
-  padding-top: 1.11111em;
+  // padding-top: 1.11111em;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .site-branding {
@@ -19,7 +21,9 @@
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  flex-basis: 100%;
   font-size: 1rem;
+  padding-top: 1.32em;
 }
 
 .site-logo {
@@ -87,6 +91,7 @@
   bottom: 0;
   box-sizing: border-box;
   -webkit-overflow-scrolling: touch;
+  flex-basis: 100%;
   position: absolute;
   right: -100%;
   top: 0;
@@ -267,7 +272,7 @@
 
   .site-header-inside {
     /* padding-bottom: 3.33333em; */
-    padding-top: 3.33333em;
+    // padding-top: 3.33333em;
   }
 
   .site-branding {
