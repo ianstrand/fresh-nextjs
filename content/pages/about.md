@@ -156,7 +156,7 @@ Ian has volunteered for the ACLU, the Veterans Village of San Diego, the San Die
 <hr />
 
 ##### San Diego Mesa College
-Associate of Science, *Web Design*, 2023 <br/>
+Associate of Science, *Web Development*, 2023 <br/>
 Certificate of Achievement, *Web Design*, 2021
 
 ##### Penny W. Stamps School Of Art & Design, University of Michigan
