@@ -4,7 +4,7 @@ project: true
 excerpt: >-
   A sample WordPress site created with a custom theme.
 date: '2019-05-25'
-projectlink: https://strandian.com/SDCCD/webd169/final/
+projectlink: https://strandian.com/SDCCD/webd169/
 thumb_img_path: images/projects/7.jpg
 thumb_img_alt: A sample WordPress site created with a custom theme.
 content_img_path: images/projects/7.jpg
@@ -45,25 +45,25 @@ layout: post
 This is a WordPress blog that built on a local webserver, exported, and imported after setting up a hosting plan. I customized the theme and added shortcodes using a plugin.
 <br />
 <br />
-<h4 align="center"><a href="https://strandian.com/SDCCD/webd169/final/" target="_blank">[Link to live example]</a></h4>
+<h4 align="center"><a href="https://strandian.com/SDCCD/webd169/" target="_blank">[Link to live example]</a></h4>
 <div id="hideweb1">
-  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/SDCCD/webd169/final/" target="_blank">
+  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/SDCCD/webd169/" target="_blank">
     <div class="thumbnail">
-      <iframe sandbox src="https://strandian.com/SDCCD/webd169/final/" onload="this.style.opacity = 1"></iframe>
+      <iframe sandbox src="https://strandian.com/SDCCD/webd169/" onload="this.style.opacity = 1"></iframe>
     </div>
     </a> </div>
 </div>
 <div id="hideweb2">
-  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/SDCCD/webd169/final/" target="_blank">
+  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/SDCCD/webd169/" target="_blank">
     <div class="thumbnail">
-      <iframe sandbox src="https://strandian.com/SDCCD/webd169/final/" onload="this.style.opacity = 1"></iframe>
+      <iframe sandbox src="https://strandian.com/SDCCD/webd169/" onload="this.style.opacity = 1"></iframe>
     </div>
     </a> </div>
 </div>
 <div id="hideweb3">
-  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/SDCCD/webd169/final/" target="_blank">
+  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://strandian.com/SDCCD/webd169/" target="_blank">
     <div class="thumbnail">
-      <iframe sandbox src="https://strandian.com/SDCCD/webd169/final/" onload="this.style.opacity = 1"></iframe>
+      <iframe sandbox src="https://strandian.com/SDCCD/webd169/" onload="this.style.opacity = 1"></iframe>
     </div>
     </a> </div>
 </div>
