@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Artist Portfolio
+      value: Bio Hackr Health
     - name: 'twitter:description'
       value: >-
         Bio Hackr Health, Copyright © 2025 Rosemont Media. For this project, I collaborated with other agency staff to custom-build the initial website structure based on our existing development framework. This site has since been augmented further.
@@ -47,21 +47,21 @@ For this project, I collaborated with other agency staff to custom-build the ini
 <br />
 <h4 align="center"><a href="https://www.biohackr.health/" target="_blank">[Link to live example]</a></h4>
 <div id="hideweb1">
-  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://www.biohackr.health/" target="_blank">
+  <div class="thumbnail-container" title="Bio Hackr Health"><a href="https://www.biohackr.health/" target="_blank">
     <div class="thumbnail">
       <iframe sandbox src="https://www.biohackr.health/" onload="this.style.opacity = 1"></iframe>
     </div>
     </a> </div>
 </div>
 <div id="hideweb2">
-  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://www.biohackr.health/" target="_blank">
+  <div class="thumbnail-container" title="Bio Hackr Health"><a href="https://www.biohackr.health/" target="_blank">
     <div class="thumbnail">
       <iframe sandbox src="https://www.biohackr.health/" onload="this.style.opacity = 1"></iframe>
     </div>
     </a> </div>
 </div>
 <div id="hideweb3">
-  <div class="thumbnail-container" title="Web Development Portfolio"><a href="https://www.biohackr.health/" target="_blank">
+  <div class="thumbnail-container" title="Bio Hackr Health"><a href="https://www.biohackr.health/" target="_blank">
     <div class="thumbnail">
       <iframe sandbox src="https://www.biohackr.health/" onload="this.style.opacity = 1"></iframe>
     </div>
