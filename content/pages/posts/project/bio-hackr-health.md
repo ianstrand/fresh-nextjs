@@ -45,8 +45,9 @@ layout: post
 For this project, I collaborated with other agency staff to custom-build the initial website structure based on our existing development framework. This site has since been augmented further.
 <br />
 <br />
-<h4 align="center"><a href="https://www.rosemontmedia.com/website/clients/biohackr-health/" target="_blank">[Link to live example]</a></h4>
-<div id="hideweb1">
+<h4><a href="https://www.biohackr.health/" target="_blank">[Link to live example - biohackr.health]</a></h4>
+<h4><a href="https://www.rosemontmedia.com/website/clients/biohackr-health/" target="_blank">[Link to Rosemont Media Portfolio]</a></h4>
+<!-- <div id="hideweb1">
   <div class="thumbnail-container" title="Bio Hackr Health"><a href="https://www.rosemontmedia.com/website/clients/biohackr-health/" target="_blank">
     <div class="thumbnail">
       <iframe sandbox src="https://www.rosemontmedia.com/website/clients/biohackr-health/" onload="this.style.opacity = 1"></iframe>
@@ -66,7 +67,7 @@ For this project, I collaborated with other agency staff to custom-build the ini
       <iframe sandbox src="https://www.rosemontmedia.com/website/clients/biohackr-health/" onload="this.style.opacity = 1"></iframe>
     </div>
     </a> </div>
-</div>
+</div> -->
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
 
