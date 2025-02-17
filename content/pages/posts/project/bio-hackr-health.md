@@ -45,25 +45,25 @@ layout: post
 For this project, I collaborated with other agency staff to custom-build the initial website structure based on our existing development framework. This site has since been augmented further.
 <br />
 <br />
-<h4 align="center"><a href="https://biohackr.health/" target="_blank">[Link to live example]</a></h4>
+<h4 align="center"><a href="https://www.rosemontmedia.com/website/clients/biohackr-health/" target="_blank">[Link to live example]</a></h4>
 <div id="hideweb1">
-  <div class="thumbnail-container" title="Bio Hackr Health"><a href="https://biohackr.health/" target="_blank">
+  <div class="thumbnail-container" title="Bio Hackr Health"><a href="https://www.rosemontmedia.com/website/clients/biohackr-health/" target="_blank">
     <div class="thumbnail">
-      <iframe sandbox src="https://biohackr.health/" onload="this.style.opacity = 1"></iframe>
+      <iframe sandbox src="https://www.rosemontmedia.com/website/clients/biohackr-health/" onload="this.style.opacity = 1"></iframe>
     </div>
     </a> </div>
 </div>
 <div id="hideweb2">
-  <div class="thumbnail-container" title="Bio Hackr Health"><a href="https://biohackr.health/" target="_blank">
+  <div class="thumbnail-container" title="Bio Hackr Health"><a href="https://www.rosemontmedia.com/website/clients/biohackr-health/" target="_blank">
     <div class="thumbnail">
-      <iframe sandbox src="https://biohackr.health/" onload="this.style.opacity = 1"></iframe>
+      <iframe sandbox src="https://www.rosemontmedia.com/website/clients/biohackr-health/" onload="this.style.opacity = 1"></iframe>
     </div>
     </a> </div>
 </div>
 <div id="hideweb3">
-  <div class="thumbnail-container" title="Bio Hackr Health"><a href="https://biohackr.health/" target="_blank">
+  <div class="thumbnail-container" title="Bio Hackr Health"><a href="https://www.rosemontmedia.com/website/clients/biohackr-health/" target="_blank">
     <div class="thumbnail">
-      <iframe sandbox src="https://biohackr.health/" onload="this.style.opacity = 1"></iframe>
+      <iframe sandbox src="https://www.rosemontmedia.com/website/clients/biohackr-health/" onload="this.style.opacity = 1"></iframe>
     </div>
     </a> </div>
 </div>
