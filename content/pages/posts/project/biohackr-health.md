@@ -12,7 +12,7 @@ content_img_alt: Bio Hackr Health
 seo:
   title: Bio Hackr Health
   description: >-
-    Bio Hackr Health, Copyright © 2025 Rosemont Media. For this project, I collaborated with other agency staff to custom-build the initial website structure based on our existing development framework. This site has since been augmented further.
+    Bio Hackr Health, Copyright © 2025 Rosemont Media. For this project, I collaborated with other agency staff to custom-build the initial website structure based on our existing development framework. This site has since been augmented further by other staff.
   extra:
     - name: 'og:type'
       value: article
@@ -45,7 +45,7 @@ layout: post
 For this project, I collaborated with other agency staff to custom-build the initial website structure based on our existing development framework. This site has since been augmented further.
 <br />
 <br />
-<h4><a href="https://www.biohackr.health/" target="_blank">[Link to live example - biohackr.health]</a></h4>
+<h4><a href="https://www.biohackr.health/" target="_blank">[Link to Live Site - biohackr.health]</a></h4>
 <h4><a href="https://www.rosemontmedia.com/website/clients/biohackr-health/" target="_blank">[Link to Rosemont Media Portfolio]</a></h4>
 <!-- <div id="hideweb1">
   <div class="thumbnail-container" title="Bio Hackr Health"><a href="https://www.rosemontmedia.com/website/clients/biohackr-health/" target="_blank">
