@@ -45,7 +45,7 @@ layout: post
 For this project, I collaborated with other agency staff to custom-build the initial website structure based on our existing development framework. This site has continued to be updated by other staff.
 <br />
 <br />
-<h4><a href="https://www.dentistblainemn.com/" target="_blank">[Link to Live Site - kmpaesthetics.com]</a></h4>
+<h4><a href="https://www.dentistblainemn.com/" target="_blank">[Link to Live Site - dentistblainemn.com]</a></h4>
 <h4><a href="https://www.rosemontmedia.com/website/clients/legacy-dental-care/" target="_blank">[Link to Rosemont Media Portfolio]</a></h4>
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu ac tortor dignissim convallis. Enim lobortis scelerisque fermentum dui faucibus. Arcu bibendum at varius vel. In arcu cursus euismod quis viverra nibh cras pulvinar mattis.
